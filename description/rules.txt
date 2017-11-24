@@ -1,0 +1,19 @@
+English-language alphanumerics and emoji only.
+No more than 6 emotes and emoji (combined) per chat message.
+No excessive all-caps (the bot will warn you if you're pushing it).
+No usage of /me or baiting others into using /me.
+No alternate accounts, especially to evade bans and timeouts.
+No unattended or artificial-seeming game inputs.
+No copypasta.
+No NSFW links (fake or otherwise), or links to NSFW material.
+No botting or scripting unless exempted (see description).
+No incitement of torture of other people.
+No bypassing filters, limits or throttles (bypassing Twitch's "same message" throttle for commands is permitted).
+
+The following rules are for community moderators only:
+
+Do not violate any of the rules currently in place for other viewers.
+Moderators must not use their powers or influence for the unjust benefit of themselves or others. This includes manipulating slow mode, emote only, matchfixing, or banning betters. 
+Moderators must not deliberately throw matches.
+Moderators must not intentionally encourage or assist actions or conditions that would lead to the irreversible failure of a run, soft reset, starting of a new game, or deletion of a savefile. 
+Inputs during runs must not be faster than the current slow mode.
