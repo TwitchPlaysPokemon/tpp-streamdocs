@@ -1,0 +1,8 @@
+* [PBR Info Guide](https://docs.google.com/spreadsheets/d/1tLIOaxOXgi0zRWlskkAhgyVfUivdrMaYmSIcM0dFVW8/edit)
+* [Chat Logs](https://tpp.chat/) (credit to Keredau)
+* [PBR Leaderboard](https://twitchplayspokemon.tv/leaderboard)
+* [PBR Visualizer](http://chfoo.github.io/fogchamp/) (credit to chfoo)
+* [PBR Match Results](https://twitchplaysleaderboard.info/pbr/) (credit to Keredau)
+* [Save files from runs](https://www.dropbox.com/s/ul3orfb2xj0lpol/TPPSaves.zip)
+* [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs/) (credit to Keredau) 
+* [PBR Music playlist metadata file](https://paste.ee/r/TBxsY)
