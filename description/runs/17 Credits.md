@@ -53,6 +53,5 @@
 * Bexxxxxxx
 * Bryandagamer
 * Geforcefly
-* Renlev
 * Sobbingraxn
 * The_Chef1337
