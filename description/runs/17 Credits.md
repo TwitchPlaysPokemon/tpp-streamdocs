@@ -33,18 +33,19 @@
 
 ## PBR Moveset
 
+* 1in256miss
 * Addarash1
-* Beesafree
 * Chaos_lord2
 * Chauzu_VGC
 * DANIMG12
 * Egobuff
-* evolem
+* Evolem
+* LatersWolf
 * Nyam__
-* ProjectRevoTPP
 * Renlev
-* S2_wolf
+* RoyOurKing
 * Sandoz1
+* Shadowpuppet97
 
 ##Commentary Team
 
