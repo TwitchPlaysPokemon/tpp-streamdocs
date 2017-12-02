@@ -47,7 +47,7 @@
 * Sandoz1
 * Shadowpuppet97
 
-##Commentary Team
+## Commentary Team
 
 ### Commentary Admins
 
@@ -56,3 +56,10 @@
 * Geforcefly
 * Sobbingraxn
 * The_Chef1337
+
+## Sprites
+
+* Generation I - V sprites obtained from Veekun ([Link](https://veekun.com/dex/downloads))
+* Generation VI sprites obtained from PokéCommunity ([Link & Full Credits](https://www.pokecommunity.com/showthread.php?t=314422))
+* Generation VII sprites obtained from PokéCommunity ([Link & Full Credits](https://www.pokecommunity.com/showthread.php?t=368703))
+* Custom Pokémon sprites by Pioxys
