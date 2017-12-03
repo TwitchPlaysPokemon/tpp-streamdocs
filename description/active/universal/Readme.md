@@ -1,3 +1,4 @@
+* **09 Subscriber Emotes** - please remember to update this graphic if the sub emotes change!
 * These panels must be placed after **runs** or **pbr**, whichever is currently being played.
 * If a sidegame is being played, these must be placed after **sidegame**
 * Panels must be in the numbered order
