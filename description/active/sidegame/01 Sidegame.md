@@ -14,3 +14,7 @@ Available commands: *up, down, left, right, a, b, start*
 **Want your command to win?** Place a token bribe with */w tpp bribe [command]*
 
 **Feeling generous?** Put your tokens in the reward pot for sideagames and make it a token storm with */w tpp storm t[number of tokens]*
+
+**Tip:** Commands are not case sensitive - trying mixing it up!
+
+For example, typing *sEleCt* will have the same effect as *select*.
