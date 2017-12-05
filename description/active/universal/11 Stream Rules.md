@@ -2,11 +2,15 @@
 * No more than 6 emotes and emoji (combined) per chat message
 * No excessive all-caps (the bot will warn you if you're pushing it)
 * No usage of /me or baiting others into using /me
-* No alternate ('alt') accounts, especially to evade bans and timeouts
-* No unattended or artificial game inputs
-* No copypasta
+* No copypasta, spam or emote spam
 * No NSFW links (fake or otherwise), or links to NSFW material
-* Bots must follow bot-specific rules listed below
+* Use only one account at a time. Alternate accounts ('alts') are not allowed. If you want to switch to a different account, you can message a stream moderator
+* No racism, discrimination or hate speech
+* No harassment, bullying, slander, personal attacks or otherwise aggressive behaviour aimed at other players
+* No bypassing modbot
+* You might be asked by a moderator to stop in the case of toxicity, and timeouts for this may depend on severity and persistence
+* Failure to comply with a moderator’s warning will result in a timeout
+* No botting or seemingly artificial inputs, unless explicitly allowed by the bot-specific rules listed below
 
 ## Botting and scripting
 
