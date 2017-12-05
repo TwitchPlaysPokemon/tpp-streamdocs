@@ -9,3 +9,4 @@ Please install fonts before you start work!
 
 * All OW and menu sprites must be scaled to exactly 2x
 * Resample to Nearest Neighbour
+* Emotes must be the 112px versions scaled to 50% (in case on HDPI support later)
