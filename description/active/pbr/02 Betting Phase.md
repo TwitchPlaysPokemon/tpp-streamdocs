@@ -7,3 +7,5 @@ So if you want to place a P100 bet on Team Red, you would type: *!bet 100 red*
 * Your balance cannot drop below P100 (or P500 if you’re a subscriber)
 * Bets larger than P50,000 must be made before the 40 second mark
 * Bets larger than P5,000 must be made before the 20 second mark
+
+**Tip**: Ready to go with your gut?  If you bet early and your team wins, you'll get a bonus!  Win back up to 30% of your original wager if you bet within the first 40 seconds of the phase.  You'd better hurry though; your bonus decreases the later you bet.
