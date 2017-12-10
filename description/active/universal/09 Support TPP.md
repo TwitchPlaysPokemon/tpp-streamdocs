@@ -12,7 +12,6 @@ Subscriptions pay for the great hardware that allows TPP to be a 1080p60 stream,
 * P500 pokeyen minimum cap (up from P100)
 * Your own welcome message displayed on-stream when you log in
 * Access to exclusive Twitch Plays Pokémon emotes here and on any channel on Twitch
-* Single-emote on-screen chat messages shown during battles is 50% larger
 
 **Important:**  When you resubscribe, you **must** press the "Share" displayed at the top of the chat window for your message to be show and your tokens to be awarded.  If you forget, you may be back-paid any unclaimed tokens upon your next subscription.  Please contact a moderator if you have any issues.
 
