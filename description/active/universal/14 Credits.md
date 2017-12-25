@@ -1,19 +1,19 @@
 ## Core Development
 
-* **Aissurtievos** - streamer, administration, management, programming
-* **ProjectRevoTPP** - administration, management
+* **Chaos_lord2** - streamer, administration, management, programming
 * **FelkCraft** - administration, programming
 * **"TwitchPlaysPokemon"** - programming, original creator
-* **PikalaxALT** - ROM development, technical consultation
 * **asdf14396** - ROM development
 * **M4_used_Rollout** - programming, hosting
-* **s_SoNick** - previous host
-* **DekuNukem** - hardware and previous host
+* **DekuNukem** - hardware, previous host
+* **Aissurtievos** - hardware, former streamer
+* **1hlixed** - programming, PBR background
 * **Beesafree** - AI, matchmaker, programming, emotes
 * **Kazowar** - lua script for game status extraction
 * **Abyll** - patching Python websocket libraries to be py3 compatible
 * **Zeromus** - modifications to Bizhawk to get luasocket working
-* **LightningXCE** & **KipTheFlareon** - UI, static and motion graphics design
+* **LightningXCE** & **KipTheFlareon** - UI, branding, graphics design
+* **s_SoNick** - previous host
 
 **And more!** We have a wide variety of Stream Developers, ROM Developers, and ROM Testers who contribute heavily to TPP’s development and success, and we cannot thank them enough.
 
@@ -51,7 +51,6 @@
 
 ### Commentary Admins
 
-* Bexxxxxxx
 * Bryandagamer
 * Geforcefly
 * Sobbingraxn
