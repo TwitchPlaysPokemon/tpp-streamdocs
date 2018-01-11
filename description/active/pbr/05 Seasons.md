@@ -1,4 +1,4 @@
-**Current Season:** Season 7
+**Current Season:** Season 8
 
 See who's the very best!  Every few months, PBR begins a new season.  Do well in a season and get rewarded!
 
