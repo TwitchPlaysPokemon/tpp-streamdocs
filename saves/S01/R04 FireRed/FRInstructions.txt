@@ -1,0 +1,6 @@
+* Somehow obtain a copy of the Firered ROM (US, v1.1), and download a copy of the 1.5.0 version of the randomizer. Later versions may work, try at your own discretion. http://pokehacks.dabomstew.com/randomizer/downloads.php
+* In the randomizer program, load your Firered ROM, using the button labeled "Open ROM" in the upper-right hand corner of the window. The ROM Information section should say "Fire Red (U) 1.1". If it does not you have the wrong ROM. Do not touch the "Use Presets" button yet!
+* In the randomizer settings section, go down to the "Wild Pokemon" section, and check the "Random" button. This should unlock the Additional Rules section. In that section, click "Similar Strength". This works around the bug where config strings don't store the Additional Rule setting.
+* Now click the "Use Presets" button on the upper-right hand corner of the window, and use the config string "ByjECAAAAwAGAAKdIBoKCgUBEEZpcmUgUmVkIChVKSAxLjHXC5S0qgiGuaaeD2dh2fOw" together with either the seed 09700705725520 or 72158698966121.
+* In the Use Preset window, load the Firered ROM a second time, then click the "Apply Randomization Settings" button.
+* Choose a save location for the randomized ROM and enjoy~ <3
