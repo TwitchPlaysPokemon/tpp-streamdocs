@@ -1,3 +1,4 @@
-**active**: Currently active description panels, including PNG headers and MD text  
-**deprecated**: Old description panels that are no longer used  
-**PSD**: Source files for description panels in case modification is needed
+**active**: Currently active panels, including PNG headers and MD text  
+**inactive**: Panels which are not in use for the current runs but will be used for future runs  
+**deprecated**: Old panels that are no longer used  
+**PSD**: Source files for panel images in case modification is needed
