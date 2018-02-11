@@ -1,0 +1,63 @@
+Conversation between ProjectRevolutionTPP (@) and zeroroute (*) at www.reddit.com/3mm516 logged. It provides an in-depth explanation of any confusion had while implementing the file.
+
+@ path needs to be sd:\savegames\0001000052504245\GeniusPbr\PbrSaveData
+
+use Savegame Manager GX on Homebrew Channel to import the save.
+
+This basically lets you use Rental Pokemon for most pokemon just like Stadium 2 had it. PBR doesn't (by default) have rentals, so this save lets you have them. As tradition, uber pokemon are missing and you're stuck picking crappy ones.
+
+* Do I have to install this cIOS crap or will I just have to rip it and use Dolphin?
+
+@ You can use a real copy of PBR and just use an exploit to install Homebrew Channel (look up Bannerbomb for 4.3), run Savegame Manager GX, and install the save with the PbrSaveData in the filepath I mentioned.
+
+Savegame Manager GX just reads and writes to the Wii's NAND memory regardless of save protection. In this case it writes the save I provided to your Wii and thus you're able to use my savefile.
+
+* Which files do I download from here https://code.google.com/p/savegame-manager-gx/downloads/list ? Thanks in advance
+
+@ R127.dol
+
+rename to boot.dol and place in apps/savegamemanagergx/boot.dol
+
+* Is savegame manager picky about folder names or do I need to put the save as a bin file
+
+@ your path should look exactly like: sd:\savegames\0001000052504245\GeniusPbr\PbrSaveData
+
+the file you downloaded should have no extension, yes, it does require that specific number and filepath.
+
+Then open Savegame Manager GX and click on the icon at the top (USB icon) and select SD (at the top), select savegames folder down below and you should see the PBR icon. Select it and click install.
+
+* Do I put the file in a folder titled PbrSavedData? The file shows up as a "blank page" icon. I press A and it doesn't load it. 
+
+@ Ffff. Seriously. I have pointed it out. The file you download from my mega link is called PbrSaveData. It goes in the GeniusPbr folder. I could not have made it easier for you to understand.
+
+This is what it looks like on my end: http://i.imgur.com/s9yjw8C.png
+
+* I'm just as p'd as you are. Anyway I set it up exactly like you said and this is what I get http://puu.sh/ksYvT/12df70b28d.jpg I press A, and no dice
+
+@ Oh, I forgot. You must setup a save file via PBR first before you can overwrite it.
+
+Then export it once to the SD card using Savegame Manager GX (empty out savegames folder and export it to that folder), then overwrite PbrSaveData on the SD with the downloaded one.
+
+The app needs other files like banner.bin, which you don't have. Best to export it once to get it in the correct format.
+
+* I made a save and it won't show up at all in savegame manager. Should I give up
+
+@ You need to select "Wii" at the top of Savegame Manager GX (change it from SD to Wii) and then click the PBR icon and extract.
+
+After that's done, the files on your SD will have banner.bin and PbrSaveData. Replace PbrSaveData then check that location again on Savegame Manager GX and import.
+
+* Weird, the PBR icon shows up in my wii save files but not the manager. I thought save game manager could bypass copy protected saves
+
+@ it can, extract the PBR save from the Wii, then go onto your SD and overwrite PbrSaveData and reimport (from the SD).
+
+Wait, do you have cIOS249 installed? If not, you need to have it installed, because savegame manager loads it and bypasses copy protection for save files.
+
+Use https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip if you have internet on the Wii.
+
+* Some saves on the internal memory show up, excluding pbr.
+
+@ You need to have cIOS249 installed. Please install it with d2x CIOS installer (base 37 RV21006 is what I use).
+
+* Ok so installed that. Is there a certain way I boot into it before running savegame manager?
+
+@ It should just autoboot into said cIOS. The app, I mean.
