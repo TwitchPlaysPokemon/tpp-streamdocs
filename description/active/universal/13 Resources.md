@@ -1,4 +1,4 @@
-* [PBR Info Guide](https://docs.google.com/spreadsheets/d/1tLIOaxOXgi0zRWlskkAhgyVfUivdrMaYmSIcM0dFVW8/edit)
+* [PBR Info Guide](https://docs.google.com/spreadsheets/d/1Y37Yl348uS8cV3bhdxOHB2MbECcEP4SKUejgXrkl1ZU)
 * [Chat Logs](https://tpp.chat/) (credit to Keredau)
 * [PBR Leaderboard](https://twitchplayspokemon.tv/leaderboard)
 * [PBR Visualizer](http://chfoo.github.io/fogchamp/) (credit to chfoo)

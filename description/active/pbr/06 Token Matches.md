@@ -23,6 +23,6 @@ Chose from 1 of 10 Metasets for your battle: *adavnced, stadium 2, uber, runmons
 
 **Need something specific?** If a metaset has more than one moveset for a Pokémon, you can specify with a dash (*[pokemon]-[moveset],...*)
 
-Find out more about each metaset in the full [**full PBR Guide**](https://docs.google.com/spreadsheets/d/1tLIOaxOXgi0zRWlskkAhgyVfUivdrMaYmSIcM0dFVW8/edit#gid=1127521972).
+Find out more about each metaset in the [**full PBR Guide**](https://docs.google.com/spreadsheets/d/1Y37Yl348uS8cV3bhdxOHB2MbECcEP4SKUejgXrkl1ZU).
 
 Need some help?  You can use the [**TPP Visualizer**](http://chfoo.github.io/fogchamp) to build your matches! 
