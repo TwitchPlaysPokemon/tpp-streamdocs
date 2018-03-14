@@ -7,7 +7,7 @@ Subscriptions pay for the great hardware that allows TPP to be a 1080p60 stream,
 The longer you sub, the better the rewards!  With every Loyalty League advanced, you receive 5 tokens plus the number of your league.  Reach a maximum of League 15 and get 20 tokens per month!
 
 Tier 1: **$4.99**/mo & **Twitch Prime** - *+1 league per month*  
-Tier 2: **$9.99**/mo - *+2 leauges per month*  
+Tier 2: **$9.99**/mo - *+2 leagues per month*  
 Tier 3: **$24.99**/mo - *+5 leagues per month*  
 
 Check your league at any time by typing: */w tpp league*
