@@ -19,7 +19,8 @@ Want to add a unique spin on your token match?  Want something more than the def
 
 **Select a Metaset** by typing: */w tpp match [metaset] [blue team]/[red team] t[amount]*
 
-Chose from 1 of 10 Metasets for your battle: *adavnced, stadium 2, uber, runmons, luckmons, starters, seismic toss, KAPOW, rough skin, input war*
+Chose from 1 of 10 Metasets for your battle: *advanced, stadium2, ubers, runmons, luckmons, starters, seismictoss, KAPOW, roughskin, inputwar*
+
 
 **Need something specific?** If a metaset has more than one moveset for a Pokémon, you can specify with a dash (*[pokemon]-[moveset],...*)
 
