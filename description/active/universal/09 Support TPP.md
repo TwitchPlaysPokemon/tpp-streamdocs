@@ -4,11 +4,13 @@ Subscriptions pay for the great hardware that allows TPP to be a 1080p60 stream,
 
 ###[**Click here to subscribe!**](https://secure.twitch.tv/products/twitchplayspokemon)
 
-The longer you sub, the better the rewards!  With every rank advanced, you receive 5 tokens plus the number of your rank.  Reach a maximum of Rank 15 and get 20 tokens per month!
+The longer you sub, the better the rewards!  With every Loyalty League advanced, you receive 5 tokens plus the number of your league.  Reach a maximum of League 15 and get 20 tokens per month!
 
-Tier 1: **$4.99**/mo & **Twitch Prime** - *+1 rank per month*  
-Tier 2: **$9.99**/mo - *+2 ranks per month*  
-Tier 3: **$24.99**/mo - *+5 ranks per month*  
+Tier 1: **$4.99**/mo & **Twitch Prime** - *+1 league per month*  
+Tier 2: **$9.99**/mo - *+2 leauges per month*  
+Tier 3: **$24.99**/mo - *+5 leagues per month*  
+
+Check your league at any time by typing: */w tpp league*
 
 As well as tokens, all subscribers enjoy additional perks:
 
