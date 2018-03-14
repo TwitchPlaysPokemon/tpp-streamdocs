@@ -8,10 +8,11 @@
 * **DekuNukem** - hardware, former host
 * **Aissurtievos** - hardware, former streamer
 * **1hlixed** - programming, PBR background
+* **Ferraro** - programming
 * **Beesafree** - AI, matchmaker, programming, emotes
 * **Kazowar** - lua script for game status extraction
 * **LightningXCE** - ROM Development, UI, graphic design
-* **KipTheFlareon** - UI, branding, graphic design
+* **KipTheFlareon** - writer, UI, branding, graphic design
 
 ### Former Staff
 
