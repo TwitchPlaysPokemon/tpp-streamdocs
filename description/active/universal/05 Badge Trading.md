@@ -10,11 +10,11 @@ For example:
 
 */w tpp buybadge pikachu* to see the price of Pikachu badges being sold (if any).
 
-*/w tpp buybadge pikachu t5* to purchase one Pikachu badge for T5 tokens or less.
+*/w tpp buybadge 1 pikachu t5* to purchase one Pikachu badge for T5 tokens or less.
 
-*/w tpp buybadge pikachu t5 2* to purchase two Pikachu badges for T5 tokens or less each.
+*/w tpp buybadge 2 pikachu t5* to purchase two Pikachu badges for T5 tokens or less each.
 
-*/w tpp buybadge pikachu t5 7d* to place a buy offer for one Pikachu badge at T5 tokens or less, the offer expires in 7 days
+*/w tpp buybadge 1 pikachu t5 7d* to place a buy offer for one Pikachu badge at T5 tokens or less, the offer expires in 7 days
 
 */w tpp listbuybadge* to list all your offers to buy Pokémon badges.
 
@@ -24,9 +24,9 @@ For example:
 
 */w tpp sellbadge pikachu* to see buy offers for Pikachu badges.
 
-*/w tpp sellbadge pikachu t5* to sell your Pikachu badge for T5 tokens.
+*/w tpp sellbadge 1 pikachu t5* to sell your Pikachu badge for T5 tokens.
 
-*/w tpp sellbadge pikachu t5 2* to sell two of your Pikachu badge for T5 tokens each.
+*/w tpp sellbadge 2 pikachu t5* to sell two of your Pikachu badge for T5 tokens each.
 
 */w tpp listsellbadge* to list all your offers to sell Pokémon badges.
 
