@@ -1,1 +1,1 @@
-In Twitch Plays Pokemon (TPP), you can submit commands through the chat box and control a game of Pokémon Storm Silver!
+In Twitch Plays Pokemon (TPP), you can submit commands through the chat box and control a game of Pokémon Storm Silver, a mod of Pokémon SoulSilver by Drayano and team.
