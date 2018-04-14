@@ -1,1 +1,1 @@
-In Twitch Plays Pokemon (TPP), you can submit commands through the chat box and control two linked games at once: Pokémon Red and Pokémon Blue!
+In Twitch Plays Pokemon (TPP), you can submit commands through the chat box and control a game of Pokémon Storm Silver!
