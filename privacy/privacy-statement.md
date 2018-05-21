@@ -1,5 +1,6 @@
-#Twitch Plays Pokémon Privacy Statement
-###Version 1.0 - 21 May 2018
+# Twitch Plays Pokémon Privacy Statement
+
+### Version 1.0 - 21 May 2018
 
 Twitch Plays Pokémon (TPP) collects your Twitch public user ID when you watch or play.  This is your unique identifier on Twitch, made available via Twitch API, which is publicly available.  This data is necessary in order for you to interact with any aspect of our stream.  It enables you to input commands, keep track of your PokéYen, receive tokens and gain rewards like badges.  You will not be able to take part in TPP without it.
 
