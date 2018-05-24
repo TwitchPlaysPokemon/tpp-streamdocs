@@ -1,1 +1,3 @@
 In Twitch Plays Pokemon (TPP), you can submit commands through the chat box and control a game of Pokémon Storm Silver, a mod of Pokémon SoulSilver by Drayano and team.
+
+TPP collects and uses some of your data so you can play.  Find out what data we collect, how we collect it and what we use it for by reading [our privacy statement](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).
