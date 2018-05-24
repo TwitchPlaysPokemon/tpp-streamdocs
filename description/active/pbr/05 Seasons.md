@@ -1,5 +1,3 @@
-**Current Season:** Season 9
-
 See who's the very best!  Every few months, PBR begins a new season.  Do well in a season and get rewarded!
 
 * Have more than P2000 in the final leaderboard and get rewards
