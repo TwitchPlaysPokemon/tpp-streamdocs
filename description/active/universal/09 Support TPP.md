@@ -27,12 +27,12 @@ As well as tokens, all subscribers enjoy additional perks:
 
 ### Donations
 
-Can't subscribe monthly or want to make a one-off contribution?  You can donate to the Twitch Plays Pokemon channel using **Streamtip**! 
+Can't subscribe monthly or want to make a one-off contribution?  You can donate to the Twitch Plays Pokemon channel using **Streamlabs**! 
 
-[**Click here to donate!**](https://streamtip.com/t/twitchplayspokemon)
+[**Click here to donate!**](https://streamlabs.com/twitchplayspokemon)
 
 
-* $1.00 USD = 1 token
+* For every dollar you donate, you are rewarded with a token
 * Gain bonus tokens for breaking donation records
 * Display a message of your choice on-stream
 * Make emotes rain with your message
@@ -41,4 +41,4 @@ Can't subscribe monthly or want to make a one-off contribution?  You can donate 
 
 **Note:** If you send abusive or offensive messages, you risk having all your messages blocked in the future.
 
-In order to receive tokens you **must** use the same username as on Twitch, *unless* you have linked your Streamtip and Twitch accounts.
+In order to receive tokens you **must use the same username as on Twitch!**  You will not receive your tokens otherwise.
