@@ -1,4 +1,4 @@
-Bet tokens on Pokémon Pinball!
+Bet tokens on Pokémon Pinball Generations, featuring all-new Generation II themed boards and over 100 new Pokémon, all exclusive to TPP!
 
 **Join a game:** */w tpp pinball t[amount]*  
 
@@ -7,7 +7,7 @@ So, if you wanted to bet 3 tokens on the next game, you would type: */w tpp pinb
 **Check which table is next:** */w tpp pinball*
 
 * Flippers are controlled automatically
-* Red and Blue tables are played in sequence
+* Red, Blue, Gold & Silver tables are played in sequence
 * The higher the score, the higher the payout
 * Risk more tokens for larger prizes
 
@@ -15,7 +15,7 @@ So, if you wanted to bet 3 tokens on the next game, you would type: */w tpp pinb
 
 ## Payout Rates
 
-* Red Table: 38,000,000 points per payout multiplier
-* Blue Table: 52,000,000 points per payout multiplier
+* Red & Gold Tables: 26,000,000 points per payout multiplier
+* Blue & Silver Tables: 46,000,000 points per payout multiplier
 
 The number of points is set so that each table will have a payback percentage of approximately 100% over time.
