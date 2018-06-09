@@ -7,3 +7,5 @@ Available commands: *up, down, left, right, a, b, x, y, l, r start, select*
 For example, typing *sEleCt* will have the same effect as *select*.
 
 **Advanced Tip:** You can also use compass directions for precise movement: *n, e, s, w*
+
+Just want to farm some points?  Use: *exp*, *xp* or *p*
