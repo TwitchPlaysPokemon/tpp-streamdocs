@@ -13,6 +13,7 @@
 * **Kazowar** - lua script for game status extraction
 * **LightningXCE** - ROM Development, UI, graphic design
 * **KipTheFlareon** - writer, UI, branding, graphic design
+* **BEXXXXXXX** - PBR icons, former commentary lead
 
 ### Former Staff
 
