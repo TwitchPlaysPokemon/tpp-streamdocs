@@ -1,3 +1,5 @@
+[See our complete rules and guidelines here.](https://twitchplayspokemon.tv/rules)
+
 * English-language alphanumerics and emoji only
 * No more than 6 emotes and emoji (combined) per chat message
 * No excessive all-caps (the bot will warn you if you're pushing it)
@@ -11,6 +13,7 @@
 * You might be asked by a moderator to stop in the case of toxicity, and timeouts for this may depend on severity and persistence
 * Failure to comply with a moderator’s warning will result in a timeout
 * No botting or seemingly artificial inputs, unless explicitly allowed by the bot-specific rules listed below
+* No match fixing
 
 ## Botting and scripting
 

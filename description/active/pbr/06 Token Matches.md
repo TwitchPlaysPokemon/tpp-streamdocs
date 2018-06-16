@@ -1,29 +1,16 @@
-Got a match you're dying to see?  Use your tokens and bid for your very own custom battles!  These are played out live on-stream on the hour.
+Got a match you're dying to see?  Use your tokens to bid for your very own custom matches!  These are played out live on-stream on the hour.
 
-**Bid for a match** by typing: */w tpp match [blue team]/[red team] t[amount]*
+All you need to know is in the mini-tutorial on token match bidding.  Get this by typing: */w tpp match help*
 
-During the break, each match will be assigned a codename and displayed on-stream.  If you spot a match you want to see, you can boost it with your own tokens.
+For example, type */w tpp match omastar,kabutops,aerodactyl/cradily,armaldo,milotic t3* to place a 3 token bid on that match.
+
+During the break each match is assigned a codename and displayed on-stream.  If you spot a match you want to see, you can boost it with your own tokens.
 
 **Boost a displayed match** by typing: */w tpp match [codename] t[amount]*
 
-* Choose Pokémon by name or by National Pokédex Number
-* Separate each Pokémon with commas
 * The match with the most tokens will be played on the hour
-* If you are outbid, your tokens will be returned to you 
+* If you are outbid, your tokens will be returned to you
 
-So, if you were to type */w tpp match omastar,kabutops,aerodactyl/cradily,armaldo,milotic t3*, you would place a 3 token bid on that battle to be played on the hour
+Want more info?  You can find all PBR's game modes and Pokémon sets in the [**PBR Guide**](https://docs.google.com/spreadsheets/d/1Y37Yl348uS8cV3bhdxOHB2MbECcEP4SKUejgXrkl1ZU).
 
-## Metasets
-
-Want to add a unique spin on your token match?  Want something more than the default movesets?  Fine-tune your battle with a metaset!
-
-**Select a Metaset** by typing: */w tpp match [metaset] [blue team]/[red team] t[amount]*
-
-Chose from 1 of 10 Metasets for your battle: *advanced, stadium2, ubers, runmons, luckmons, starters, seismictoss, KAPOW, roughskin, inputwar*
-
-
-**Need something specific?** If a metaset has more than one moveset for a Pokémon, you can specify with a dash (*[pokemon]-[moveset],...*)
-
-Find out more about each metaset in the [**full PBR Guide**](https://docs.google.com/spreadsheets/d/1Y37Yl348uS8cV3bhdxOHB2MbECcEP4SKUejgXrkl1ZU).
-
-Need some help?  You can use the [**TPP Visualizer**](http://chfoo.github.io/fogchamp) to build your matches! 
+You can also use the [**Visualizer**](http://chfoo.github.io/fogchamp) to build your matches!
