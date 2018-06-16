@@ -1,6 +1,6 @@
 Got a match you're dying to see?  Use your tokens to bid for your very own custom matches!  These are played out live on-stream on the hour.
 
-Whisper "match help" to tpp for a mini-tutorial on token match bidding.
+All you need to know is in the mini-tutorial on token match bidding.  Get this by typing: */w tpp match help*
 
 For example, type */w tpp match omastar,kabutops,aerodactyl/cradily,armaldo,milotic t3* to place a 3 token bid on that match.
 
