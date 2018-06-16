@@ -1,6 +1,6 @@
-**Place a bet** by typing: *!bet [amount] [team]*
+**Place a bet** by typing: *!bet [amount] [team]* or *!bet [percentage of your balance]% [team]*
 
-So if you want to place a P100 bet on Team Red, you would type: *!bet 100 red*
+So if you want to place a P100 bet on Team Red, simply type: *!bet 100 red*
 
 * Odds aren’t locked in until match phase
 * Your payout multiplier is displayed at the top as percentages - so if you bet on Team Red with a 50% multiplier, you’ll get 50% of your bet amount back on top of how much you bet!
