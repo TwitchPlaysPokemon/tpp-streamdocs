@@ -5,7 +5,7 @@ Combine your badges to generate new ones with transmutation!
 
 * Costs at least 1 token
 * Minimum 3 badges, maximum 20 badges
-* As of now, only Generation 1 and 2 badges can be transmutated
+* As of now, only Generation 1, 2 and 3 badges can be transmutated
 * Transmute will happen on-screen
 * Your new badge will be awarded to you in-chat
 * Both number of badges and rarity affect the outcome
