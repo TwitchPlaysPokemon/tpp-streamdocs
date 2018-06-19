@@ -3,7 +3,7 @@ Combine your badges to generate new ones with transmutation!
 **Transmute your badges** using: */w tpp transmute [badge], [badge], [badge], …, t1* 
 (separated by commas)
 
-* Costs at least 1 token
+* Costs exactly 1 token
 * Minimum 3 badges, maximum 20 badges
 * As of now, only Generation 1 and 2 badges can be transmutated
 * Transmute will happen on-screen
