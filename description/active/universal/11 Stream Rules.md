@@ -23,7 +23,6 @@ Permitted bot behaviours:
 
 * Scraping for information by querying *tpp* and processing the response
 * Processing messages said in chat and *#tpp*
-* Betting on matches using tokens (**pokeyen betting is not permitted**)
 * Trading badges
 
 Otherwise ask for permission first or your bot will be immediately banned.
