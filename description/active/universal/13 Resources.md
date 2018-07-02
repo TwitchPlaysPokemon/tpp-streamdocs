@@ -7,5 +7,5 @@
 * [TPP Save Files and Patches](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/tree/master/saves)
 * [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs/) (credit to Keredau) 
 * [PBR Music playlist metadata file](https://paste.ee/r/TBxsY)
-* [TPP's Twitter] (https://twitter.com/Twitch_Plays/)
-* [tppsimulator's Twitter] (https://twitter.com/tppsimulator)
+* [TPP's Twitter](https://twitter.com/Twitch_Plays/)
+* [tppsimulator's Twitter](https://twitter.com/tppsimulator)
