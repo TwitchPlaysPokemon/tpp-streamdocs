@@ -1,10 +1,10 @@
 During seasons, a game will be played on the side (the "sidegame").
 
-**Current game:** Pocket Monsters: Green (Pokémon Green Version)
+**Current game:** Pokémon Sweet
 
 Type into the chat box and press Enter to control the game.
 
-Available commands: *up, down, left, right, a, b, start*
+Available commands: *up, down, left, right, a, b, start, select, L, R*
 
 * Enter one command per match
 * Each command is voted on
