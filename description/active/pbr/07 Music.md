@@ -17,6 +17,10 @@ This lists the results with an ID number for each.
 
 Find a full list of music tracks on the [**Twitch Plays Leaderboard website**](https://twitchplaysleaderboard.info/pbr/songs/).
 
+Have some ideas for new music tracks? [**Submit your ideas here!**](https://twitchplayspokemon.tv/music_submission_form) 
+
+*Twitch login is required to submit tracks - see our [privacy statement](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md) for more details.*
+
 **Tip:** Any command after */w tpp song* can be written in any order!
 
 ## Additional song commands
