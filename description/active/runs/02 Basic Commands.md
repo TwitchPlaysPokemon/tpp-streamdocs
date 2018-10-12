@@ -1,8 +1,6 @@
 Commands correspond to the buttons on the console.  Type into the chat box and press Enter to control the game.
 
-Available commands: *up, down, left, right, a, b, x, y, L, R*
-
-Use the C-Pad to run: *cup, cdown, cleft, cright*
+Available commands: *up, down, left, right, a, b, start, select, L, R*
 
 **Tip:** Commands are not case sensitive - trying mixing it up!
 
