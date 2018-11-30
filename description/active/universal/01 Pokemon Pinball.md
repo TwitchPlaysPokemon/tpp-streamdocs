@@ -15,7 +15,7 @@ So, if you wanted to bet 3 tokens on the next game, you would type: */w tpp pinb
 
 ## Payout Rates
 
-* Red & Gold Tables: 22,000,000 points per payout multiplier
-* Blue & Silver Tables: 50,000,000 points per payout multiplier
+* Red & Gold Tables: 26,500,000 points per payout multiplier
+* Blue & Silver Tables: 40,500,000 points per payout multiplier
 
 The number of points is set so that each table will have a payback percentage of approximately 100% over time.
