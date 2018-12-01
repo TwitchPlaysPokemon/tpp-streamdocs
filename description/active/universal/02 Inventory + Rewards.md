@@ -14,6 +14,8 @@ Each item in your inventory is assigned an id number for easy usage.
 * **Chatter**: play text-to-speech of a random message from chat
 * *And more!*
 
+To learn about item trading, see the **ITEM TRADING** panel.
+
 **Buy/sell items** with: *buyitem, listbuyitem, cancelbuyitem, sellitem, listsellitem, cancelsellitem.*
 
 ## Earn rewards
