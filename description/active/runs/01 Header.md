@@ -1,3 +1,3 @@
-In Twitch Plays Pokemon (TPP), you can submit commands through the chat box and control a game of Pokémon Flora Sky, a fan-made mod of Pokémon Emerald by Poke-Mega.
+In Twitch Plays Pokemon (TPP), you can submit commands through the chat box and control a game of Pokémon Fused Crystal, a modification of Pokémon Crystal that randomises events and Pokémon!
 
 TPP collects and uses some of your data so you can play.  Find out what data we collect, how we collect it and what we use it for by reading [our privacy statement](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).
