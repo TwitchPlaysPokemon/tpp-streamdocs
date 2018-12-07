@@ -1,6 +1,5 @@
 [See our complete rules and guidelines here.](https://twitchplayspokemon.tv/rules)
 
-* **NO SPOILERS for Pokémon Let's Go until at least 1 week after release**, except those mentioned in promotional material.
 * English-language alphanumerics and emoji only
 * No more than 6 emotes and emoji (combined) per chat message
 * No excessive all-caps (the bot will warn you if you're pushing it)
