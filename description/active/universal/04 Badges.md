@@ -12,3 +12,5 @@ Manage badges with the TPP Bot!
 **See a badge's circulation:** */w tpp checkbadge [badge]*  
 **Check your Pokédex:** */w tpp pokedex*  
 **Check another player's Pokédex:** */w tpp pokedex [username]*
+
+To learn about badge trading, see the **BADGE TRADING** panel.
