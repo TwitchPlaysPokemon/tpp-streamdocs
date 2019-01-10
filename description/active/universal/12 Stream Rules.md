@@ -3,7 +3,7 @@
 * English-language alphanumerics and emoji only
 * No more than 6 emotes and emoji (combined) per chat message
 * No excessive all-caps (the bot will warn you if you're pushing it)
-* No usage of /me or baiting others into using /me
+* Excessive usage of /me will be considered spam, however reasonable usage of /me is permitted.
 * No copypasta, spam or emote spam
 * No NSFW links (fake or otherwise), or links to NSFW material
 * Use only one account at a time. Alternate accounts ('alts') are not allowed. If you want to switch to a different account, you can message a stream moderator
@@ -14,6 +14,7 @@
 * Failure to comply with a moderator’s warning will result in a timeout
 * No botting or seemingly artificial inputs, unless explicitly allowed by the bot-specific rules listed below
 * No match fixing
+* No impersonating bots
 
 ## Botting and scripting
 
