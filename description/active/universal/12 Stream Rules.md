@@ -1,34 +1,23 @@
-[See our complete rules and guidelines here.](https://twitchplayspokemon.tv/rules)
+[See our complete rules and guidelines here.](https://docs.google.com/document/d/1qKUs1m_YTXPdARMkWg3E4eM6igNNzXBRhR0ctaW7veI/edit?usp=sharing)
 
-* English-language alphanumerics and emoji only
-* No more than 6 emotes and emoji (combined) per chat message
-* No excessive all-caps (the bot will warn you if you're pushing it)
-* Excessive usage of /me will be considered spam, however reasonable usage of /me is permitted.
-* No copypasta, spam or emote spam
-* No NSFW links (fake or otherwise), or links to NSFW material
-* Use only one account at a time. Alternate accounts ('alts') are not allowed. If you want to switch to a different account, you can message a stream moderator
+* Don’t spam or flood chat (including with copypasta)
+* Don’t bypass modbot
 * No racism, discrimination or hate speech
-* No harassment, bullying, slander, personal attacks or otherwise aggressive behaviour aimed at other players
-* No bypassing modbot
-* You might be asked by a moderator to stop in the case of toxicity, and timeouts for this may depend on severity and persistence
+* No bullying, harassment or flaming at people
+* No NSFW links (fake or otherwise)
+* Don’t intentionally break the stream or the game being played
+* Bad plays, trolling and throwing games are allowed except in extreme circumstances
+* Do not use inputs to halt gameplay longterm
+* Don’t use multiple accounts at once, usage of other accounts is allowed under strict conditions (see the full rules for more information)
+* Don’t impersonate the bot in chat
+* Don’t evade bans or timeouts
 * Failure to comply with a moderator’s warning will result in a timeout
-* No botting or seemingly artificial inputs, unless explicitly allowed by the bot-specific rules listed below
-* No match fixing
-* No impersonating bots
+* No botting unless strictly adhering to the botting rules on the rules website
+* Please keep non-English conversations to a minimum as they cannot be reliably moderated
 
 ## Botting and scripting
 
-With some exceptions, there is to be no active participation in chat from bots. Passive and reactive botting, such as listening to chat and responding to whispers, is permitted.
-
-Permitted bot behaviours:
-
-* Scraping for information by querying *tpp* and processing the response
-* Processing messages said in chat and *#tpp*
-* Trading badges
-
-Otherwise ask for permission first or your bot will be immediately banned.
-
-**Bots are not permitted to use alternate accounts unless permission is given.**
+Please read the full rules for the rules that bots must follow in chat.
 
 ## tppsimulator
 
