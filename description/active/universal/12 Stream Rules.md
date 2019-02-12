@@ -21,4 +21,4 @@ Please read the full rules for the rules that bots must follow in chat.
 
 ## tppsimulator
 
-tppsimulator is an official TPP bot that takes random snippets from chat, puts them together into a message, and posts it into Twitch chat. It has permission to use */me*
+tppsimulator is an official TPP bot that takes random snippets from chat, puts them together into a message, and posts it into Twitch chat.
