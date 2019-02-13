@@ -17,6 +17,6 @@ Pioxys - Sprite work
 raining\_blood - Developer
 Tustin2121 - Additional Coding and Testing
 
-Thanks for 5 great years of Twitch Playes Pokémon!
+Thanks for 5 great years of Twitch Plays Pokémon!
 
 TPP collects and uses some of your data so you can play.  Find out what data we collect, how we collect it and what we use it for by reading [our privacy statement](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).
