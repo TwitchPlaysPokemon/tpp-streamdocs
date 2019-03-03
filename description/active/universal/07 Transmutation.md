@@ -1,12 +1,12 @@
-Combine your badges to generate new ones with transmutation!  
+Combine your Pokémon badges to generate new ones with transmutation!  
 
-**Transmute your badges** using: */w tpp transmute [badge], [badge], [badge], …, t1* 
-(separated by commas)
+## How to Transmute
+*/w tpp transmute [badge], [badge], [badge], …, t1*
 
-* Costs exactly 1 token
+* Costs exactly 1 token (no more, no less)
 * Minimum 3 badges, maximum 20 badges
-* As of now, only Generation 1, 2 and 3 badges can be transmutated
-* Transmute will happen on-screen
-* Your new badge will be awarded to you in-chat
+* All Generations of Pokémon can be transmuted
 * Both number of badges and rarity affect the outcome
-* Sacrifice less common badges for a greater chance of creating a rare badge!
+* Sacrifice less common badges for a greater chance of creating a higher rarity badge!
+* Transmute will happen on-screen
+* Your new badge will be awarded to you in chat and whispers
