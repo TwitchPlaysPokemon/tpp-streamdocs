@@ -2,7 +2,7 @@ Support our channel and keep us going!  Subscribe to Twitch Plays Pokémon from 
 
 Subscriptions pay for the great hardware that allows TPP to be a 1080p60 stream, and for great programmers, artists and designers so TPP can continue to develop and grow.
 
-###[**Click here to subscribe!**](https://secure.twitch.tv/products/twitchplayspokemon)
+[**Click here to subscribe!**](https://secure.twitch.tv/products/twitchplayspokemon)
 
 The longer you sub, the better the rewards!  With every Loyalty League advanced, you receive 2 * (5 + the number of your league) tokens.
 
@@ -26,16 +26,15 @@ As well as tokens, all subscribers enjoy additional perks:
 **Feeling generous?** If you gift a subscription to another player, you receive some bonus tokens for yourself, depending on the subscription tier!
 
 **Important:**  When you resubscribe, you **must** press the "Share" displayed at the top of the chat window for your message to be show and your tokens to be awarded.  If you forget, you may be back-paid any unclaimed tokens upon your next subscription.  Please contact a moderator if you have any issues.
+*****
+## Donations
 
-### Donations
-
-Can't subscribe monthly or want to make a one-off contribution?  You can donate to the Twitch Plays Pokemon channel using **Streamlabs**! 
+Can't subscribe monthly or want to make a one-off contribution?  You can donate to the Twitch Plays Pokémon channel using **Streamlabs**! 
 
 [**Click here to donate!**](https://streamlabs.com/twitchplayspokemon)
 
-
 * For every $0.50 you donate, you are rewarded with a token
-* Gain bonus tokens for breaking donation records
+* Gain bonus tokens for breaking donation records (more info below)
 * Display a message of your choice on-stream
 * Make emotes rain with your message
 * Use emotes from any channel on Twitch, even if you're not subscribed to them
@@ -44,3 +43,30 @@ Can't subscribe monthly or want to make a one-off contribution?  You can donate 
 **Note:** If you send abusive or offensive messages, you risk having all your messages blocked in the future.
 
 In order to receive tokens you **must use the same username as on Twitch!**  You will not receive your tokens otherwise.
+*****
+## Record Breaks
+
+Having the largest donation gives you a certain amount of tokens according to the record breaks within a specified time frame. 
+
+Each listed timing gives you the number of listed tokens, plus the previous timings broken.
+
+**+2 tokens for each listed**
+* 1 hour
+* 2 hours
+* 6 hours
+* 12 hours
+* 24 hours
+
+**+10 tokens for each listed**
+* 2 days
+* 3 days
+* 4 days
+* 5 days
+* 6 days
+
+**+20 tokens for each listed**
+* 7 days
+* 14 days
+* 30 days
+* 60 days
+* 90 days
