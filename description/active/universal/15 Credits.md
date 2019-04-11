@@ -1,72 +1,89 @@
-## Core Development
+Firstly, a huge thanks to our past staff, developers, and anyone else who has contributed to the stream either directly, or indirectly. Thank you for all you've done with your help to maintain and keep the stream running!
 
-* **Chaos_lord2** - streamer, administration, management, programming
-* **FelkCraft** - administration, programming
-* **"TwitchPlaysPokemon"** - programming, original creator
-* **asdf14396** - ROM development
-* **M4_used_Rollout** - programming, hosting, ROM development
-* **DekuNukem** - hardware, former host
-* **Aissurtievos** - hardware, former streamer
-* **1hlixed** - programming, PBR background
-* **Ferraro** - programming
-* **Beesafree** - AI, matchmaker, programming, emotes
-* **Kazowar** - lua script for game status extraction
-* **LightningXCE** - ROM Development, UI, graphic design
-* **KipTheFlareon** - writer, UI, branding, graphic design
-* **BEXXXXXXX** - PBR icons, former commentary lead
-
-### Former Staff
-
-* **s_SoNick** - former host
-* **PikalaxALT** - former ROM development, technical consultant
-* **Abyll** - patching Python websocket libraries to be py3 compatible
-* **Zeromus** - modifications to Bizhawk to get luasocket working
-* **ProjectRevoTPP** - former TPP PBR project manager, PBR developer
-
-**And more!** We have a wide variety of Stream Developers, ROM Developers, and ROM Testers who contribute heavily to TPP’s development and success, and we cannot thank them enough.
-
+## Stream Owners
+- Chaos_lord2 - **Current Streamer**
+- m4_used_rollout - **Host**
+- TwitchPlaysPokemon - **Original Streamer**
+*****
+## Mods
+- Chaos_lord2
+- Sandoz1
+- HonshouReimu
+- Its_Reyn_Time
+- mathfreak231
+- xxmoonlotusxx
+*****
+## Stream Developers
+- asdf14396
+- Chaos_lord2
+- chfoo
+- Felkcraft
+- ferraro
+- LittleToonCat
+- mathfreak231
+- Monstarules
+- red031000
+## Artists
+- AngelofSloths
+- BEXXXXXXX
+- GlaceonMyst
+- Mapper
+- Pioxys
+- Sev
+- tppTeiHard
+*****
+## ROM Developers
+- asdf14396
+- BloodlessNS
+- Charmybee99
+- KipTheFlareon
+- LightningXCE
+- PikalaxALT
+- m4_used_rollout
+- Monstarules
+*****
+## PBR Developers
+- Chaos_lord2
+- Felkcraft
+- ferraro
+## PBR Movesets
+- DANIMG12_
+- ferraro
+- Juicytoaster
+- Lavaseeker
+- Maiohneee
+- mathfreak231
+- MegaZard
+- rtrtrtrtrt
+- Sandoz1
+*****
 ## Music
-
-* [smashcustommusic.com](https://www.smashcustommusic.com/)
-* [Winamp](http://www.winamp.com/) + [Chipamp plugin bundle](http://www.chipamp.org/)
-* 1hlixed
-* Anon999999999999999999999
-* boombafunk
-* Egobuff
-* FelkCraft
-* Legtendga
-* MrReb3l
-* Ninjanitor
-* The_Chef1337
-
-## PBR Moveset
-
-* 1in256miss
-* Addarash1
-* Chaos_lord2
-* Chauzu_VGC
-* DANIMG12
-* Egobuff
-* Evolem
-* LatersWolf
-* Nyam__
-* Renlev
-* RoyOurKing
-* Sandoz1
-* Shadowpuppet97
-
-## Commentary Team
-
-### Commentary Admins
-
-* Bryandagamer
-* Geforcefly
-* Sobbingraxn
-* The_Chef1337
-
+- boombafunk
+- Legtendga
+- Ninjanitor
+- [smashcustommusic.com](https://www.smashcustommusic.com/)
+- [Winamp](http://www.winamp.com/) + [Chipamp plugin bundle](http://www.chipamp.org/)
+## Commentary
+- IronHammer - **Commentary Admin**
+- Dullagamer
+- Geforcefly
+- Monstarules
+- Nalaiscool
+- PokemonGod777
+- SingABrightSong
+*****
+## Description Updaters
+- evolem
+- KipTheFlareon
+- LightningXCE
+## Twitter Managers
+- Chaos_lord2
+- Sandoz1
+- Some1Funny
+*****
 ## Sprites
-
-* Generation I - V sprites obtained from Veekun ([Link](https://veekun.com/dex/downloads))
-* Generation VI sprites obtained from PokéCommunity ([Link & Full Credits](https://www.pokecommunity.com/showthread.php?t=314422))
-* Generation VII sprites obtained from PokéCommunity ([Link & Full Credits](https://www.pokecommunity.com/showthread.php?t=368703))
-* Custom Pokémon sprites by Pioxys
+- Generation I - IV Pokémon GIFs obtained from TilableToast ([Twitch Link](https://www.twitch.tv/tilabletoast))
+- Generation I - V sprites obtained from Veekun ([Link](https://veekun.com/dex/downloads))
+- Generation VI sprites obtained from PokéCommunity ([Link & Full Credits](https://www.pokecommunity.com/showthread.php?t=314422))
+- Generation VII sprites obtained from PokéCommunity ([Link & Full Credits](https://www.pokecommunity.com/showthread.php?t=368703))
+- Custom Pokémon sprites by Pioxys ([Twitch Link](https://www.twitch.tv/Pioxys))
