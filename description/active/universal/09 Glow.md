@@ -8,3 +8,5 @@ Stand out from the crowd!  Use your tokens to unlock a coloured outline around y
 * Yours forever - unlock now, set your glow as many times as you like
 
 Need help with finding the right hexcode?  [**Try mixing your colour here!**](https://www.w3schools.com/colors/colors_picker.asp)
+
+**Remove your glow** by typing either */w tpp removeglow* or */w tpp removesecondarycolor*
