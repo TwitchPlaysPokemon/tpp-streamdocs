@@ -52,7 +52,7 @@ Can use *>* for coordinates to drag the touchscreen (*0,0>100,100*). Aliases and
 
   Misc          | Coordinates
   ------------- | -------------
-  Switch        | 128,75
+  Switch        | 210,190
   Run           | 127,151
 
 ## FAQ
@@ -66,14 +66,19 @@ It's not neccesarry to use coordinates. The coordinates are mostly listed for co
 EXP is for your account's level. You gain EXP by inputting during runs and sidegames, along with betting during PBR.
 You can check your EXP in chat by typing `!exp`, or `/w tpp exp` to have the bot whisper you instead.
 
-### What are the `Bag` commands exactly?
+### What are the `Bag` and `Misc` inputs exactly?
 
+**Bag Commands**
 - Bag: Picks the `Bag` button in battle.
 - Reuse: Picks `Reuse` in the Bag to reuse the most recent item.
 - Heal: Picks `Heal` in the Bag to view healing items.
 - Status: Picks `Status` in the Bag to view status items.
 - Items: Picks `Battle Items` in the Bag to view battle items.
-- Throw: Picks `Throw` on a selected Poké Ball to throw. (Does not actually throw matches).
+- Throw: Picks `Throw` on a selected Poké Ball to throw.
+
+**Misc Commands**
+- Switch: Picks `Pokémon` in battle to switch Pokémon.
+- Run: Picks `Run` in battle to run from wild Pokémon.
 
 ### What is this (Volt White) RomHack?
 
