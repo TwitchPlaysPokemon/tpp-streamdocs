@@ -74,7 +74,7 @@ You can check your EXP in chat by typing `!exp`, or `/w tpp exp` to have the bot
 - Heal: Picks `Heal` in the Bag to view healing items.
 - Status: Picks `Status` in the Bag to view status items.
 - Items: Picks `Battle Items` in the Bag to view battle items.
-- Throw: Picks `Throw` on a selected Poké Ball to throw.
+- Throw: Picks `Poké Balls` in the Bag to view Poké Balls to throw.
 
 **Misc Commands**
 - Switch: Picks `Pokémon` in battle to switch Pokémon.
