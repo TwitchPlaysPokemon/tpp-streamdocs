@@ -64,9 +64,9 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - [smashcustommusic.com](https://www.smashcustommusic.com/)
 - [Winamp](http://www.winamp.com/) + [Chipamp plugin bundle](http://www.chipamp.org/)
 ## Commentary
-- IronHammer - **Commentary Admin**
-- Dullagamer
+- Dullagamer - **Commentary Admin**
 - Geforcefly
+- IronHammer
 - Monstarules
 - Nalaiscool
 - PokemonGod777
