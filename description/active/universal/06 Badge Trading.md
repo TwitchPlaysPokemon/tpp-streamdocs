@@ -2,7 +2,7 @@ Pokémon badges can be sold to and bought from others at a price in tokens you s
 
 [**Check out a detailed overview of the market here!**](https://twitchplaysleaderboard.info/badges/)
 
-**Trade badges** using: *buybadge*, *sellbadge*, *listbuybadge*, *listsellbadge*, *cancelsellbadge*, *cancelbuybadge*, *checkbadge*.
+**Trade badges** using: *buybadge*, *sellbadge*, *listbuybadge*, *listsellbadge*, *cancelsellbadge*, *cancelbuybadge*, *checkbadge*, *giftbadge*
 
 For example:
 
@@ -31,3 +31,7 @@ For example:
 */w tpp listsellbadge* (list all your offers to sell Pokémon badges)
 
 */w tpp cancelsellbadge pikachu* (stop selling all of your Pikachu badges)
+
+#### Gifting Pokémon badges
+
+*/w tpp giftbadge pikachu tppsimulator* (gift a Pikachu badge to the user tppsimulator)
