@@ -7,11 +7,12 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 *****
 ## Mods
 - Chaos_lord2
-- Sandoz1
 - HonshouReimu
 - Its_Reyn_Time
 - mathfreak231
 - xxmoonlotusxx
+- red031000
+- Sandoz1
 *****
 ## Stream Developers
 - asdf14396
