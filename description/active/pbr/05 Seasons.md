@@ -8,18 +8,14 @@ See who's the very best! Do well in a season to be rewarded!
 
 [**See the leaderboards for every season here.**](https://twitchplayspokemon.tv/leaderboard)
 *****
-## Seasons Schedule
+## Current Season
 
-* **February 22nd - March 2nd:** Bet bonuses will be capped to 20,000 pokeyen per match, regardless of actual percentage.
-* **March 2nd - March 11th:** Bet bonuses will be *severely* nerfed, but uncapped and have no other changes.
-* **March 11th:**  We will be going back to Burning Red to complete the remainder of the Sevii Islands post-game as an intermission!
-* **After Burning Red - March 22nd:** ***Defiance Doubles Week!*** Using whichever of the first 2 solutions gained the most positive reaction to control bet bonuses. In addition to being a solid block of defiance 4v4 doubles to test your "skills" this week, it should introduce many new fixes and gimmicks to PBR!
-* **March 22nd - March 31st:** Instead of bet bonuses, we will be having the tpp and tppsimulator bots placing large bets against each other every match, and using sever bet limits to encourage early betting.
-* **April 1st:** ***April Fools!***
-* **April 2nd - April 11th:** A second test with the betting bots, only this time instead of strict bet limits, there will be a bonus tied to the profit you win instead of your bet.
-* **April 12th:** Intermission before the next run.
-* **April 13th:** End of the currently planned PBR seasons, and the beginning of the ***Volt White*** run!
- 
-***Note:** All timings are subject to change due to potential development issues.*
+The current PBR season is the **26th** season. Doubles is now available without defiance! For its debut, the first 1/3 or so of this season will exclusively feature non-defiance doubles matches.
 
-[**See the in depth explanation of the current schedule here.**](https://www.reddit.com/r/twitchplayspokemon/comments/atnkd6/the_seasons_of_seasons_schedule_update_on/)
+New Gimmicks are included starting this season, including:
+* **Timed:** It's a 5 minute match! Tiebreaks: Least # fainted, then highest average % of HP remaining.
+* **Afflicted:** All Pokémon start the match with a random nonvolatile status condition. Freeze is excluded.
+* **Injured:** All Pokémon start the match at only 80% of their max HP.
+* **Multiple Languages:** The game, including announcer and in-game text, can now play German, French, Spanish, or Italian!
+
+[**See the in depth explanation and more features of the current season here.**](https://www.reddit.com/r/twitchplayspokemon/comments/bhc8c3/pbr_season_26_features/)
