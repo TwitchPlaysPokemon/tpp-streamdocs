@@ -1,9 +1,9 @@
 Firstly, a huge thanks to our past staff, developers, and anyone else who has contributed to the stream either directly, or indirectly. Thank you for all you've done with your help to maintain and keep the stream running!
 
 ## Stream Owners
+- TwitchPlaysPokemon - **Original Streamer, Creator, and Owner**
 - Chaos_lord2 - **Current Streamer**
 - m4_used_rollout - **Host**
-- TwitchPlaysPokemon - **Original Streamer**
 *****
 ## Mods
 - Chaos_lord2
