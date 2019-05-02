@@ -10,12 +10,6 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-The current PBR season is the **26th** season. Doubles is now available without defiance! For its debut, the first 1/3 or so of this season will exclusively feature non-defiance doubles matches.
+The current PBR season is the **27th** season. This season, every match has the hidden bets gimmick: all bets are hidden until the 30 second mark. Whisper betting is allowed, but not forced. Bet bonuses are based on bet, and are around 50% more than during the [Mini-Season 2](https://www.reddit.com/r/twitchplayspokemon/comments/awc3ja/miniseason_2_nerfed_bet_bonuses/) of the [Season of Seasons](https://www.reddit.com/r/twitchplayspokemon/comments/atnkd6/the_seasons_of_seasons_schedule_update_on/).
 
-New Gimmicks are included starting this season, including:
-* **Timed:** It's a 5 minute match! Tiebreaks: Least # fainted, then highest average % of HP remaining.
-* **Afflicted:** All Pokémon start the match with a random nonvolatile status condition. Freeze is excluded.
-* **Injured:** All Pokémon start the match at only 80% of their max HP.
-* **Multiple Languages:** The game, including announcer and in-game text, can now play German, French, Spanish, or Italian!
-
-[**See the in depth explanation and more features of the current season here.**](https://www.reddit.com/r/twitchplayspokemon/comments/bhc8c3/pbr_season_26_features/)
+[**See the current schedule for the current session of seasons here.**](https://www.reddit.com/r/twitchplayspokemon/comments/bhchph/season_schedule_the_tests_strike_back/)
