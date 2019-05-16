@@ -11,6 +11,6 @@ During the break each match is assigned a codename and displayed on-stream.  If 
 * The match with the most tokens will be played on the hour
 * If you are outbid, your tokens will be returned to you
 
-Want more info?  You can find all PBR's game modes and Pokémon sets in the [**PBR Guide**](https://docs.google.com/spreadsheets/d/1Y37Yl348uS8cV3bhdxOHB2MbECcEP4SKUejgXrkl1ZU).
+Want more info? You can find all PBR's game modes and Pokémon sets in the [**PBR Guide**](https://docs.google.com/spreadsheets/d/1Y37Yl348uS8cV3bhdxOHB2MbECcEP4SKUejgXrkl1ZU).
 
 You can also use the [**Visualizer**](http://chfoo.github.io/fogchamp) to build your matches!
