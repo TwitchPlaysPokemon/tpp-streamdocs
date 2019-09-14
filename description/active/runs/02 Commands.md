@@ -12,7 +12,7 @@ Valid inputs for this run are:
 - **B**: Release things from group (Alternate input: **Release**)
 - **X**: Join things nearby to group (Alternate input: **Join**)
 - **Y**: Dance with things nearby (Alternate input: **Dance**)
-- **Select**: Open Mind Menu (Alternate input: **Back**)
+- **Select**: Open Mind Menu (Alternate inputs: **Back**, **Mind**)
 - **L1**: Remove from group (Alternate inputs: **Remove**, **L**, **LB**)
 - **L2**: Descend (Alternate inputs: **Descend**, **LT**)
 - **L3**: Nothing
