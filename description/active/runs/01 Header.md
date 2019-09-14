@@ -1,6 +1,6 @@
 In Twitch Plays Pokémon (TPP), you can submit commands through the chat box and control the current game of **Everything**!
 
-**Everything**, obviously, is not a Pokémon title, but a short break from Pokémon titles. **Everything** will be played for 2 days, starting on September 14th at 00:00 UTC, and ending on September 16th at 00:00 UTC.
+**Everything**, obviously, is not a Pokémon title, but a short break from Pokémon titles. **Everything** will be played for 2 days, starting on September 14th at 00:00 UTC, and ending on September 16th at 04:00 UTC.
 
 **Everything** is an award-winning game in which you can be whatever you want, explore an immense, almost endless universe, and change the environment as you please, while the British philosopher Alan Watts narrates the adventure through Everything.
 
