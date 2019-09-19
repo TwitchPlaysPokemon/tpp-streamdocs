@@ -79,8 +79,8 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - Some1Funny
 *****
 ## Former Staff
-- Its_Reyn_Time (Moderator)
 - ferraro (Stream Developer, PBR Developer, PBR Moveset)
+- Its_Reyn_Time (Moderator)
 - PikalaxALT (Rom Developer)
 *****
 ## Sprites
