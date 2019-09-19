@@ -8,7 +8,6 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 ## Mods
 - Chaos_lord2
 - HonshouReimu
-- Its_Reyn_Time
 - mathfreak231
 - xxmoonlotusxx
 - red031000
@@ -19,7 +18,6 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - Chaos_lord2
 - chfoo
 - Felkcraft
-- ferraro
 - LittleToonCat
 - mathfreak231
 - Monstarules
@@ -39,17 +37,14 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - FrostedGeulleisia
 - KipTheFlareon
 - LightningXCE
-- PikalaxALT
 - m4_used_rollout
 - Monstarules
 *****
 ## PBR Developers
 - Chaos_lord2
 - Felkcraft
-- ferraro
 ## PBR Movesets
 - DANIMG12_
-- ferraro
 - Juicytoaster
 - Lavaseeker
 - Maiohneee
@@ -77,10 +72,16 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - evolem
 - KipTheFlareon
 - LightningXCE
+- WhatAboutGamingLive
 ## Twitter Managers
 - Chaos_lord2
 - Sandoz1
 - Some1Funny
+*****
+## Former Staff
+- Its_Reyn_Time (Moderator)
+- ferraro (Stream Developer, PBR Developer, PBR Moveset)
+- PikalaxALT (Rom Developer)
 *****
 ## Sprites
 - Generation I - IV Pokémon GIFs obtained from TilableToast ([Twitch Link](https://www.twitch.tv/tilabletoast))
