@@ -36,7 +36,7 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 ## ROM Developers
 - asdf14396
 - BloodlessNS
-- Charmybee99
+- FrostedGeulleisia
 - KipTheFlareon
 - LightningXCE
 - PikalaxALT
