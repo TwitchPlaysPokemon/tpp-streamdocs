@@ -9,12 +9,12 @@ Twitch Plays Pokémon collects your Twitch public user ID when you watch or play
 
 If you visit our companion website, https://twitchplayspokemon.tv, we will also log your IP address in our traffic logs, along with the page that was visited and the timestamp of the visit, as is common on the web. If you choose to log in to our website with your Twitch account, we will also log the Twitch public user ID associated with the visit.
 
-We collect this data to:
+**We collect this data to:**
 
-**1**) identify malicious traffic
-**2**) diagnose website and stream issues
-**3**) enforce stream rules over alternate account abuse
-**4**) verify an account holder during suspension appeals.
+- **1**) identify malicious traffic
+- **2**) diagnose website and stream issues
+- **3**) enforce stream rules over alternate account abuse
+- **4**) verify an account holder during suspension appeals.
 
 You do not need to log in to our companion website via Twitch in order to use our API or Leaderboard.
 
