@@ -47,6 +47,7 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - Chaos_lord2
 - Felkcraft
 - ferraro
+- red031000
 ## PBR Movesets
 - DANIMG12_
 - ferraro
