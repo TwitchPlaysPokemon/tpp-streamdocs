@@ -9,7 +9,13 @@ Valid inputs for this run are:
 
 ## Further explanation of commands
 **Crypt of the Necrodancer**
-- **Up, Down, Left, Right**: Movement (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
+- **Up, Down, Left, Right**: Movement (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**, **A, B, X, Y**)
+- **L1**: Use Bomb (Alternate inputs: **L**, **LB**)
+- **L2**: Reload/Throw Weapon (Alternate inputs: **LT**)
+- **L3**: Use Second Spell
+- **R1**: Use First Item (Alternate inputs: **R**, **RB**)
+- **R2**: Use Second Item/Swap Weapons (Alternate inputs: **RT**)
+- **R3**: Use First Spell
 
 **Untitled Goose Game**
 - **A**: Run (If held with a direction)
