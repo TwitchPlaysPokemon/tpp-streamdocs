@@ -8,22 +8,38 @@ Valid inputs for this run are:
 - **Directional inputs**: *Up, Down, Left, Right, Dup, DDown, DLeft, DRight, CUp, CDown, Cleft, CRight*
 
 ## Further explanation of commands
-- **A**: Think, Interact or Move Faster (If held with a direction)
-- **B**: Release things from group (Alternate input: **Release**)
-- **X**: Join things nearby to group (Alternate input: **Join**)
-- **Y**: Dance with things nearby (Alternate input: **Dance**)
-- **Select**: Open Mind Menu (Alternate inputs: **Back**, **Mind**)
-- **L1**: Remove from group (Alternate inputs: **Remove**, **L**, **LB**)
-- **L2**: Descend (Alternate inputs: **Descend**, **LT**)
-- **L3**: Nothing
-- **R1**: Add to group (Alternate inputs: **Add**, **R**, **RB**)
-- **R2**: Ascend (Alternate inputs: **Ascend**, **RT**)
-- **R3**: Sing: used to communicate with things similar to ours (Alternate input: **Sing**)
-- **DUp**: Scale Up (Alternate input: **DN**)
-- **DDown**: Scale Down, douple tap to reset to default scale (Alternate input: **DS**)
-- **DLeft**: Hold to change Flock type (Alternate inputs: **Flock**, **DW**)
-- **DRight**: Open Transform Menu, hold to open menu (Alternate inputs: **Transform**, **DE**)
-- **Up, Down, Left, Right**: Movement (Alternate inputs: **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
+**Crypt of the Necrodancer**
+- **Up, Down, Left, Right**: Movement (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
+
+**Untitled Goose Game**
+- **A**: Run (If held with a direction)
+- **B**: Grab
+- **X**: Honk
+- **Select**: To-Do List (Alternate inputs: **Back**)
+- **L1**: Zoom in (Alternate inputs: **L**, **LB**)
+- **L2**: Crouch (Alternate inputs: **LT**)
+- **R1**: Zoom out (Alternate inputs: **R**, **RB**)
+- **R2**: Flap (Alternate inputs: **RT**)
+- **Up, Down, Left, Right**: Movement (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
+
+**Flower**
+- **A**: Propel (Must be held)
+- **Select**: Pause Menu (Alternate inputs: **Back**)
+- **Up, Down, Left, Right**: Steer (Aim) (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
+
+**Goat Simulator**
+- **A**: Jump
+- **B**: Gymnastics
+- **X**: Lick
+- **Y**: Baah
+- **L1**: Slow Motion (Alternate inputs: **L**, **LB**)
+- **L2**: Special Action (Alternate inputs: **LT**)
+- **L3**: Toggle Walk/Run
+- **R1**: Ragdoll (Alternate inputs: **R**, **RB**)
+- **R2**: Attack (Alternate inputs: **RT**)
+- **DUp**: Zoom In (Alternate input: **DN**)
+- **DDown**: Zoom Out (Alternate input: **DS**)
+- **Up, Down, Left, Right**: Movement (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
 - **CUp, CDown, Cleft, CRight**: Look around (Alternate inputs: **RUp, RDown, RLeft, RRight**, **RN, RS, RW, RE**)
 
 ## Tips
