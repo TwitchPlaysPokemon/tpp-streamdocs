@@ -63,8 +63,7 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - boombafunk
 - Legtendga
 - Ninjanitor
-- [smashcustommusic.com](https://www.smashcustommusic.com/)
-- [Winamp](http://www.winamp.com/) + [Chipamp plugin bundle](http://www.chipamp.org/)
+- [Winamp](http://www.winamp.com/) + [vgmstream](https://github.com/losnoco/vgmstream)
 ## Commentary
 - Dullagamer - **Commentary Admin**
 - Geforcefly

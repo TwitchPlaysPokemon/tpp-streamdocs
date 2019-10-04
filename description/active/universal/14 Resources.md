@@ -7,7 +7,7 @@
 * [TPP API Documentation](https://twitchplayspokemon.tv/api_docs)
 * [Technical Badge Transmutation Documentation](https://twitchplayspokemon.tv/transmutation_calculations)
 * [TPP Save Files and Patches](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/tree/master/saves)
-* [PBR Music playlist metadata file](https://paste.ee/r/TBxsY)
+* [PBR Music Library - Github](https://github.com/TwitchPlaysPokemon/musicLibrary)
 * [tppsimulator's Twitter](https://twitter.com/tppsimulator)
 
 #### Community-run
