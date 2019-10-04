@@ -6,10 +6,12 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - m4_used_rollout - **Host**
 *****
 ## Mods
+- BoombaFunk
 - Chaos_lord2
 - HonshouReimu
 - Its_Reyn_Time
 - mathfreak231
+- RealSnackMan
 - red031000
 - Sandoz1
 - xxmoonlotusxx
