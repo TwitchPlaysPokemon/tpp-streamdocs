@@ -63,7 +63,7 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - boombafunk
 - Legtendga
 - Ninjanitor
-- [Winamp](http://www.winamp.com/) + [vgmstream](https://github.com/losnoco/vgmstream)
+- [Winamp **(v5.666)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
 ## Commentary
 - Dullagamer - **Commentary Admin**
 - Geforcefly
