@@ -1,7 +1,5 @@
 For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info.
 
-***Note:** All chat commands that display **/w tpp** may also be replaced by using **![command]** in regular chat. This applies for all sections.*
-
 ## Available Commands
 Valid commands for this run are:
 - **Button commands**: *A, B, X, Y, L, R*
@@ -35,8 +33,8 @@ Can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Aliases
 It's not necessary to use coordinates. The coordinates are mostly listed for convenience, you can simply press their respective button to activate the desired command.
 
 ## Tips
-- Commands are not case sensitive - you can mix it up! For example, *StArT* will have the same effect as *start*.
-- You can also use cardinal directions in replacement of regular directions: *n, e, s, w*
-- Up to 3 buttons can be pressed simultaneously: *b+up+l*
-- Commands ending in - are held until either one of those buttons is pressed again, or another held command is sent.
-- Just want to farm experience to level up (*/w tpp level*)? Use: *exp*, *xp,* or *p*
+- Commands are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
+- You can also use cardinal directions in replacement of regular directions: **n**, **e**, **s**, **w**
+- Up to 3 buttons can be pressed simultaneously: **b+up+l**
+- Commands ending in **-** are held longer.
+- Just want to farm experience to level up (**!level**)? Use: **exp**, **xp**, or **p**
