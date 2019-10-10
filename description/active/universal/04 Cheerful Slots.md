@@ -1,9 +1,9 @@
-Use cheers to build up the Cheerful Slots!
+Use **Cheers** to build up the **Cheerful Slots**!
 
-* Each cheer adds to the pot
-* Every 100 bits, a slot is played
-* Prizes are randomly awarded to active players
+- Each **Cheer** adds to the pot
+- Every **100 Bits**, a slot is played
+- Prizes are randomly awarded to active players
 
 ## Bit badges
 
-By donating Twitch bits to the stream in chat using cheer commands, you can obtain a bit badge on the stream showing what major amount of bits you have donated.
+By donating **Twitch Bits** to the stream in chat using **Cheer** commands, you can obtain a **Bit Badge** on stream showing what major amount of **Bits** you have donated.

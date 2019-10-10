@@ -16,56 +16,135 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - Sandoz1
 - xxmoonlotusxx
 *****
+## Stream Operators
+- asdf14396
+- Chaos_lord2
+- LittleToonCat
+- m4_used_rollout
+- red031000
+*****
 ## Stream Developers
+- 1hlixed
+- Abyll
+- Aissurtievos
 - asdf14396
 - Chaos_lord2
 - chfoo
+- dekuNukem/Twitch_Plays_3DS
 - Felkcraft
 - ferraro
+- Kazowar
+- KipTheFlareon
+- Kisox
 - LittleToonCat
+- m4_used_rollout
 - mathfreak231
 - Monstarules
+- nintendorpgamer
 - red031000
+- ProjectRevoTPP
+- so_ez4ence
+- Validusername16
+- Zeromus
+*****
+## Hardware Developers
+- Aissurtievos
+- dekuNukem/Twitch_Plays_3DS
+*****
 ## Artists
 - AngelofSloths
 - BEXXXXXXX
 - GlaceonMyst
+- Kelcyus
 - Mapper
+- MegamanOmega
+- nonsensicaldreamer
 - Pioxys
+- Rangi
 - Sev
+- Soma_ghost
+- Terderrer
 - tppTeiHard
+- Tustin2121
+- Xeogran
 *****
 ## ROM Developers
+- 1hlixed
+- Aissurtievos
 - asdf14396
+- Beesafree
 - BloodlessNS
+- Chaos_lord2
+- ChauzuVGC
+- Felkcraft
+- FrostedGeulleisia
+- KipTheFlareon
+- KoolboymanAdam
+- LightningXCE
+- luckytyphlosion
+- m4_used_rollout
+- Made_s
+- NieDzejkob
+- Monstarules
+- PikalaxALT
+- PokemonGod777
+- raining_blood
+- Rangi
+- StarsMmd
+- Tustin2121
+- Umericchi
+*****
+## Rom Testers
+- asdf14396
+- Cosmog
+- Faithfulforce
+- FelkCraft
 - FrostedGeulleisia
 - KipTheFlareon
 - LightningXCE
 - m4_used_rollout
-- Monstarules
-- PikalaxALT
+- Made_s
+- StarsMmd
+- Tustin2121
 *****
 ## PBR Developers
+- Beesafree
 - Chaos_lord2
 - Felkcraft
 - ferraro
+- Made_s
+- ProjectRevoTPP
 - red031000
+- StarsMmd
+- Validusername16
+*****
 ## PBR Movesets
+- 1in256miss
+- Addarash1
+- avtrs
+- Chaos_lord2
+- Chauzu_VGC
 - DANIMG12_
+- Egobuff
 - ferraro
 - Juicytoaster
 - Lavaseeker
 - Maiohneee
 - mathfreak231
 - MegaZard
-- rtrtrtrtrt
+- Renlev
 - Sandoz1
+- Shadowpuppet97
 *****
 ## Music
-- boombafunk
+- 1hlixed
+- BoombaFunk
+- Egobuff
+- FelkCraft
 - Legtendga
 - Ninjanitor
 - [Winamp **(v5.666)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
+*****
 ## Commentary
 - Dullagamer - **Commentary Admin**
 - Geforcefly
@@ -79,7 +158,9 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - KipTheFlareon
 - LightningXCE
 - WhatAboutGamingLive
+*****
 ## Twitter Managers
+- BEXXXXXXX
 - Chaos_lord2
 - Sandoz1
 - Some1Funny

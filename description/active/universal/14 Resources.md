@@ -20,4 +20,4 @@
 * [PBR Match Results](https://twitchplaysleaderboard.info/pbr/) (credit to Keredau)
 * [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs/) (credit to Keredau) 
 
-**Note:** Though the stream staff may interact with these community-run sites, they are not operated by the stream staff.  They have no influence or control over the resources listed in this section.  If you have any issues, please contact the staff running these sites.
+**Note:** Though the stream staff may interact with these community-run sites, they are not operated by the stream staff. They have no influence or control over the resources listed in this section. If you have any issues, please contact the staff running these sites.
