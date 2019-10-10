@@ -2,8 +2,8 @@ For questions about any **!** command, use **!help [command]** to be whispered b
 
 ## Available Commands
 Valid commands for this run are:
-- **Button commands**: *A, B, X, Y, L, R*
-- **Directional commands**: *Up, Down, Left, Right, Dup, DDown, DLeft, DRight, CUp, CDown, Cleft, CRight*
+- **Button commands**: **A, B, X, Y, L, R**
+- **Directional commands**: **Up, Down, Left, Right, Dup, DDown, DLeft, DRight, CUp, CDown, Cleft, CRight**
 
 ## Touchscreen Commands
 Can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Aliases and coordinates can be held down (**bag-**, **40,160-**), as well as combining them into to a regular command (**move1+a**, **315,50+a**). Touchscreen commands cannot combine with themselves.
