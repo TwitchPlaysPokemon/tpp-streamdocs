@@ -1,56 +1,42 @@
-For questions about any */w tpp* command, then use */w tpp help [command]* to be whispered by the bot for more info.
+For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info.
 
 ***Note:** All chat commands that display **/w tpp** may also be replaced by using **![command]** in regular chat. This applies for all sections.*
 
 ## Available Commands
-Valid inputs for this run are:
-- **Button inputs**: *A, B, X, Y, Select, L1, L2, L3, R1, R2, R3*
-- **Directional inputs**: *Up, Down, Left, Right, Dup, DDown, DLeft, DRight, CUp, CDown, Cleft, CRight*
+Valid commands for this run are:
+- **Button commands**: *A, B, X, Y, L, R*
+- **Directional commands**: *Up, Down, Left, Right, Dup, DDown, DLeft, DRight, CUp, CDown, Cleft, CRight*
 
-## Further explanation of commands
-**Crypt of the Necrodancer**
-- **Up, Down, Left, Right**: Movement (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**, **A, B, X, Y**)
-- **L1**: Use Bomb (Alternate inputs: **L**, **LB**)
-- **L2**: Reload/Throw Weapon (Alternate inputs: **LT**)
-- **L3**: Use Second Spell
-- **R1**: Use First Item (Alternate inputs: **R**, **RB**)
-- **R2**: Use Second Item/Swap Weapons (Alternate inputs: **RT**)
-- **R3**: Use First Spell
+## Touchscreen Commands
+Can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Aliases and coordinates can be held down (**bag-**, **40,160-**), as well as combining them into to a regular command (**move1+a**, **315,50+a**). Touchscreen commands cannot combine with themselves.
 
-**Untitled Goose Game**
-- **A**: Run (If held with a direction)
-- **B**: Grab
-- **X**: Honk
-- **Select**: To-Do List (Alternate inputs: **Back**)
-- **L1**: Zoom in (Alternate inputs: **L**, **LB**)
-- **L2**: Crouch (Alternate inputs: **LT**)
-- **R1**: Zoom out (Alternate inputs: **R**, **RB**)
-- **R2**: Flap (Alternate inputs: **RT**)
-- **Up, Down, Left, Right**: Movement (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
+- **Move1**: Picks the first move in the Fight menu (Alternate: **315,50**)
+- **Move2**: Picks the second move in the Fight menu (Alternate: **315,100**)
+- **Move3**: Picks the third move in the Fight menu (Alternate: **315,150**)
+- **Move4**: Picks the fourth move in the Fight menu (Alternate: **315,180**)
 
-**Flower**
-- **A**: Propel (Must be held)
-- **Select**: Pause Menu (Alternate inputs: **Back**)
-- **Up, Down, Left, Right**: Steer (Aim) (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
 
-**Goat Simulator**
-- **A**: Jump
-- **B**: Gymnastics
-- **X**: Lick
-- **Y**: Baah
-- **L1**: Slow Motion (Alternate inputs: **L**, **LB**)
-- **L2**: Special Action (Alternate inputs: **LT**)
-- **L3**: Toggle Walk/Run
-- **R1**: Ragdoll (Alternate inputs: **R**, **RB**)
-- **R2**: Attack (Alternate inputs: **RT**)
-- **DUp**: Zoom In (Alternate input: **DN**)
-- **DDown**: Zoom Out (Alternate input: **DS**)
-- **Up, Down, Left, Right**: Movement (Alternate inputs: **N, S, W, E**, **LUp, LDown, LLeft, LRight**, **LN, LS, LW, LE**)
-- **CUp, CDown, Cleft, CRight**: Look around (Alternate inputs: **RUp, RDown, RLeft, RRight**, **RN, RS, RW, RE**)
+
+- **Bag**: Picks the Bag button in battle. (Alternate: **40,160**)
+- **Run**: Picks Run in battle to run from wild Pokémon (Alternate: **130,200**)
+- **Switch**: Picks Pokémon in battle to switch Pokémon (Alternate: **20,80**)
+
+
+
+- **Poke1**: Picks first Pokémon in Pokémon selection menu (Alternate: **20,30**)
+- **Poke2**: Picks second Pokémon in Pokémon selection menu (Alternate: **20,60**)
+- **Poke3**: Picks third Pokémon in Pokémon selection menu (Alternate: **20,90**)
+- **Poke4**: Picks fourth Pokémon in Pokémon selection menu (Alternate: **20,120**)
+- **Poke5**: Picks fifth Pokémon in Pokémon selection menu (Alternate: **20,150**)
+- **Poke6**: Picks sixth Pokémon in Pokémon selection menu (Alternate: **20,180**)
+
+## Do I have to use the coordinates?
+
+It's not necessary to use coordinates. The coordinates are mostly listed for convenience, you can simply press their respective button to activate the desired command.
 
 ## Tips
 - Commands are not case sensitive - you can mix it up! For example, *StArT* will have the same effect as *start*.
 - You can also use cardinal directions in replacement of regular directions: *n, e, s, w*
 - Up to 3 buttons can be pressed simultaneously: *b+up+l*
-- Inputs ending in - are held until either one of those buttons is pressed again, or another held input is sent.
+- Commands ending in - are held until either one of those buttons is pressed again, or another held command is sent.
 - Just want to farm experience to level up (*/w tpp level*)? Use: *exp*, *xp,* or *p*
