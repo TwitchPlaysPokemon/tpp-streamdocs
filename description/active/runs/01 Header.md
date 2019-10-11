@@ -1,4 +1,4 @@
-In Twitch Plays Pokémon (TPP), you can submit commands through the chat box and control the current game of **Pokémon Ultra Moon Randomized**!
+In Twitch Plays Pokémon (TPP), you can submit commands through the chat box and control the current game of **Pokémon Randomized Ultra Moon**!
 
 **Credits for this run go to:**
 - FrostedGeulleisia - Run Manager, Run testing

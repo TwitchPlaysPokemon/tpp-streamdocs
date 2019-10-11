@@ -2,7 +2,7 @@ For questions about any **!** command, use **!help [command]** to be whispered b
 
 ## Available Commands
 Valid commands for this run are:
-- **Button commands**: **A, B, X, Y, L, R**
+- **Button commands**: **A, B, X, Y, L, R, ZL, ZR**
 - **Directional commands**: **Up, Down, Left, Right, Dup, DDown, DLeft, DRight, CUp, CDown, Cleft, CRight**
 
 ## Touchscreen Commands
