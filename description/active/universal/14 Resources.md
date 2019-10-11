@@ -18,6 +18,6 @@
 * [PBR Visualizer](https://mdolr.github.io/wolfie-2018-tppviz/page.html) (credit to avtrs)
 * [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp/) (credit to chfoo)
 * [PBR Match Results](https://twitchplaysleaderboard.info/pbr/) (credit to Keredau)
-* [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs/) (credit to Keredau) 
+* [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs/) (credit to Keredau)
 
 **Note:** Though the stream staff may interact with these community-run sites, they are not operated by the stream staff. They have no influence or control over the resources listed in this section. If you have any issues, please contact the staff running these sites.
