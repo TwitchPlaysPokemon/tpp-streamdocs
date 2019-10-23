@@ -1,3 +1,5 @@
+For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**.
+
 In **Twitch Plays Pokémon** (**TPP**), you can bet on and influence matches of **Pokémon Battle Revolution** (**PBR**) in chat!
 
 You have two currencies:

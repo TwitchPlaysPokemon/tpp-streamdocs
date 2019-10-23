@@ -10,4 +10,8 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-The current PBR season is the **33rd** season, a week long season, starting on October 4th at 01:00 UTC, and ending on October 11th 00:00 UTC, then there's another 1 day and 21 hours of **3DS Intermission**, that's happening until the start of the **Randomized Ultra Moon** run, scheduled to start on October 12th at 21:00 UTC! All matches, with the exception of **Token Matches**, are **Defiance** matches. There's an up to 10% bet bonus for all **Defiance** matches. Additionally, you can now create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
+The current PBR season is the **34th** season, a week long Halloween season, containing very spooky soundtrack, and sets custom tailored specifically for Halloween.
+This season starts on October 23rd at 13:00 UTC, and ends on October 31st at 00:00 UTC. This season will be running until our next short intermission.
+There's an up to 10% bet bonus for all **Defiance** matches, and an up to 40% bet bonus for all **Non-Defiance** matches. **Token Matches** don't have bet bonus.
+
+Additionally, you can now create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
