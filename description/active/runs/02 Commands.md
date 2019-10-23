@@ -1,4 +1,4 @@
-For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info.
+For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**
 
 ## Available Commands
 Valid commands for this run are:
