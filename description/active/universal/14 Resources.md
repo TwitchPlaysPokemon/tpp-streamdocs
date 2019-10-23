@@ -1,7 +1,7 @@
 #### Official
 
 * [Twitch Plays Pokémon Website](https://twitchplayspokemon.tv)
-* [TPP Twitter](https://twitter.com/Twitch_Plays/)
+* [TPP Twitter](https://twitter.com/Twitch_Plays)
 * [PBR Info Guide](https://docs.google.com/spreadsheets/d/1Y37Yl348uS8cV3bhdxOHB2MbECcEP4SKUejgXrkl1ZU)
 * [PBR Leaderboard](https://twitchplayspokemon.tv/leaderboard)
 * [TPP API Documentation](https://twitchplayspokemon.tv/api_docs)
@@ -12,12 +12,13 @@
 
 #### Community-run
 
-* [TPP Subreddit](https://reddit.com/r/twitchplayspokemon/) 
+* [TPP Subreddit](https://reddit.com/r/twitchplayspokemon) 
 * [TPP Discord Server](https://discord.gg/twitchplayspokemon)
-* [TPP Chat Logs](https://tpp.chat/) (credit to Keredau)
+* [TPP Chat Logs](https://tpp.chat) (credit to Keredau)
 * [PBR Visualizer](https://mdolr.github.io/wolfie-2018-tppviz/page.html) (credit to avtrs)
-* [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp/) (credit to chfoo)
-* [PBR Match Results](https://twitchplaysleaderboard.info/pbr/) (credit to Keredau)
-* [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs/) (credit to Keredau)
+* [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp) (credit to chfoo)
+* [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist) (credit to chfoo)
+* [PBR Match Results](https://twitchplaysleaderboard.info/pbr) (credit to Keredau)
+* [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs) (credit to Keredau)
 
 **Note:** Though the stream staff may interact with these community-run sites, they are not operated by the stream staff. They have no influence or control over the resources listed in this section. If you have any issues, please contact the staff running these sites.
