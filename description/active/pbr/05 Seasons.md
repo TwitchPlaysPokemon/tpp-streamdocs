@@ -10,8 +10,8 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-The current PBR season is the **34th** season, a week long Halloween season, containing very spooky soundtrack, and sets custom tailored specifically for Halloween.
-This season starts on October 23rd at 13:00 UTC, and ends on October 31st at 00:00 UTC. This season will be running until our next short intermission.
+The current PBR season is the **34th** season, the Halloween season, containing very spooky soundtrack, and sets custom tailored for Halloween.
+This season starts on October 23rd at 13:00 UTC, and ends on October 31st at 00:00 UTC. This season will be running until our next short intermission, then after that, there's another week of the Halloween season.
 There's an up to 10% bet bonus for all **Defiance** matches, and an up to 40% bet bonus for all **Non-Defiance** matches. **Token Matches** don't have bet bonus.
 
 Additionally, you can now create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
