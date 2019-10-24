@@ -1,5 +1,7 @@
 For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**.
 
+The stream clock is in the UTC timezone, you can use [this](https://time.is/UTC) to calculate your delay.
+
 In **Twitch Plays Pokémon** (**TPP**), you can bet on and influence matches of **Pokémon Battle Revolution** (**PBR**) in chat!
 
 You have two currencies:
