@@ -16,5 +16,3 @@ Want to know when **Trick or Treat House** starts in your timezone? [Click here]
 There's an up to 10% bet bonus for all **Defiance** matches, and an up to 50% bet bonus for all **Non-Defiance** matches. **Token Matches** don't have bet bonus.
 
 Additionally, you can now create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
-
-And with that we've finished RUM. Up next, we have some Witch Plays Pokémon Battle Revolution for a week before playing Trick or Treat House for Halloween. Countdown for that https://www.timeanddate.com/countdown/generic?iso=20191031T00&p0=1440&msg=Trick+Or+Treat+House&font=cursive&csz=1 . No word on the next run yet, but until then, keep spooky.
