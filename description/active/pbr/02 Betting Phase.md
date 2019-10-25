@@ -1,7 +1,9 @@
 **!bet [amount] [team]**, **!bet [percentage of your balance]% [team]** or **!bet all [team]**: Place a bet
 
 **!bet 100 red**: Place a P100 bet on Team Red
+
 **!bet 50% blue**: Bet half of your Pokéyen on Team Blue
+
 **!bet all red**: Bet all of your Pokéyen on Team Red
 
 * Odds aren't locked in until match phase

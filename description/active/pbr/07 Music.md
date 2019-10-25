@@ -25,7 +25,7 @@ Have some ideas for new music tracks? [**Submit your ideas here!**](https://twit
 
 ## Additional song commands
 
-**!song**: See the song currently playing
-**!song random**: See a random song
-**!song bids [phase]**: See the current song bids for each phase
-**!song random [phase] t[amount]**: Place a bid on a random song
+* **!song**: See the song currently playing
+* **!song random**: See a random song
+* **!song bids [phase]**: See the current song bids for each phase
+* **!song random [phase] t[amount]**: Place a bid on a random song
