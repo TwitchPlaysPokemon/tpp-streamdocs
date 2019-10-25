@@ -1,15 +1,15 @@
-Select moves and switch Pokémon using commands in-chat.  Moveslots are assigned letters, and Pokémon are assigned numbers.  The more you bet, the more influence your commands have!
+Select moves and switch Pokémon using commands in-chat. Moveslots are assigned letters, and Pokémon are assigned numbers. The more you bet, the more influence your commands have!
 
-**Select moves** by typing: *![letter]*
+**![letter]**: Choose a move
 
-To use the first move of your current Pokémon, you type: *!a*
+**!a**: Use the first move of your current Pokémon
 
-**Switch Pokémon** by typing: *![number]*
+**![number]**: Switch Pokémon
 
-To select the first Pokémon in your party, you type: *!1*
+**!1**: Select the first Pokémon in your party
 
-**Input in Doubles** by typing: *![move][target][move][target]*
+**![move][target][move][target]**: Input in Doubles
 
-To attack with the first move of **your upper Pokémon** onto the upper target and attack with the second move of **your lower Pokémon** onto the lower target, you type: *!aubl*
+**!aubl**: Attack with the first move of **your upper Pokémon** onto the upper target, and attack with the second move of **your lower Pokémon** onto the lower target
 
-You can **clear your preferences** by typing: *!-*
+**!-**: clear your preferences
