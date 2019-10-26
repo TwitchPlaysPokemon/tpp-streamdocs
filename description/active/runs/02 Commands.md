@@ -1,4 +1,4 @@
-For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**
+For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
 
 ## Available Commands
 Valid commands for this run are:
