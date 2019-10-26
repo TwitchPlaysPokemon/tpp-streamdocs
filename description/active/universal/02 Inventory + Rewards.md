@@ -20,4 +20,5 @@ Rewards include both tokens and items!
 - Randomly earn rewards through Cheerful Slots!
 
 To learn about item trading, see the **ITEM TRADING** panel.
+
 **Buy/sell items** with: **buyitem**, **listbuyitem**, **cancelbuyitem**, **sellitem**, **listsellitem**, **cancelsellitem**.

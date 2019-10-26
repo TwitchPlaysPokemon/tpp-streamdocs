@@ -1,4 +1,5 @@
 Got something to spare? See an item you desire? Items can be sold to and bought from others at a price in tokens you specify using chat commands.
+
 **Buy/sell items** with: **buyitem**, **listbuyitem**, **cancelbuyitem**, **sellitem**, **listsellitem**, **cancelsellitem**.
 
 ## Buying Items
