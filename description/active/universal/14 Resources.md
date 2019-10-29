@@ -20,5 +20,6 @@
 * [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist) (credit to chfoo)
 * [PBR Match Results](https://twitchplaysleaderboard.info/pbr) (credit to Keredau)
 * [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs) (credit to Keredau)
+* [TPP Badge Market Guide](https://docs.google.com/document/d/16wNZ4R-BZ3xSOsAJkk4vJmjAY2T35oOE4qJYQHdd68A) (credit to DrLector)
 
 **Note:** Though the stream staff may interact with these community-run sites, they are not operated by the stream staff. They have no influence or control over the resources listed in this section. If you have any issues, please contact the staff running these sites.
