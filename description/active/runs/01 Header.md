@@ -4,8 +4,6 @@ The stream clock is in the UTC timezone, you can use [this](https://time.is/UTC)
 
 In Twitch Plays Pokémon (TPP), you can submit commands through the chat box and control the current game of **Trick or Treat House**!, a hack based around the Trick House, but with custom made puzzles by the community.
 
-##### **PLEASE, SAVE OFTEN**
-
 **Credits for this run go to:**
 - Tustin2121 - Hack creator
 - The community - Level design
