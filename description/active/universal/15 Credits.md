@@ -102,8 +102,10 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - FrostedGeulleisia
 - KipTheFlareon
 - LightningXCE
+- mathfreak231
 - m4_used_rollout
 - Made_s
+- red031000
 - StarsMmd
 - Tustin2121
 - WhatAboutGamingLive
