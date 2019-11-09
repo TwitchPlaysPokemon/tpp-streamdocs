@@ -60,6 +60,7 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 - MegamanOmega
 - nonsensicaldreamer
 - Pioxys
+- raiikyuu
 - Rangi
 - Sev
 - Soma_ghost
