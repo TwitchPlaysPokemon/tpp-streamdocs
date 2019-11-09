@@ -19,7 +19,6 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 ## Stream Operators
 - asdf14396
 - Chaos_lord2
-- LittleToonCat
 - m4_used_rollout
 - red031000
 *****
