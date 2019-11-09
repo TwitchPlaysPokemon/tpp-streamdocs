@@ -10,12 +10,8 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-The current PBR season is the **34th** season, a two week long Halloween season, containing very spooky soundtrack, and sets custom tailored for this Halloween season.
-
-This season was resumed on November 1st at 07:00 UTC, and ends on November 8th at 21:00 UTC.
-
-Want to know when this season ends in your timezone? [Click here](https://www.timeanddate.com/countdown/generic?iso=20191108T21&p0=1440&msg=Season+34+end&font=cursive&csz=1) for a countdown!
-
-There's an up to 45% bet bonus for all matches.
-
-Additionally, you can now create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
+* The current PBR season is the **35th** season.
+* Betbots are back, TPP and TPPSimulator are betting 2500 on every match regardless of their balance! Yes, they can go in debt!
+* There's an up to 45% bet bonus.
+* There is an up to 1.5* multiplier available to the standard bonus, with that multiplier being tied to how much you input during a match.
+* Additionally, you can now create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
