@@ -1,4 +1,4 @@
-Firstly, a huge thanks to our past staff, developers, and anyone else who has contributed to the stream either directly, or indirectly. Thank you for all you've done with your help to maintain and keep the stream running!
+Firstly, a huge thanks to our former staff, developers, and anyone else who has contributed to the stream either directly, or indirectly. Thank you for all you've done with your help to maintain and keep the stream running!
 
 ## Stream Owners
 - TwitchPlaysPokemon - **Original Streamer, Creator, and Owner**
@@ -53,6 +53,7 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 ## Artists
 - AngelofSloths
 - BEXXXXXXX
+- Deadinsky
 - GlaceonMyst
 - Kelcyus
 - Mapper
@@ -97,6 +98,7 @@ Firstly, a huge thanks to our past staff, developers, and anyone else who has co
 ## Rom Testers
 - asdf14396
 - Cosmog
+- Deadinsky
 - Faithfulforce
 - FelkCraft
 - FrostedGeulleisia
