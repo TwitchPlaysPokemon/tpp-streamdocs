@@ -11,6 +11,7 @@ See who's the very best! Do well in a season to be rewarded!
 ## Current Season
 
 * The current PBR season is the **35th** season.
+* This season ends November 21st at 00:00 UTC. [Here's a countdown](https://www.timeanddate.com/countdown/generic?iso=20191121T00&p0=1440&msg=Season+35+End&font=cursive&csz=1) so you know when that is in your timezone.
 * Betbots are back, TPP and TPPSimulator are betting 2500 on every match regardless of their balance! Yes, they can go in debt!
 * There's an up to 45% bet bonus.
 * There is an up to 1.5* multiplier available to the standard bonus, with that multiplier being tied to how much you input during a match.
