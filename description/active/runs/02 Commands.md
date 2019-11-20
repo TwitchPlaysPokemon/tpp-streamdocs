@@ -4,8 +4,7 @@ For questions about any **!** command, use **!help [command]** to be whispered b
 Valid commands for this run are:
 - **Button commands**: **A, B, X, Y, L, R, ZL, ZR, Plus, Minus, LStick, RStick**
 - **Directional commands**: **Up, Down, Left, Right, DUp, DDown, DLeft, DRight, RUp, RDown, RLeft, RRight**
-
-You can use **LSpinL** or **RSpinL** to to spin counter-clockwise, and **LSpinR** or **RSpinR** to spin clockwise.
+- You can use **LSpinL** or **RSpinL** to to spin counter-clockwise, and **LSpinR** or **RSpinR** to spin clockwise.
 
 ## Touchscreen Commands
 You can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Coordinates can be held down (**40,160-**), as well as combining them into to a regular command (**315,50+a**). Touchscreen commands cannot combine with themselves.
