@@ -15,7 +15,6 @@
 * [TPP Subreddit](https://reddit.com/r/twitchplayspokemon) 
 * [TPP Discord Server](https://discord.gg/twitchplayspokemon)
 * [TPP Chat Logs](https://tpp.chat) (credit to Keredau)
-* [PBR Visualizer](https://mdolr.github.io/wolfie-2018-tppviz/page.html) (credit to avtrs)
 * [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp) (credit to chfoo)
 * [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist) (credit to chfoo)
 * [PBR Match Results](https://twitchplaysleaderboard.info/pbr) (credit to Keredau)

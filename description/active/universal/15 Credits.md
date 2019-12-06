@@ -77,7 +77,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - BloodlessNS
 - Chaos_lord2
 - ChauzuVGC
-- Felkcraft
 - FrostedGeulleisia
 - KipTheFlareon
 - KoolboymanAdam
@@ -100,7 +99,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Cosmog
 - Deadinsky
 - Faithfulforce
-- FelkCraft
 - FrostedGeulleisia
 - KipTheFlareon
 - LightningXCE
