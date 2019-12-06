@@ -1,10 +1,12 @@
-Stand out from the crowd! Use your **Tokens** to unlock a colored outline around your username to display on-stream.
+Stand out from the crowd!  Use your tokens to unlock a coloured outline around your username to display on-stream.
 
-- **!unlockglow**: Unlock your glow for a one-time fee of **1 Token**
-- **!setglow [color]**: Set your glow
-- **!removeglow**: Remove your glow
+**Unlock your glow** for a one-time fee of 1 token by typing: */w tpp unlockglow*
 
-Use any color Hexcode of your choosing!
-Yours forever - unlock now, set your glow as many times as you like!
+**Set your glow** by typing: */w tpp setglow [colour]*
 
-Need help with finding the right Hexcode? [**Try mixing your color here!**](https://www.w3schools.com/colors/colors_picker.asp)
+* Use any colour hexcode of your choosing
+* Yours forever - unlock now, set your glow as many times as you like
+
+Need help with finding the right hexcode?  [**Try mixing your colour here!**](https://www.w3schools.com/colors/colors_picker.asp)
+
+**Remove your glow** by typing either */w tpp removeglow* or */w tpp removesecondarycolor*

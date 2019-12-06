@@ -1,10 +1,10 @@
-Show your lineage! Your **Emblem** indicates how many **Runs** you've participated in, and the **Run** in which you joined!
+Show your lineage!  Your emblem indicates how many runs you've participated in, and the run in which you joined!
 
-- Your Emblem has two numbers: *Your first Run* | *Number of Runs*
-- Input at least once on a Run to earn the Emblem for it
-- Your Emblem is colored after your first Run, but you can change it
+* Your emblem has two numbers: *your first run* | *number of runs*
+* Input at least once on a run to earn the badge for it
+* Your emblem is coloured after your first run, but you can change it
 
-**!emblems**: List your Emblems  
-**!selectemblem [run number]**: Change your Emblem color
+**List your emblems:** */w tpp emblems*  
+**Change your emblem colour:** */w tpp selectemblem [run number]*
 
-**Note**: Due to incomplete logs a small percentage of people from the first Run did not get their Emblem for that Run.
+**Note:** Due to incomplete logs a small percentage of people from the first run did not get their emblem for that run.
