@@ -10,7 +10,7 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **37th** season, a season containing festive Christmas sets custom tailored for this holiday season.
+* The current PBR season is the **38th** season, a regular PBR season.
 * Betbots are betting in every match, except for Token matches.
 * There's an up to 45% bet bonus.
 * There is a 1.5× profit bonus available to the standard bonus.
