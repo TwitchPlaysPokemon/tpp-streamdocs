@@ -14,6 +14,7 @@
 - Failure to comply with a moderator's warning will result in a timeout
 - No botting unless strictly adhering to the botting rules on the rules website
 - Please keep non-English conversations to a minimum as they cannot be reliably moderated
+- [Appeal a ban here](https://docs.google.com/forms/d/e/1FAIpQLSdLHfwRf23UZ5NocNAvTVi7tv5vJxNKfpF4CsGEGB-uIMUYtg/viewform)
 
 ## Botting and scripting
 
