@@ -1,5 +1,7 @@
 For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
 
+Currently playing **Pokémon Red**.
+
 ## Available Commands
 Valid commands for Pokémon Red and Pokémon Crystal are:
 - **Button commands**: **A, B, Start, Select**
@@ -13,7 +15,7 @@ Valid commands for Pokémon Platinum are:
 - **Button commands**: **A, B, X, Y, L, R, Start, Select**
 - **Directional commands**: **Up, Down, Left, Right**
 
-Touchscreen Commands for Platinum are:
+Touchscreen Commands (Coordinates are subject to change without prior notice) for Pokémon Platinum are:
 - **Move1**: Picks the first move in the Fight menu (Alternate: **5,23**)
 - **Move2**: Picks the second move in the Fight menu (Alternate: **252,78**)
 - **Move3**: Picks the third move in the Fight menu (Alternate: **126,94**)
@@ -45,7 +47,7 @@ Valid commands for Pokémon Blaze Black 2 are:
 - **Button commands**: **A, B, X, Y, L, R, Start, Select**
 - **Directional commands**: **Up, Down, Left, Right**
 
-Touchscreen Commands for Blaze Black 2 are:
+Touchscreen Commands (Coordinates are subject to change without prior notice) for Blaze Black 2 are:
 - **Move1**: Picks the first move in the Fight menu (Alternate: **2,72**)
 - **Move2**: Picks the second move in the Fight menu (Alternate: **252,32**)
 - **Move3**: Picks the third move in the Fight menu (Alternate: **2,124**)
@@ -77,7 +79,7 @@ Valid commands for Pokémon X are:
 - **Button commands**: **A, B, X, Y, L, R, ZL, ZR**
 - **Directional commands**: **Up, Down, Left, Right, Dup, DDown, DLeft, DRight, CUp, CDown, Cleft, CRight**
 
-Touchscreen Commands for Blaze Black 2 are:
+Touchscreen Commands (Coordinates are subject to change without prior notice) for Pokémon X are:
 - **Move1**: Picks the first move in the Fight menu (Alternate: **10,90**)
 - **Move2**: Picks the second move in the Fight menu (Alternate: **310,90**)
 - **Move3**: Picks the third move in the Fight menu (Alternate: **10,159**)
@@ -93,7 +95,7 @@ Touchscreen Commands for Blaze Black 2 are:
 - **Items**: Opens the Items bag. (Alternate: **310,170**)
 - **Run**: Picks Run in battle to run from wild Pokémon (Alternate: **164,234**)
 - **Switch**: Picks Pokémon in battle to switch Pokémon (Alternate: **249,234**)
-- **Mega**: Mega evolve (Alternalte: **159,160**)
+- **Mega**: Mega evolve (Alternate: **159,160**)
 
 
 
