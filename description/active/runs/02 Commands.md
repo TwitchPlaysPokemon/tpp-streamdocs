@@ -1,9 +1,9 @@
 For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
 
-Currently playing **Pokémon Red**.
+Currently playing **Pokémon Crystal**.
 
 ## Available Commands
-Valid commands for Pokémon Red and Pokémon Crystal are:
+Valid commands for Pokémon Crystal are:
 - **Button commands**: **A, B, Start, Select**
 - **Directional commands**: **Up, Down, Left, Right**
 
