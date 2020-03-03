@@ -1,11 +1,8 @@
 For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
 
-Currently playing **Pokémon Crystal**.
+Currently playing GBA Roulette, Next run is **Pokémon Emerald**, starting 7 March 2020, at 01:00AM UTC. [Click here](https://www.timeanddate.com/countdown/generic?iso=20200307T01&p0=1440&msg=Gauntlet+Emerald&font=cursive&csz=1) for a countdown and conversion to your timezone.
 
 ## Available Commands
-Valid commands for Pokémon Crystal are:
-- **Button commands**: **A, B, Start, Select**
-- **Directional commands**: **Up, Down, Left, Right**
 
 Valid commands for Pokémon Emerald are:
 - **Button commands**: **A, B, L, R, Start, Select**
