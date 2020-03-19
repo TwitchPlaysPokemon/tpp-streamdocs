@@ -1,6 +1,6 @@
 For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
 
-Currently playing **Pokémon Emerald**.
+Currently playing **Touhoumon Revisit** as intermission, Next run is **Pokémon Platinum**, starting 28 March 2020 04:00 UTC. [Click here](https://www.timeanddate.com/countdown/generic?iso=20200328T04&p0=%3A&font=cursive) for a countdown and conversion to your timezone.
 
 ## Available Commands
 
