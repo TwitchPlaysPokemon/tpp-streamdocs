@@ -12,8 +12,10 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Its_Reyn_Time
 - mathfreak231
 - RealSnackMan
+- Rjri
 - red031000
 - Sandoz1
+- SinR2014
 - xxmoonlotusxx
 *****
 ## Stream Operators
@@ -29,6 +31,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - asdf14396
 - Chaos_lord2
 - chfoo
+- Cosmog
 - dekuNukem/Twitch_Plays_3DS
 - Felkcraft
 - ferraro
@@ -54,10 +57,12 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - AngelofSloths
 - BEXXXXXXX
 - Deadinsky
+- Cosmog
 - GlaceonMyst
 - Kelcyus
 - Mapper
 - MegamanOmega
+- Moonbyes
 - nonsensicaldreamer
 - Pioxys
 - raiikyuu
