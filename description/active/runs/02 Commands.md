@@ -4,7 +4,7 @@ Currently playing **Touhoumon Revisit** as intermission, Next run is **Pokémon 
 
 ## Available Commands
 
-Valid commands for Pokémon Emerald are:
+Valid commands for Touhoumon are:
 - **Button commands**: **A, B, L, R, Start, Select**
 - **Directional commands**: **Up, Down, Left, Right**
 
