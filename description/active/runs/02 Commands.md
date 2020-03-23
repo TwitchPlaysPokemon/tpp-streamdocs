@@ -1,12 +1,11 @@
 For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
 
-Currently playing **Touhoumon Revisit** as intermission, Next run is **Pokémon Platinum**, starting 28 March 2020 04:00 UTC. [Click here](https://www.timeanddate.com/countdown/generic?iso=20200328T04&p0=%3A&font=cursive) for a countdown and conversion to your timezone.
+Currently playing a few DS games as intermission, Next run is **Pokémon Platinum**, starting 28 March 2020 04:00 UTC. [Click here](https://www.timeanddate.com/countdown/generic?iso=20200328T04&p0=%3A&font=cursive) for a countdown and conversion to your timezone.
+
+## Touchscreen Commands
+You can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Aliases and coordinates can be held down (**bag-**, **40,160-**), as well as combining them into to a regular command (**move1+a**, **315,50+a**). Touchscreen commands cannot combine with themselves. The [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist), made by Chfoo, can be used to make tapping in specific places of the screen easier, instead of having to type out the coordinates.
 
 ## Available Commands
-
-Valid commands for Touhoumon are:
-- **Button commands**: **A, B, L, R, Start, Select**
-- **Directional commands**: **Up, Down, Left, Right**
 
 Valid commands for Pokémon Platinum are:
 - **Button commands**: **A, B, X, Y, L, R, Start, Select**
@@ -102,9 +101,6 @@ Touchscreen Commands (Coordinates are subject to change without prior notice) fo
 - **Poke4**: Picks fourth Pokémon in Pokémon selection menu (Alternate: **310,80**)
 - **Poke5**: Picks fifth Pokémon in Pokémon selection menu (Alternate: **5,159**)
 - **Poke6**: Picks sixth Pokémon in Pokémon selection menu (Alternate: **310,178**)
-
-## Touchscreen Commands
-Can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Aliases and coordinates can be held down (**bag-**, **40,160-**), as well as combining them into to a regular command (**move1+a**, **315,50+a**). Touchscreen commands cannot combine with themselves.
 
 ## Tips
 - Commands are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
