@@ -22,7 +22,7 @@ Touchscreen Commands (Coordinates are subject to change without prior notice) fo
 - **Bag**: Picks the Bag button in battle. (Alternate: **4,190**)
 - **Reuse**: Reuses last used item in battle. (Alternate: **38,189**)
 - **Heal**: Opens the Healing bag. (Alternate: **1,46**)
-- **Balls**: Opens the Balls bag. (Alternate: **250,7**)
+- **Throw**: Opens the Balls bag. (Alternate: **250,7**)
 - **Status**: Opens the Status bag. (Alternate: **0,116**)
 - **Items**: Opens the Items bag. (Alternate: **253,80**)
 - **Run**: Picks Run in battle to run from wild Pokémon (Alternate: **111,190**)
