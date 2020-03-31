@@ -9,18 +9,19 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - BoombaFunk
 - Chaos_lord2
 - HonshouReimu
-- Its_Reyn_Time
 - mathfreak231
 - RealSnackMan
-- Rjri
 - red031000
+- Rjri
 - Sandoz1
 - SinR2014
 - xxmoonlotusxx
 *****
 ## Stream Operators
+- Aissurtievos
 - asdf14396
 - Chaos_lord2
+- FelkCraft
 - m4_used_rollout
 - red031000
 *****
@@ -63,7 +64,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Mapper
 - MegamanOmega
 - Moonbyes
-- nonsensicaldreamer
+- NonsensicalDreamer
+- Phioxse
 - Pioxys
 - raiikyuu
 - Rangi
