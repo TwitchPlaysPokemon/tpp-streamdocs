@@ -109,9 +109,10 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - FrostedGeulleisia
 - KipTheFlareon
 - LightningXCE
-- mathfreak231
 - m4_used_rollout
 - Made_s
+- mathfreak231
+- MegaZard
 - red031000
 - StarsMmd
 - Tustin2121
@@ -178,7 +179,5 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 ## Sprites
 - Generation I - IV Pokémon GIFs obtained from TilableToast ([Twitch Link](https://www.twitch.tv/tilabletoast))
 - Generation I - V sprites obtained from Veekun ([Link](https://veekun.com/dex/downloads))
-- Generation VI sprites obtained from PokéCommunity ([Link & Full Credits](https://www.pokecommunity.com/showthread.php?t=314422))
-- Generation VII sprites obtained from PokéCommunity ([Link & Full Credits](https://www.pokecommunity.com/showthread.php?t=368703))
-- Generation VIII sprites obtained from ([Pokémon Showdown](https://pokemonshowdown.com/))
+- Generation VI, VII and VIII sprites obtained from Pokémon Showdown ([Link & Full Credits](http://play.pokemonshowdown.com/sprites/gen5/))
 - Custom Pokémon sprites by Pioxys ([Twitch Link](https://www.twitch.tv/Pioxys))
