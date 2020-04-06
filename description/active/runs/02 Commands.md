@@ -3,7 +3,7 @@ For questions about any **!** command, use **!help [command]** to be whispered b
 Currently playing a few DS games as intermission, Next run is **Pokémon Blaze Black 2**, starting April 12, at 04:00UTC. [Click here](https://www.timeanddate.com/countdown/generic?iso=20200412T04&p0=1440&msg=Gauntlet+Blaze+Black+2&font=cursive&csz=1) for a countdown and timezone conversion.
 
 ## Touchscreen Commands
-You can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Aliases and coordinates can be held down (**bag-**, **40,160-**), as well as combining them into to a regular command (**move1+a**, **315,50+a**). Touchscreen commands cannot combine with themselves. The [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist), made by Chfoo, can be used to make tapping in specific places of the screen easier, instead of having to type out the coordinates.
+You can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Aliases and coordinates can be held down (**bag-**, **3,170-**), as well as combining them into to a regular command (**move1+a**, **2,72+a**). Touchscreen commands cannot combine with themselves. The [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist), made by Chfoo, can be used to make tapping in specific places of the screen easier, instead of having to type out the coordinates.
 
 ## Available Commands
 
