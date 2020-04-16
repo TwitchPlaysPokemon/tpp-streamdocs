@@ -12,10 +12,10 @@ Valid commands for Pokémon Blaze Black 2 are:
 - **Directional commands**: **Up, Down, Left, Right**
 
 Touchscreen Commands (Coordinates are subject to change without prior notice) for Blaze Black 2 are:
-- **Move1**: Picks the first move in the Fight menu (Alternate: **1,75**)
-- **Move2**: Picks the second move in the Fight menu (Alternate: **252,32**)
-- **Move3**: Picks the third move in the Fight menu (Alternate: **1,85**)
-- **Move4**: Picks the fourth move in the Fight menu (Alternate: **248,90**)
+- **Move1**: Picks the first move in the Fight menu (Alternate: **1,52**)
+- **Move2**: Picks the second move in the Fight menu (Alternate: **252,52**)
+- **Move3**: Picks the third move in the Fight menu (Alternate: **1,95**)
+- **Move4**: Picks the fourth move in the Fight menu (Alternate: **248,95**)
 
 
 
