@@ -4,7 +4,7 @@ The stream clock is in the UTC timezone, you can use [this](https://time.is/UTC)
 
 In Twitch Plays Pokémon (TPP), you can submit commands through the chat box and control the games that are part of **𝕿𝖍𝖊 𝕲𝖆𝖚𝖓𝖙𝖑𝖊𝖙**, which are six Generations of Pokémon back to back: Pokémon Red, Pokémon Crystal, Pokémon Emerald, Pokémon Platinum, Pokémon Blaze Black 2, and Pokémon X.
 
-Currently playing a few 3DS games as intermission, Next run is **Pokémon X**, starting May 3rd, at 21:00UTC. [Click here](https://www.timeanddate.com/countdown/generic?iso=20200503T21&p0=1440&msg=Gauntlet+X&font=cursive&csz=1) for a countdown and timezone conversion.
+Currently playing **Pokémon X**.
 
 **Credits for this run go to:**
 - Drayano - [Blaze Black 2 difficulty hack](https://www.pokecommunity.com/showthread.php?t=290429)
