@@ -24,7 +24,7 @@ Touchscreen Commands (Coordinates are subject to change without prior notice) fo
 - **Heal**: Opens the Healing bag. (Alternate: **45,25**)
 - **Throw**: Opens the Balls bag. (Alternate: **274,25**)
 - **Status**: Opens the Status bag. (Alternate: **45,164**)
-- **Items**: Opens the Items bag. (Alternate: **274,164**)
+- **Items**: Opens the Items bag. (Alternate: **159,234**)
 - **Run**: Picks Run in battle to run from wild Pokémon (Alternate: **164,234**)
 - **Switch**: Picks Pokémon in battle to switch Pokémon (Alternate: **249,229**)
 - **Mega**: Mega evolve (Alternate: **159,190**)
