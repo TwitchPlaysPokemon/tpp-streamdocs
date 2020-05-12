@@ -98,6 +98,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - raining_blood
 - Rangi
 - StarsMmd
+- Suludas
 - Tustin2121
 - Umericchi
 *****
@@ -115,6 +116,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MegaZard
 - red031000
 - StarsMmd
+- Suludas
 - Tustin2121
 - WhatAboutGamingLive
 *****
@@ -127,6 +129,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - ProjectRevoTPP
 - red031000
 - StarsMmd
+- Suludas
 - Validusername16
 *****
 ## PBR Movesets
