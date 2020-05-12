@@ -10,8 +10,9 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **38th** season, a regular PBR season.
-* Betbots are betting in every match, except for Token matches.
+* The current PBR season is the **39th** season.
+* This season is about a month long, ending on [13 May at 21:00UTC](https://www.timeanddate.com/countdown/generic?iso=20200613T21&p0=1440&msg=Sirius&font=cursive&csz=1).
+* No betbots, but TPPSimulator will occasionally place bets.
 * There's an up to 45% bet bonus.
-* There is a 1.5× profit bonus available to the standard bonus.
+* There's no profit bonus.
 * Additionally, you can now create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
