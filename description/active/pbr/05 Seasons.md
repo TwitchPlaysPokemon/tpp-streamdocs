@@ -11,7 +11,7 @@ See who's the very best! Do well in a season to be rewarded!
 ## Current Season
 
 * The current PBR season is the **39th** season.
-* This season ends on [30 May at 21:00UTC](https://www.timeanddate.com/countdown/generic?iso=20200530T21&p0=1440&msg=Season%2039%20end&font=cursive&csz=1), then after that there'll be a short Ace Attorney intermission.
+* This season ends on [30 May at 21:00UTC](https://www.timeanddate.com/countdown/generic?iso=20200530T21&p0=1440&msg=Season%2039%20end&font=cursive&csz=1), then after that there'll be a short Phoenix Wright 2 intermission.
 * No betbots, but TPPSimulator will occasionally place bets.
 * There's an up to 45% bet bonus.
 * There's no profit bonus.
