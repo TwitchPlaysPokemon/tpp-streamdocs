@@ -5,11 +5,10 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Chaos_lord2 - **Current Streamer**
 - m4_used_rollout - **Host**
 *****
-## Mods
+## Chat Moderators
 - BoombaFunk
 - Chaos_lord2
 - HonshouReimu
-- mathfreak231
 - RealSnackMan
 - red031000
 - Rjri
@@ -98,7 +97,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - raining_blood
 - Rangi
 - StarsMmd
-- Suludas
 - Tustin2121
 - Umericchi
 *****
@@ -116,7 +114,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MegaZard
 - red031000
 - StarsMmd
-- Suludas
 - Tustin2121
 - WhatAboutGamingLive
 *****
