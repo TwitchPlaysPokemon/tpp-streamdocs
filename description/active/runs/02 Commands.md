@@ -10,7 +10,7 @@ You can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Coo
 
 Valid commands for **Phoenix Wright: Ace Attorney - Justice for All** are:
 - **Button commands**: **A, B, X, Y, L, R, Start, Select**
-- **Directional commands**: **Up, Down, Left, Right, Dup**
+- **Directional commands**: **Up, Down, Left, Right**
 
 ## Tips
 - Commands are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
