@@ -4,7 +4,7 @@ Currently playing **Phoenix Wright: Ace Attorney - Justice for All**.
 
 ## Touchscreen Commands
 
-You can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Coordinates can be held down (**20,234-**), as well as combining them into to a regular command (**40,70+a**). Touchscreen commands cannot combine with themselves. The [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist), made by Chfoo, can be used to make tapping in specific places of the screen easier by using your mouse, instead of having to type out the coordinates.
+You can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Coordinates can be held down (**20,234-**), as well as combining them into to a regular command (**40,70+a**). Touchscreen commands cannot combine with themselves. The [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist), made by Chfoo, can be used to make tapping in specific places of the screen easier by using your mouse, instead of having to type out the coordinates. Screen resolution is 256x192.
 
 ## Available Commands
 
