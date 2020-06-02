@@ -15,5 +15,5 @@ See who's the very best! Do well in a season to be rewarded!
 * Betbots are betting in every match.
 * This is a Defiance only season, meaning you can bet, but you can't control the outcome of the matches.
 * There's an up to 10% bet bonus.
-* Nerfed profit bonus.
+* There is a 1.5× profit bonus available to the standard bonus.
 * Additionally, you can now create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
