@@ -64,7 +64,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MegamanOmega
 - Moonbyes
 - NonsensicalDreamer
-- Phioxse
+- Phaydra_
 - Pioxys
 - raiikyuu
 - Rangi
