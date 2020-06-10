@@ -1,16 +1,20 @@
-For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
+For questions about any **!** command, use **!help [command name]** to be whispered by the bot for more info. Example: **!help balance**. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
 
-Currently playing **Phoenix Wright: Ace Attorney - Justice for All**.
-
-## Touchscreen Commands
-
-You can use **>** for coordinates to drag the touchscreen (**0,0>100,100**). Coordinates can be held down (**20,234-**), as well as combining them into to a regular command (**40,70+a**). Touchscreen commands cannot combine with themselves. The [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist), made by Chfoo, can be used to make tapping in specific places of the screen easier by using your mouse, instead of having to type out the coordinates. Screen resolution is 256x192.
+Currently playing **Pokémon Sirius**.
 
 ## Available Commands
 
-Valid commands for **Phoenix Wright: Ace Attorney - Justice for All** are:
-- **Button commands**: **A, B, X, Y, L, R, Start, Select**
+- **Button commands**: **A, B, L, R, Start, Select**
 - **Directional commands**: **Up, Down, Left, Right**
+
+## Commander Mode commands
+
+- **Move**: Picks moves 1-4. Example: **Move3** to pick the third move in battle.
+- **Switch**: Picks Pokémon 1-6. Example: **Switch4** to switch to fourth Pokémon.
+- **Item**: Selects item by ID (if present in bag and applicable to battle). Example: **Item1** to use Master Ball. Full list of item IDs can be found [here](https://bulbapedia.bulbagarden.net/wiki/List_of_items_by_index_number_(Generation_III)).
+- **With**: Selects Pokémon 1-6 from use item menu. Example: **With2** to use item on second Pokémon.
+- **Catch**: Throws the currently selected ball.
+- **Run**: Runs from battle.
 
 ## Tips
 - Commands are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
