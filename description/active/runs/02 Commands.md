@@ -16,6 +16,8 @@ Currently playing **Pokémon Sirius**.
 - **Catch**: Throws the currently selected ball.
 - **Run**: Runs from battle.
 
+More information about Commander Mode can be found [here](https://old.reddit.com/r/twitchplayspokemon/comments/73b5is/military_mode_2_electric_boogaloo_name_it_for_us/).
+
 ## Tips
 - Commands are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
 - You can also use cardinal directions in replacement of regular directions: **n**, **e**, **s**, **w**.
