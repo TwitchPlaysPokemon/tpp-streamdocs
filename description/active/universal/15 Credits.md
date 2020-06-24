@@ -53,7 +53,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Aissurtievos
 - dekuNukem/Twitch_Plays_3DS
 *****
-## Artists
+## Art/Artists
 - AngelofSloths
 - BEXXXXXXX
 - Deadinsky
@@ -71,6 +71,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Sev
 - Soma_ghost
 - Terderrer
+- [tppRoyal](https://static-cdn.jtvnw.net/emoticons/v1/300400564/4.0) emote, made by Pioxys, was inspired by [botjira's art](https://bot.tumblr.com/post/72243579292)
 - tppTeiHard
 - Tustin2121
 - Xeogran
