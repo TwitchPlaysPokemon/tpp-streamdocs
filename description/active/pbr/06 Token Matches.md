@@ -6,7 +6,7 @@ Got a match you're dying to see? Use your tokens to bid for your very own custom
 
 During the break each match is assigned a 4 letter codename and displayed on-stream. If you spot a match you want to see, you can boost it with your own tokens.
 
-**!match [codename] t[amount]**: Boost a displayed match
+**!match \[codename\] t\[amount\]**: Boost a displayed match
 
 * The match with the most tokens will be played on the hour
 * If you are outbid, your tokens will be returned to you

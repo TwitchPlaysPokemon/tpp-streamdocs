@@ -1,8 +1,8 @@
-For questions about any **!** command, use **!help [command]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
+For questions about any **!** command, use **!help \[command\]** to be whispered by the bot for more info. For a full list of commands, type **!commands**. Alternatively, go [here](https://twitchplayspokemon.tv/commands) for an in-depth explanation of all commands available on stream.
 
 The stream clock is in the UTC timezone, you can use [this](https://time.is/UTC) to calculate your delay.
 
-In **Twitch Plays Pokémon** (**TPP**), you can bet on and influence matches of **Pokémon Battle Revolution** (**PBR**) in chat!
+In **Twitch Plays Pokémon** \(**TPP**\), you can bet on and influence matches of **Pokémon Battle Revolution** \(**PBR**\) in chat!
 
 You have two currencies:
 
@@ -12,4 +12,4 @@ You have two currencies:
 
 PBR has four main phases: **Betting Phase**, **Match Phase**, **Results Phase** and **Sidegame**
 
-***Note:** TPP collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
+***Note:*** *TPP collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
