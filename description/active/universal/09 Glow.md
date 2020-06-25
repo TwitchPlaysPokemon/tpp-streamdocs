@@ -2,7 +2,7 @@ Stand out from the crowd! Use your **Tokens** to unlock a colored outline around
 
 - **!unlockglow**: Unlock your glow for a one-time fee of **1 Token**
 - **!setglow \[color\]**: Set your glow
-- **!removeglow**: Remove your glow 
+- **!removeglow**: Remove your glow
 
 Use any color Hexcode of your choosing!
 Yours forever - unlock now, set your glow as many times as you like!
