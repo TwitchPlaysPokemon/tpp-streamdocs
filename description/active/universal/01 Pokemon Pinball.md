@@ -1,8 +1,8 @@
 Bet tokens on **Pokémon Pinball Generations**, featuring all-new Generation II themed boards and over 100 new Pokémon, all exclusive to TPP!
 
-**!pinball t[amount]**: Join a game  
+**!pinball t\[amount\]**: Join a game  
 
-So, if you wanted to bet 3 tokens on the next game, you would type: **!pinball t3**
+**!pinball t3**: if you want to bet 3 tokens on the next game
 
 **!pinball**: Check which table is next
 

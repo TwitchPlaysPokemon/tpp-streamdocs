@@ -18,7 +18,7 @@ As well as tokens, all subscribers enjoy additional perks:
 - Display a message of your choice on-stream every time you resubscribe
 - Make emotes rain with your message
 - Subscriber icon next to name in chat and on-stream
-- P500 pokeyen minimum cap (up from P100) for PBR Betting
+- P500 pokeyen minimum cap \(up from P100\) for PBR Betting
 - Your own welcome message displayed on-stream when you log in
 - Access to exclusive Twitch Plays Pokémon emotes here and on any channel on Twitch
 
@@ -32,7 +32,7 @@ Can't subscribe monthly or want to make a one-off contribution? You can donate t
 [**Click here to donate!**](https://streamlabs.com/twitchplayspokemon)
 
 - For every $0.50 you donate, you are rewarded with a token
-- Gain bonus tokens for breaking donation records (more info below)
+- Gain bonus tokens for breaking donation records \(more info below\)
 - Display a message of your choice on-stream
 - Make emotes rain with your message
 - Use emotes from any channel on Twitch, even if you're not subscribed to them

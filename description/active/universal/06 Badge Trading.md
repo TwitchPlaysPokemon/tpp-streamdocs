@@ -25,6 +25,6 @@ For example:
 
 #### Gifting Pokémon Badges
 
-- **!giftbadge [Pokémon name or Pokédex ID number] [username]**: Where Pokémon name is the Pokémon species you want to gift, or you can choose to gift by their respective Pokédex ID number, and username is the person you want to gift to
+- **!giftbadge \[Pokémon name or Pokédex ID number\] \[username\]**: Where Pokémon name is the Pokémon species you want to gift, or you can choose to gift by their respective Pokédex ID number, and username is the person you want to gift to
 - **!giftbadge pikachu tppsimulator**: Gift a Pikachu badge to the user tppsimulator
 - **!giftbadge #025 tppsimulator**: Gift a Pikachu badge to the user tppsimulator

@@ -155,7 +155,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - FelkCraft
 - Legtendga
 - Ninjanitor
-- [Winamp **(v5.666)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
+- [Winamp **\(v5.666\)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
 *****
 ## Commentary
 - Dullagamer - **Commentary Admin**

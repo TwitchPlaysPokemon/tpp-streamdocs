@@ -31,5 +31,5 @@ If the item you want isn't currently bought at the desired price, you can place 
 
 ## Gifting Items
 
-- **!giftitem #[id number] [item amount] [username]**: Where id number is the item number in your inventory, item amount is the amount of the item you chose to gift, username is the person you want to gift to
+- **!giftitem #\[id number\] \[item amount\] \[username\]**: Where id number is the item number in your inventory, item amount is the amount of the item you chose to gift, username is the person you want to gift to
 - **!giftitem #3 1 tppsimulator**: Gift 1 of the third item in your inventory to the user tppsimulator

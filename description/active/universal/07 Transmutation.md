@@ -1,7 +1,7 @@
 Combine your Pokémon Badges to generate new ones with transmutation!
 
 ## How to Transmute
-**!transmute [badge], [badge], [badge], …, t1**
+**!transmute \[badge\], \[badge\], \[badge\], …, t1**
 
 - Costs exactly **1 Token** (no more, no less)
 - Minimum **3 Badges**, maximum **20 Badges**
