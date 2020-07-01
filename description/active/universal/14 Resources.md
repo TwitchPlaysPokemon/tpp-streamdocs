@@ -2,7 +2,7 @@
 
 * [Twitch Plays Pokémon Website](https://twitchplayspokemon.tv)
 * [TPP Twitter](https://twitter.com/Twitch_Plays)
-* [PBR Info Guide](https://docs.google.com/spreadsheets/d/1Y37Yl348uS8cV3bhdxOHB2MbECcEP4SKUejgXrkl1ZU)
+* [PBR Info Guide](https://github.com/TwitchPlaysPokemon/pbr-movesets)
 * [PBR Leaderboard](https://twitchplayspokemon.tv/leaderboard)
 * [TPP API Documentation](https://twitchplayspokemon.tv/api_docs)
 * [Technical Badge Transmutation Documentation](https://twitchplayspokemon.tv/transmutation_calculations)
