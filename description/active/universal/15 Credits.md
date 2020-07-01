@@ -56,8 +56,9 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 ## Art/Artists
 - AngelofSloths
 - BEXXXXXXX
-- Deadinsky
+- CatOnStilts
 - Cosmog
+- Deadinsky
 - GlaceonMyst
 - Kelcyus
 - Mapper
@@ -68,6 +69,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Pioxys
 - raiikyuu
 - Rangi
+- royalfrogz
 - Sev
 - Soma_ghost
 - Terderrer
