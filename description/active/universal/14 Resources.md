@@ -4,6 +4,7 @@
 * [TPP Twitter](https://twitter.com/Twitch_Plays)
 * [PBR Info Guide](https://github.com/TwitchPlaysPokemon/pbr-movesets)
 * [PBR Leaderboard](https://twitchplayspokemon.tv/leaderboard)
+* [PBR Live Commentary Schedule](https://calendar.google.com/calendar/r?cid=Z2prZzl1bHE4anFjaG5hZmJpNTR1bnVxa3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 * [TPP API Documentation](https://twitchplayspokemon.tv/api_docs)
 * [Technical Badge Transmutation Documentation](https://twitchplayspokemon.tv/transmutation_calculations)
 * [TPP Save Files and Patches](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/tree/master/saves)
