@@ -20,4 +20,3 @@ If we are currently playing a run, but do not have sidegame:
 If we are currently playing PBR with an active sidegame:
 
 **pbr**, **sidegame**, **universal**
-

@@ -5,14 +5,14 @@ Can use **+** to combine inputs (*b+down*), and **-** to hold inputs (*a-*). You
 
   Directions    | Alt Input(s)
   ------------- | -------------
-  up            | n     
+  up            | n
   right         | e
   left          | w
   down          | s
 
   Other Inputs  | Alt Input(s)
   ------------- | -------------
-  a             | -         
+  a             | -
   b             | -
   y             | -
   x             | -

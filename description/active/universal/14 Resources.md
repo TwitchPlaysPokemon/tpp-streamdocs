@@ -13,7 +13,7 @@
 
 #### Community-run
 
-* [TPP Subreddit](https://reddit.com/r/twitchplayspokemon) 
+* [TPP Subreddit](https://reddit.com/r/twitchplayspokemon)
 * [TPP Discord Server](https://discord.gg/twitchplayspokemon)
 * [TPP Chat Logs](https://tpp.chat) \(credit to Keredau\)
 * [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp) \(credit to chfoo\)
