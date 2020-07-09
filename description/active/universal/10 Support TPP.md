@@ -1,7 +1,7 @@
 Support our channel and keep us going! Subscribe to Twitch Plays Pokémon from just **$4.99 USD per month** and enjoy monthly perks and treats.
 Subscriptions pay for the great hardware that allows TPP to be a 1080p60 stream, and for great programmers, artists and designers so TPP can continue to develop and grow.
 
-[**Click here to subscribe!**](https://secure.twitch.tv/products/twitchplayspokemon)
+[**Click here to subscribe!**](https://www.twitch.tv/subs/twitchplayspokemon)
 
 The longer you sub, the better the rewards! With every Loyalty League advanced, you receive 2 * (5 + the number of your league) tokens.
 
@@ -29,7 +29,7 @@ As well as tokens, all subscribers enjoy additional perks:
 ## Donations
 
 Can't subscribe monthly or want to make a one-off contribution? You can donate to the Twitch Plays Pokémon channel using **Streamlabs**!
-[**Click here to donate!**](https://streamlabs.com/twitchplayspokemon)
+[**Click here to donate!**](https://streamlabs.com/twitchplayspokemon/tip)
 
 - For every $0.50 you donate, you are rewarded with a token
 - Gain bonus tokens for breaking donation records \(more info below\)

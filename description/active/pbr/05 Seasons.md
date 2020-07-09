@@ -16,4 +16,4 @@ See who's the very best! Do well in a season to be rewarded!
 * The announcer speaks French, Spanish, Italian, German and Japanese, but not English.
 * Betbots are betting in every match.
 * There is a 1.5× profit bonus available to the standard bonus.
-* Additionally, you can create an avatar using the [TPP website](https://twitchplayspokemon.tv/avatars). Which, when enabled, will have a chance to appear as your team's representative during a battle.
+* Additionally, you can create up to 5 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
