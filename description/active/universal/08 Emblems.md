@@ -4,7 +4,7 @@ Show your lineage! Your **Emblem** indicates how many **Runs** you've participat
 - Input at least once on a Run to earn the Emblem for it
 - Your Emblem is colored after your first Run, but you can change it
 
-**!emblems**: List your Emblems
+**!emblems**: List your Emblems  
 **!selectemblem \[run number\]**: Change your Emblem color
 
 **Note**: Due to incomplete logs a small percentage of people from the first Run did not get their Emblem for that Run.
