@@ -1,6 +1,6 @@
 Pokémon badges can be sold to and bought from others at a price in tokens you specify using chat commands.
 
-[**Check out a detailed overview of the market here!**](https://twitchplaysleaderboard.info/badges/). **NOTE**: This site is maintained by a community member, and may not be up to date.
+[**Check out a detailed overview of the market here!**](http://tpptrade.xyz/). **NOTE**: This site is maintained by a community member, and may not be up to date.
 
 **Trade badges** using: **buybadge**, **sellbadge**, **listbuybadge**, **listsellbadge**, **cancelsellbadge**, **cancelbuybadge**, **checkbadge**, **giftbadge**
 
