@@ -22,6 +22,7 @@
 * [PBR Music Database](https://twitchplaysleaderboard.info/pbr/songs) \(credit to Keredau\)
 * [TPP RecordingBot Channel \(Main Channel\)](https://www.youtube.com/channel/UCskjCXK_u4EvFvXiPgezsEw/videos) \(credit to Keredau\)
 * [TPP Recordings \(Backup Channel\)](https://www.youtube.com/channel/UCtnwhSDVY25jdo4ehEnU_Lg/videos) \(credit to Keredau\)
+* [TPP Badge Trading Information Page](http://tpptrade.xyz/) \(credit to Yosofunny\)
 * [StreamFeed Updater Logs and API Snapshots \(Discord Bot\)](https://red031000.com/) \(credit to red031000\)
 * [TPP Badge Market Guide](https://docs.google.com/document/d/16wNZ4R-BZ3xSOsAJkk4vJmjAY2T35oOE4qJYQHdd68A) \(credit to DrLector\)
 
