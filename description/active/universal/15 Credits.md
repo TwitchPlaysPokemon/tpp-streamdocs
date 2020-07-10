@@ -47,6 +47,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - ProjectRevoTPP
 - so_ez4ence
 - Validusername16
+- Yosofunny
 - Zeromus
 *****
 ## Hardware Developers
