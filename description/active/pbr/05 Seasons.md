@@ -7,6 +7,7 @@ See who's the very best! Do well in a season to be rewarded!
 * After rewards are given out, a new season will begin.
 
 [**See the leaderboards for every season here.**](https://twitchplayspokemon.tv/leaderboard)
+
 [**See the PBR Live Commentary Schedule here.**](https://calendar.google.com/calendar/r?cid=Z2prZzl1bHE4anFjaG5hZmJpNTR1bnVxa3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 *****
 ## Current Season
