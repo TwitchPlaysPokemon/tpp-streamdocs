@@ -15,9 +15,9 @@ Bet tokens on **Pokémon Pinball Generations**, featuring all-new Generation II 
 
 ## Payout Rates
 
-- **Red Table:** 35,000,000 points per payout multiplier
-- **Gold Table:** 44,000,000 points per payout multiplier
-- **Blue Table:** 29,500,000 points per payout multiplier
-- **Silver Table:** 44,500,000 points per payout multiplier
+- **Red Table:** 27,000,000 points per payout multiplier
+- **Gold Table:** 27,000,000 points per payout multiplier
+- **Blue Table:** 42,000,000 points per payout multiplier
+- **Silver Table:** 42,500,000 points per payout multiplier
 
 The number of points is set so that each table will have a payback percentage of approximately 100% over time.
