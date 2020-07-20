@@ -12,10 +12,9 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **41st** season.
-* This season ends on [18 July at 21:00UTC](https://www.timeanddate.com/countdown/generic?iso=20200718T21&p0=1440&msg=Season%2041%20end&font=cursive&csz=1).
+* The current PBR season is the **42nd** season.
 * [Rising Ruby starts on 8 August](https://www.timeanddate.com/countdown/generic?iso=20200808T21&p0=1440&msg=Season%2041%20end&font=cursive&csz=1).
-* The announcer speaks French, Spanish, Italian, German and Japanese, but not English.
+* [All type matchups are inverted](https://bulbapedia.bulbagarden.net/wiki/Inverse_Battle).
 * Betbots are betting in every match.
 * There is a 1.5× profit bonus available to the standard bonus.
-* Additionally, you can create up to 5 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
+* Additionally, you can create up to 6 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
