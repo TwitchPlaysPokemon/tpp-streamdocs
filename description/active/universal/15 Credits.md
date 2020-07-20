@@ -161,7 +161,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - [Winamp **\(v5.666\)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
 *****
 ## Commentary
-- Dullagamer - **Commentary Admin**
+- Dullagamur - **Commentary Admin**
 - Geforcefly
 - IronHammer
 - Monstarules
