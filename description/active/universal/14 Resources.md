@@ -10,9 +10,12 @@
 * [TPP Save Files and Patches](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/tree/master/saves)
 * [PBR Music Library - Github](https://github.com/TwitchPlaysPokemon/musicLibrary)
 * [tppsimulator's Twitter](https://twitter.com/tppsimulator)
+* [Bit Badges available on stream](https://cdn.discordapp.com/attachments/150179304896987136/739481414809944074/unknown.png)
+* [Emblems available on stream](https://cdn.discordapp.com/attachments/333366468794122240/716436046719615129/unknown.png)
 
 #### Community-run
 
+* [Run Status](http://thatswhatyouget.github.io/tpp-progress/run-status.html)
 * [TPP Subreddit](https://reddit.com/r/twitchplayspokemon)
 * [TPP Discord Server](https://discord.gg/twitchplayspokemon)
 * [TPP Chat Logs](https://tpp.chat) \(credit to Keredau\)

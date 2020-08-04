@@ -36,7 +36,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Felkcraft
 - ferraro
 - Kazowar
-- KipTheFlareon
+- ScruffyKip
 - Kisox
 - LittleToonCat
 - m4_used_rollout
@@ -68,13 +68,13 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - NonsensicalDreamer
 - Phaydra_
 - Pioxys
-- raiikyuu
+- dirksnuts
 - Rangi
 - royalfrogz
 - Sev
 - Soma_ghost
 - Terderrer
-- [tppRoyal](https://static-cdn.jtvnw.net/emoticons/v1/300400564/4.0) emote, made by Pioxys, was inspired by [botjira's art](https://bot.tumblr.com/post/72243579292)
+- [tppRoyal](https://static-cdn.jtvnw.net/emoticons/v1/300400564/4.0) emote, made by Pioxys, inspired by [botjira's art](https://bot.tumblr.com/post/72243579292)
 - tppTeiHard
 - Tustin2121
 - Xeogran
@@ -88,7 +88,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Chaos_lord2
 - ChauzuVGC
 - FrostedGeulleisia
-- KipTheFlareon
+- ScruffyKip
 - KoolboymanAdam
 - LightningXCE
 - luckytyphlosion
@@ -110,7 +110,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Deadinsky
 - Faithfulforce
 - FrostedGeulleisia
-- KipTheFlareon
+- ScruffyKip
 - LightningXCE
 - m4_used_rollout
 - Made_s
@@ -161,7 +161,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - [Winamp **\(v5.666\)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
 *****
 ## Commentary
-- Dullagamur - **Commentary Admin**
+- Madiiiman - **Commentary Admin**
 - Geforcefly
 - IronHammer
 - Monstarules
@@ -170,8 +170,9 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - SingABrightSong
 *****
 ## Description Updaters
-- KipTheFlareon
+- ScruffyKip
 - LightningXCE
+- tppsimulator
 - WhatAboutGamingLive
 *****
 ## Twitter Managers
