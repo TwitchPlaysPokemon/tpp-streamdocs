@@ -12,4 +12,6 @@ You have two currencies:
 
 PBR has four main phases: **Betting Phase**, **Match Phase**, **Results Phase** and **Sidegame**
 
+Several times a week, there'll be live commentary. [**See the PBR Live Commentary Schedule here.**](https://calendar.google.com/calendar/r?cid=Z2prZzl1bHE4anFjaG5hZmJpNTR1bnVxa3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
 ***Note:*** *TPP collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
