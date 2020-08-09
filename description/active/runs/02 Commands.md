@@ -17,7 +17,7 @@ Touchscreen Commands \(Coordinates are subject to change without prior notice\):
 
 
 
-- **Reuse**: Reuses last used item in battle. \(Alternate: **25,210**\)
+- **Reuse**: Reuses last used item in battle. \(Alternate: **25,220**\)
 - **Heal**: Opens the Healing bag. \(Alternate: **45,25**\)
 - **Throw**: Opens the Balls bag. \(Alternate: **274,40**\)
 - **Status**: Opens the Status bag. \(Alternate: **45,149**\)
