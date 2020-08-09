@@ -178,11 +178,15 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 ## Twitter Managers
 - BEXXXXXXX
 - Chaos_lord2
+- mathfreak231
+- mrdrsirman37
 - Sandoz1
 - Some1Funny
+- Umericchi
+- xxmoonlotusxx
 *****
 ## Sprites
-- Generation I - IV Pokémon GIFs obtained from TilableToast ([Twitch Link](https://www.twitch.tv/tilabletoast))
-- Generation I - V sprites obtained from Veekun ([Link](https://veekun.com/dex/downloads))
-- Generation VI, VII and VIII sprites obtained from Pokémon Showdown ([Link & Full Credits](http://play.pokemonshowdown.com/sprites/gen5/))
-- Custom Pokémon sprites by Pioxys ([Twitch Link](https://www.twitch.tv/Pioxys))
+- Generation I - IV Pokémon GIFs obtained from TilableToast \([Twitch Link](https://www.twitch.tv/tilabletoast)\)
+- Generation I - V sprites obtained from Veekun \([Link](https://veekun.com/dex/downloads)\)
+- Generation VI, VII and VIII sprites obtained from Pokémon Showdown \([Link & Full Credits](http://play.pokemonshowdown.com/sprites/gen5/)\)
+- Custom Pokémon sprites by Pioxys \([Twitch Link](https://www.twitch.tv/Pioxys)\)

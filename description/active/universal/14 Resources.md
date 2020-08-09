@@ -1,7 +1,7 @@
 #### Official
 
 * [Twitch Plays Pokémon Website](https://twitchplayspokemon.tv)
-* [TPP Twitter](https://twitter.com/Twitch_Plays)
+* [TPP Twitter](https://twitter.com/TwitchPokemon)
 * [PBR Info Guide](https://github.com/TwitchPlaysPokemon/pbr-movesets)
 * [PBR Leaderboard](https://twitchplayspokemon.tv/leaderboard)
 * [PBR Live Commentary Schedule](https://calendar.google.com/calendar/r?cid=Z2prZzl1bHE4anFjaG5hZmJpNTR1bnVxa3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
