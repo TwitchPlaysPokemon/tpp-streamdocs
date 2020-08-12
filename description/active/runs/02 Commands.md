@@ -24,7 +24,7 @@ Touchscreen Commands \(Coordinates are subject to change without prior notice\):
 - **Items**: Opens the Items bag. \(Alternate: **274,164**\)
 - **Bag**: Picks the Bag button in battle. \(Alternate: **20,234**\)
 - **Run**: Picks Run in battle to run from wild Pokémon \(Alternate: **159,234**\)
-- **Switch**: Picks Pokémon in battle to switch Pokémon \(Alternate: **249,229**\)
+- **Switch**: Picks Pokémon in battle to switch Pokémon \(Alternate: **239,219**\)
 
 
 
