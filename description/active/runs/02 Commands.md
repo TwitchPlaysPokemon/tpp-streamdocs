@@ -34,7 +34,7 @@ Touchscreen Commands \(Coordinates are subject to change without prior notice\):
 - **Poke4**: Picks fourth Pokémon in Pokémon selection menu \(Alternate: **299,100**\)
 - **Poke5**: Picks fifth Pokémon in Pokémon selection menu \(Alternate: **20,160**\)
 - **Poke6**: Picks sixth Pokémon in Pokémon selection menu \(Alternate: **299,170**\)
-- **Mega**: Mega evolve \(Alternate: **159,190**\)
+- **Mega**: Mega evolve \(Alternate: **159,164**\)
 
 
 ## Tips
