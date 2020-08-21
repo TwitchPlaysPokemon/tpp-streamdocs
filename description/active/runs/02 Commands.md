@@ -24,7 +24,7 @@ Touchscreen Commands \(Coordinates are subject to change without prior notice\):
 - **Items**: Opens the Items bag. \(Alternate: **274,164**\)
 - **Bag**: Picks the Bag button in battle. \(Alternate: **20,234**\)
 - **Run**: Picks Run in battle to run from wild Pokémon \(Alternate: **159,234**\)
-- **Switch**: Picks Pokémon in battle to switch Pokémon \(Alternate: **249,229**\)
+- **Switch**: Picks Pokémon in battle to switch Pokémon \(Alternate: **239,219**\)
 
 
 
@@ -34,7 +34,7 @@ Touchscreen Commands \(Coordinates are subject to change without prior notice\):
 - **Poke4**: Picks fourth Pokémon in Pokémon selection menu \(Alternate: **299,100**\)
 - **Poke5**: Picks fifth Pokémon in Pokémon selection menu \(Alternate: **20,160**\)
 - **Poke6**: Picks sixth Pokémon in Pokémon selection menu \(Alternate: **299,170**\)
-- **Mega**: Mega evolve \(Alternate: **159,190**\)
+- **Mega**: Mega evolve \(Alternate: **159,164**\)
 
 
 ## Tips
