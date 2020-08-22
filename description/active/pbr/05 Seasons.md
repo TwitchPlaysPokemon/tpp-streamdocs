@@ -12,9 +12,9 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **42nd** season.
-* [Rising Ruby starts on 8 August](https://www.timeanddate.com/countdown/generic?iso=20200808T21&p0=1440&msg=Season%2041%20end&font=cursive&csz=1).
-* [All type matchups are inverted](https://bulbapedia.bulbagarden.net/wiki/Inverse_Battle).
-* Betbots are betting in every match.
+* The current PBR season is the **43rd** season.
+* [Trick on Treat House starts on 31 October at 00:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20201031&p0=1440&msg=Trick+Or+Treat+House&font=cursive&csz=1).
+* This is a normal season.
+* There's bet bonus.
 * There is a 1.5× profit bonus available to the standard bonus.
 * Additionally, you can create up to 6 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
