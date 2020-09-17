@@ -12,9 +12,9 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **43rd** season.
+* The current PBR season is the **44th** season.
 * [Trick on Treat House starts on 31 October at 00:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20201031&p0=1440&msg=Trick+Or+Treat+House&font=cursive&csz=1).
-* This is a normal season.
+* This is a Defiance only season, meaning you can place bets but you can't influence the outcome of the matches!
 * There's bet bonus.
 * There is a 1.5× profit bonus available to the standard bonus.
 * Additionally, you can create up to 6 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
