@@ -2,12 +2,8 @@ For questions about any **!** command, use **!help \[command name\]** to be whis
 
 ## Available Commands
 
-- **Button commands**: **A, B, X, Y, L, R, ZL, ZR, Plus, Minus, LStick, RStick**
-- **Directional commands**: **Up, Down, Left, Right, DUp, DDown, DLeft, DRight, RUp, RDown, RLeft, RRight**
-- **LSpinL** to spin the Left Analog Stick counter-clockwise.
-- **LSpinR** to spin the Left Analog Stick clockwise.
-- **RSpinL** to spin the Right Analog Stick counter-clockwise.
-- **RSpinR** to spin the Right Analog Stick clockwise.
+- **Button commands**: **A, B, L, R, Start, Select**
+- **Directional commands**: **Up, Down, Left, Right**
 
 ## Tips
 - Commands are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.

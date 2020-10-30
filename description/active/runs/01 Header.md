@@ -2,6 +2,10 @@ For questions about any **!** command, use **!help \[command name\]** to be whis
 
 The stream clock is in the UTC timezone, you can use [this](https://time.is/UTC) to calculate your delay.
 
-In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box and control the current game of **Pokémon Sword: The Crown Tundra**.
+In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box and control the current game of **Pokémon Trick or Treat House 2020**, a hack with custom Trick House puzzles made by the community specifically for the stream!
+
+**Credits for this run go to:**
+- Tustin2121 - Hack creator
+- The community - Level design
 
 ***Note:*** *TPP collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
