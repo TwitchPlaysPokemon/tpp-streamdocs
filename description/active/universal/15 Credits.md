@@ -9,6 +9,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - BoombaFunk
 - Chaos_lord2
 - HonshouReimu
+- Ravendwyr
 - RealSnackMan
 - red031000
 - Rjri
