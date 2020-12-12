@@ -5,7 +5,8 @@ The stream clock is in the UTC timezone, you can use [this](https://time.is/UTC)
 In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box and control the current game of **Pokémon Vega**.
 
 **Credits for this run go to:**
-- Dr. Akimbo and anonymous hackers - [Pokémon Sirius hack](https://www.pokecommunity.com/showthread.php?t=365959)
+- Dr. Akimbo and anonymous hackers - [Pokémon Vega hack](https://www.pokecommunity.com/showthread.php?t=365959)
+- red031000 - Run manager
 - M4_used_rollout - Run manager, overlay
 - Legtendga - Run Emblems creator
 - WhatAboutGamingLive - Description
