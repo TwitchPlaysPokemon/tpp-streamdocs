@@ -63,9 +63,11 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Deadinsky
 - GlaceonMyst
 - Kelcyus
+- Legtendga
 - Mapper
 - MegamanOmega
 - Moonbyes
+- MyRattata
 - NonsensicalDreamer
 - Phaydra_
 - Pioxys
