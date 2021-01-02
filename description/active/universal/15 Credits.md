@@ -41,7 +41,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Kisox
 - LittleToonCat
 - m4_used_rollout
-- mathfreak231
+- MathyFurret
 - Monstarules
 - nintendorpgamer
 - red031000
@@ -117,7 +117,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - LightningXCE
 - m4_used_rollout
 - Made_s
-- mathfreak231
+- MathyFurret
 - MegaZard
 - red031000
 - StarsMmd
@@ -148,7 +148,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Juicytoaster
 - Lavaseeker
 - Maiohneee
-- mathfreak231
+- MathyFurret
 - MegaZard
 - Renlev
 - Sandoz1
@@ -165,7 +165,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Commentary
 - Chaos_Lord2
-- mathfreak231
+- MathyFurret
 - Monstarules
 - GeForceFly
 *****
