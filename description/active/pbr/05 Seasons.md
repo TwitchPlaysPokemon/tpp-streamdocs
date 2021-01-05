@@ -14,6 +14,6 @@ See who's the very best! Do well in a season to be rewarded!
 
 * The current PBR season is the **49th** season.
 * It's a special Christmas season, and all Pokémon that appear are dressed for the occasion!
-* [Chatty Crystal starts on 13 February at 01:20 UTC](https://www.timeanddate.com/countdown/generic?iso=20210213T012213&p0=1440&msg=Chatty%20Crystal&font=cursive&csz=1).
+* [Chatty Crystal starts on 12 February at 23:20 UTC](https://www.timeanddate.com/countdown/generic?iso=20210212T2318&p0=1440&msg=Chatty%20Crystal&font=cursive&csz=1).
 * There's bet bonus.
 * Additionally, you can create up to 6 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
