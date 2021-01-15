@@ -13,7 +13,9 @@ See who's the very best! Do well in a season to be rewarded!
 ## Current Season
 
 * The current PBR season is the **50th** season.
-* [Chatty Crystal starts on 12 February at 23:20 UTC](https://www.timeanddate.com/countdown/generic?iso=20210212T2318&p0=1440&msg=Chatty%20Crystal&font=cursive&csz=1).
 * There's a 20K Pokéyen bonus cap.
-* There is a minimum of 5% bet bonus for betting early before a match starts.
+* Minimum bet allowed is 5% of your balance.
+* [This season ends on 24 January at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20210124T21&p0=1440&msg=Season%2050%20End&font=cursive&csz=1).
+* [Chatty Crystal starts on 12 February at 23:20 UTC](https://www.timeanddate.com/countdown/generic?iso=20210212T2318&p0=1440&msg=Chatty%20Crystal&font=cursive&csz=1).
+* There is a bet bonus for betting early before a match starts.
 * Additionally, you can create up to 6 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
