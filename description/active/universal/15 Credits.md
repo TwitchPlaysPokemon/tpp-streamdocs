@@ -9,6 +9,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - BoombaFunk
 - Chaos_lord2
 - HonshouReimu
+- Ravendwyr
 - RealSnackMan
 - red031000
 - Rjri
@@ -40,7 +41,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Kisox
 - LittleToonCat
 - m4_used_rollout
-- mathfreak231
+- MathyFurret
 - Monstarules
 - nintendorpgamer
 - red031000
@@ -62,9 +63,11 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Deadinsky
 - GlaceonMyst
 - Kelcyus
+- Legtendga
 - Mapper
 - MegamanOmega
 - Moonbyes
+- MyRattata
 - NonsensicalDreamer
 - Phaydra_
 - Pioxys
@@ -114,7 +117,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - LightningXCE
 - m4_used_rollout
 - Made_s
-- mathfreak231
+- MathyFurret
 - MegaZard
 - red031000
 - StarsMmd
@@ -145,7 +148,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Juicytoaster
 - Lavaseeker
 - Maiohneee
-- mathfreak231
+- MathyFurret
 - MegaZard
 - Renlev
 - Sandoz1
@@ -161,13 +164,10 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - [Winamp **\(v5.666\)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
 *****
 ## Commentary
-- Madiiiman - **Commentary Admin**
-- Geforcefly
-- IronHammer
+- Chaos_Lord2
+- MathyFurret
 - Monstarules
-- Nalaiscool
-- PokemonGod777
-- SingABrightSong
+- GeForceFly
 *****
 ## Description Updaters
 - ScruffyKip
@@ -177,7 +177,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 ## Twitter Managers
 - BEXXXXXXX
 - Chaos_lord2
-- mathfreak231
 - mrdrsirman37
 - Sandoz1
 - Some1Funny

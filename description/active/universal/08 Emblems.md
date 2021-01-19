@@ -3,7 +3,7 @@ Show your lineage! Your **Emblem** indicates how many **Runs** you've participat
 - Your Emblem has two numbers: *Your first Run* | *Number of Runs*
 - Input at least once on a Run to earn the Emblem for it
 - Your Emblem is colored after your first Run, but you can change it
-- [**See all emblems available here.**](https://cdn.discordapp.com/attachments/333366468794122240/741731586487222302/unknown.png)
+- [**See all emblems available here.**](https://cdn.discordapp.com/attachments/333366468794122240/786406492394749992/unknown.png)
 
 **!emblems**: List your Emblems
 **!selectemblem \[run number\]**: Change your Emblem color
