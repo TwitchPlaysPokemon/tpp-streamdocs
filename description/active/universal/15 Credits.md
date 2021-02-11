@@ -2,8 +2,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 
 ## Stream Owners
 - TwitchPlaysPokemon - **Original Streamer, Creator, and Owner**
-- Chaos_lord2 - **Current Streamer**
-- m4_used_rollout - **Host**
+- asdf14396 - **Current Streamer**
+- m4_used_rollout - **Stream Host**
 *****
 ## Chat Moderators
 - BoombaFunk
@@ -11,10 +11,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - HonshouReimu
 - Ravendwyr
 - RealSnackMan
-- red031000
 - Rjri
 - Sandoz1
-- SinR2014
 - xxmoonlotusxx
 *****
 ## Stream Operators
