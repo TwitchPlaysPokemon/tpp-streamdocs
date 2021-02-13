@@ -10,8 +10,8 @@ In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box a
 - RainbowDevs - Gen 3+ Sprites
 - asdf14396 - Game programming
 - Chaos_lord2 - Game programming
-- M4_used_rollout - Run manager, overlay, game testing
-- FrostedGeulleisia - Game testing
+- M4_used_rollout - Run manager, overlay maker, game programming, game testing
+- FrostedGeulleisia - Game programming, game testing
 - red031000 - Game programming
 - BEXXXXXXX - Run Emblem creator, data collection and data parsing
 - Phaydra_ - Run Emblem creator, Banner artist
