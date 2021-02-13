@@ -101,6 +101,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - PokemonGod777
 - raining_blood
 - Rangi
+- red031000
 - StarsMmd
 - Tustin2121
 - Umericchi
