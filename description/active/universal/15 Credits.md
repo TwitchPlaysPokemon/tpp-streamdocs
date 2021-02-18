@@ -56,6 +56,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 ## Art/Artists
 - AngelofSloths
 - BEXXXXXXX
+- BloodlessNS
 - CatOnStilts
 - Cosmog
 - Deadinsky
@@ -68,10 +69,13 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MyRattata
 - NonsensicalDreamer
 - Phaydra_
+- Pia Carrot
 - Pioxys
 - dirksnuts
 - Rangi
 - royalfrogz
+- scarlax17
+- TooManyLuigis
 - Sev
 - Soma_ghost
 - Terderrer
