@@ -7,6 +7,11 @@ In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box a
 **Credits for this run go to:**
 
 - Aissurtievos - Integration programming
+- BloodlessNS - Sprite Art
+- scarlax17 - Sprite Art
+- Pia Carrot - Sprite Art
+- TooManyLuigis - Animation Art
+- Monstarules - Pokémon Cries
 - RainbowDevs - Gen 3+ Sprites
 - asdf14396 - Game programming
 - Chaos_lord2 - Game programming
