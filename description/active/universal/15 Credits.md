@@ -28,6 +28,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Abyll
 - Aissurtievos
 - asdf14396
+- BEXXXXXXX
 - Chaos_lord2
 - chfoo
 - Cosmog
@@ -35,6 +36,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Felkcraft
 - ferraro
 - Kazowar
+- Ravendwyr
 - ScruffyKip
 - Kisox
 - LittleToonCat
