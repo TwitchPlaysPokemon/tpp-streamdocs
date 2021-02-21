@@ -19,6 +19,7 @@ In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box a
 - FrostedGeulleisia - Game programming, game testing
 - red031000 - Game programming
 - BEXXXXXXX - Run Emblem creator, data collection and data parsing
+- Ravendwyr - Data collection and data parsing
 - Phaydra_ - Run Emblem creator, Banner artist
 - WhatAboutGamingLive - Description
 
