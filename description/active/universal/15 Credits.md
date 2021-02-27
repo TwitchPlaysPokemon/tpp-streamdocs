@@ -187,11 +187,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Twitter Managers
 - BEXXXXXXX
-- Chaos_lord2
 - mrdrsirman37
 - Sandoz1
-- Some1Funny
-- Umericchi
 - xxmoonlotusxx
 *****
 ## Sprites
