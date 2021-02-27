@@ -62,17 +62,23 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - CatOnStilts
 - Cosmog
 - Deadinsky
+- FroggiestSpirit
+- GACT
 - GlaceonMyst
+- Gronnoct
 - Kelcyus
 - Legtendga
 - Mapper
 - MegamanOmega
 - Moonbyes
 - MyRattata
+- Mmmmmmmmmmmmmmmmm
 - NonsensicalDreamer
 - Phaydra_
 - Pia Carrot
+- Pigu
 - Pioxys
+- Pum
 - dirksnuts
 - Rangi
 - royalfrogz
