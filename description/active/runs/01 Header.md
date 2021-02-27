@@ -7,6 +7,12 @@ In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box a
 **Credits for this run go to:**
 
 - Aissurtievos - Integration programming
+- Mmmmmmmmmmmmmmmmm - Music (Demakes)
+- Pigu - Music (Demakes)
+- Pum - Music (Demakes)
+- FroggiestSpirit - Music (Demakes)
+- Gronnoct - Music (Demakes)
+- GACT - Music (Demakes)
 - BloodlessNS - Sprite Art
 - scarlax17 - Sprite Art
 - Pia Carrot - Sprite Art
