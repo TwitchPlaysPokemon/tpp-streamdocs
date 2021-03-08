@@ -12,9 +12,8 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **51st** season.
-* Only PBR Gold sets will show up.
-* [This season ends on 10 February at 23:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20210210T23&p0=1440&msg=Season%2051%20End&font=cursive&csz=1).
-* [Chatty Crystal starts on 12 February at 23:20 UTC](https://www.timeanddate.com/countdown/generic?iso=20210212T2318&p0=1440&msg=Chatty%20Crystal&font=cursive&csz=1).
-* There is a bet bonus for betting early before a match starts.
+* The current PBR season is the **52nd** season.
+* This is a Defiance only season, meaning you can place bets but you can't influence the outcome of the matches!
+* [Renegade Platinum starts on April 10th at 9pm UTC](https://www.timeanddate.com/countdown/generic?iso=20210410T2100&p0=1440&msg=Renegade%20Platinum&font=cursive&csz=1).
+* There are no bet bonuses for betting early before a match starts.
 * Additionally, you can create up to 6 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
