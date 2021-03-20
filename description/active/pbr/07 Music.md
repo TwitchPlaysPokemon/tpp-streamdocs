@@ -8,7 +8,7 @@ This lists the results with an ID number for each.
 
 **!song more**: See more results
 
-**!tpp song \[songID\] t\[amount\]**: Bid for a song on that list
+**!song \[songID\] t\[amount\]**: Bid for a song on that list
 
 * The song with the most tokens at the start of a phase will be chosen
 * If you are outbid, your tokens will be returned to you
