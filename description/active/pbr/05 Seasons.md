@@ -12,8 +12,11 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **52nd** season.
-* This is a Defiance only season, meaning you can place bets but you can't influence the outcome of the matches!
+* The current PBR season is the **53rd** season. It's an April Fools season!
+* Matches can range from 1v1 to 6v6!
+* There are multiple announcers at the same time!
+* Ice is SE on Bug!
+* You can read more about this season [here](https://www.reddit.com/r/twitchplayspokemon/comments/mix1v6/april_fools_pbr_season/).
 * [Renegade Platinum starts on April 10th at 9pm UTC](https://www.timeanddate.com/countdown/generic?iso=20210410T2100&p0=1440&msg=Renegade%20Platinum&font=cursive&csz=1).
-* There are no bet bonuses for betting early before a match starts.
+* There is a bet bonus for betting early before a match starts.
 * Additionally, you can create up to 6 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
