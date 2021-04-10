@@ -7,8 +7,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Chat Moderators
 - BoombaFunk
-- Chaos_lord2
-- HonshouReimu
+- MathyFurret
+- Phaydra_
 - Ravendwyr
 - RealSnackMan
 - Rjri
