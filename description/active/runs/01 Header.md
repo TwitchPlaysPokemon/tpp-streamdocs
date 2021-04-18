@@ -6,8 +6,8 @@ In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box a
 
 **Credits for this run go to:**
 
-- M4_used_rollout - Run manager, overlay maker, game testing
-- FrostedGeulleisia - Game testing
+- M4_used_rollout - Overlay maker, game testing
+- FrostedGeulleisia - Run manager, game testing
 - WhatAboutGamingLive - Description
 
 ***Note:*** *TPP collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
