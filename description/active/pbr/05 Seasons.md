@@ -12,10 +12,9 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **54th** season.
-* This is a normal season, featuring many of the new modes added in the previous season.
+* The current PBR season is the **55th** season.
+* This is an RNGod season, where everything in a match is completely randomised! Even the announcer!
 * Matches can range from 1v1 to 6v6!
-* [Red Green Blue Race starts on May 8th at 9pm UTC](https://www.timeanddate.com/countdown/generic?iso=20210508T2100&p0=1440&msg=Red%20Green%20Blue%20Race&font=cursive&csz=1).
+* [Pokémon Snap starts on May 29th at 9pm UTC](https://www.timeanddate.com/countdown/generic?iso=20210529T2100&p0=1440&msg=Pokémon%20Snap&font=cursive&csz=1).
 * There is a bet bonus for betting early before a match starts.
-* Betbots are betting in every match.
 * Additionally, you can create up to 6 avatars using the [PBR avatar editor](https://twitchplayspokemon.tv/avatars). After betting on a team, one of your avatars will have a chance to appear as your team's representative during a battle.
