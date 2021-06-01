@@ -2,8 +2,8 @@ For questions about any **!** command, use **!help \[command name\]** to be whis
 
 ## Available Commands
 
-- **Button commands**: **A, B, Start, Select**
-- **Directional commands**: **Up, Down, Left, Right**
+- **Button commands**: **A, B, L, Z, R, Start**
+- **Directional commands**: **Up, Down, Left, Right, Cup, Cdown, Cleft, Cright, Dup, Ddown, Dleft, Dright**
 
 ## Tips
 - Commands are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
