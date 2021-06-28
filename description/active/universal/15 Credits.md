@@ -2,8 +2,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 
 ## Stream Owners
 - TwitchPlaysPokemon - **Original Streamer, Creator, and Owner**
-- asdf14396 - **Current Streamer**
-- m4_used_rollout - **Stream Host**
+- m4_used_rollout - **Current Streamer and Stream Host**
 *****
 ## Chat Moderators
 - BoombaFunk
@@ -17,23 +16,20 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Stream Operators
 - Aissurtievos
-- asdf14396
-- Chaos_lord2
 - FelkCraft
 - m4_used_rollout
-- red031000
+- TwitchPlaysPokemon
 *****
 ## Stream Developers
 - 1hlixed
 - Abyll
 - Aissurtievos
-- asdf14396
 - BEXXXXXXX
-- Chaos_lord2
 - chfoo
 - Cosmog
 - dekuNukem/Twitch_Plays_3DS
 - Felkcraft
+- Fenris2142
 - ferraro
 - Kazowar
 - Ravendwyr
@@ -42,9 +38,9 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - LittleToonCat
 - m4_used_rollout
 - MathyFurret
+- Mogi
 - Monstarules
 - nintendorpgamer
-- red031000
 - ProjectRevoTPP
 - so_ez4ence
 - Validusername16
@@ -95,10 +91,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 ## ROM Developers
 - 1hlixed
 - Aissurtievos
-- asdf14396
 - Beesafree
 - BloodlessNS
-- Chaos_lord2
 - ChauzuVGC
 - FrostedGeulleisia
 - ScruffyKip
@@ -113,13 +107,11 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - PokemonGod777
 - raining_blood
 - Rangi
-- red031000
 - StarsMmd
 - Tustin2121
 - Umericchi
 *****
 ## Rom Testers
-- asdf14396
 - Cosmog
 - Deadinsky
 - Faithfulforce
@@ -130,19 +122,16 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Made_s
 - MathyFurret
 - MegaZard
-- red031000
 - StarsMmd
 - Tustin2121
 - WhatAboutGamingLive
 *****
 ## PBR Developers
 - Beesafree
-- Chaos_lord2
 - Felkcraft
 - ferraro
 - Made_s
 - ProjectRevoTPP
-- red031000
 - StarsMmd
 - Suludas
 - Validusername16
@@ -151,7 +140,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - 1in256miss
 - Addarash1
 - avtrs
-- Chaos_lord2
 - Chauzu_VGC
 - DANIMG12_
 - Egobuff
@@ -163,6 +151,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MegaZard
 - Renlev
 - Sandoz1
+- SolarisSect
 - Shadowpuppet97
 *****
 ## Music
@@ -175,7 +164,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - [Winamp **\(v5.666\)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
 *****
 ## Commentary
-- Chaos_Lord2
 - MathyFurret
 - Monstarules
 - GeForceFly

@@ -18,7 +18,6 @@
 
 * [Run Status](http://thatswhatyouget.github.io/tpp-progress/run-status.html)
 * [TPP Subreddit](https://reddit.com/r/twitchplayspokemon)
-* [TPP Discord Server](https://discord.gg/twitchplayspokemon)
 * [TPP Chat Logs](https://tpp.chat) \(credit to Keredau\)
 * [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp) \(credit to chfoo\)
 * [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist) \(credit to chfoo\)
@@ -27,7 +26,6 @@
 * [TPP RecordingBot Channel \(Main Channel\)](https://www.youtube.com/channel/UCskjCXK_u4EvFvXiPgezsEw/videos) \(credit to Keredau\)
 * [TPP Recordings \(Backup Channel\)](https://www.youtube.com/channel/UCtnwhSDVY25jdo4ehEnU_Lg/videos) \(credit to Keredau\)
 * [TPP Badge Trading Information Page](http://tpptrade.xyz/) \(credit to Yosofunny\)
-* [StreamFeed Updater Logs and API Snapshots \(Discord Bot\)](https://red031000.com/) \(credit to red031000\)
 * [TPP Badge Market Guide](https://docs.google.com/document/d/16wNZ4R-BZ3xSOsAJkk4vJmjAY2T35oOE4qJYQHdd68A) \(credit to DrLector\)
 
 **Note:** Though the stream staff may interact with these community-run sites, they are not operated by the stream staff. They have no influence or control over the resources listed in this section. If you have any issues, please contact the staff running these sites.
