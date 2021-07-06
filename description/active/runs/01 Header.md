@@ -10,5 +10,6 @@ In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box a
 - Legtendga - Emblems
 - SolarisSect - Run Testing
 - FrostedGeullesia - Run Testing
+- Ravendwyr - Run Testing
 
 ***Note:*** *TPP collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
