@@ -2,11 +2,13 @@ For questions about any **!** command, use **!help \[command name\]** to be whis
 
 The stream clock is in the UTC timezone, you can use [this](https://time.is/UTC) to calculate your delay.
 
-In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box and control the current game of **Pokémon Snap and some other N64 games**.
+In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box and control the current game of **Pokémon Randomized Black**.
 
 **Credits for this run go to:**
 
-- M4_used_rollout - Overlay maker, Text-to-speech implementation (Hey You, Pikachu only)
-- Aissurtievos - Hardware maker (N64 Controller)
+- M4_used_rollout - Overlay maker
+- Legtendga - Emblems
+- SolarisSect - Run Testing
+- FrostedGeullesia - Run Testing
 
 ***Note:*** *TPP collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
