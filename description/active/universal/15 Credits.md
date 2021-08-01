@@ -8,9 +8,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - BoombaFunk
 - MathyFurret
 - Phaydra_
-- Ravendwyr
 - RealSnackMan
-- Rjri
 - Sandoz1
 - xxmoonlotusxx
 *****
