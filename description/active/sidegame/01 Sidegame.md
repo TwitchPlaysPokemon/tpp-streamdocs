@@ -2,7 +2,7 @@ Between matches, a game will be played on the side \(the **sidegame**\).
 
 Type a command in the chat box and press Enter to help control the game.
 
-Currently playing **[Pokémon Lightning Sapphire](http://hhug.me/?post=90)**.
+Currently playing **[Pokémon DBZ Team Training](https://www.pokecommunity.com/showthread.php?t=356222)**.
 
 ## Available commands
 

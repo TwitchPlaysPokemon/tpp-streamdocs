@@ -7,11 +7,11 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 ## Chat Moderators
 - BoombaFunk
 - MathyFurret
+- Moonbyes
 - Phaydra_
-- Ravendwyr
 - RealSnackMan
-- Rjri
 - Sandoz1
+- SolarisSect
 - xxmoonlotusxx
 *****
 ## Stream Operators
