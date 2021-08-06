@@ -18,7 +18,6 @@
 
 * [Run Status](http://thatswhatyouget.github.io/tpp-progress/run-status.html)
 * [TPP Subreddit](https://reddit.com/r/twitchplayspokemon)
-* [TPP Chat Logs](https://tpp.chat) \(credit to Keredau\)
 * [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp) \(credit to chfoo\)
 * [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist) \(credit to chfoo\)
 * [PBR Match Results](https://twitchplaysleaderboard.info/pbr) \(credit to Keredau\)
