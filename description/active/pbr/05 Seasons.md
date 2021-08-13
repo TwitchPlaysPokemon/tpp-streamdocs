@@ -12,8 +12,8 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **57th** season.
-* This is a normal season, featuring many of the new modes added in previous seasons.
+* The current PBR season is the **58th** season.
+* This is an experimental season of Man versus Machine. Only the Blue Team can vote on inputs, while the Red Team will choose moves randomly.
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
 * [Blazing Emerald starts on August 21st at 9pm UTC](https://www.timeanddate.com/countdown/generic?iso=20210821T2100&p0=1440&msg=Blazing%20Emerald&font=cursive&csz=1).
