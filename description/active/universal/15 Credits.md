@@ -39,7 +39,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - m4_used_rollout
 - MathyFurret
 - Mogi
-- Monstarules
 - nintendorpgamer
 - ProjectRevoTPP
 - so_ez4ence
@@ -75,7 +74,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Pigu
 - Pioxys
 - Pum
-- dirksnuts
+- redsveil
 - Rangi
 - royalfrogz
 - scarlax17
@@ -102,7 +101,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - m4_used_rollout
 - Made_s
 - NieDzejkob
-- Monstarules
 - PikalaxALT
 - PokemonGod777
 - raining_blood
@@ -141,7 +139,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Addarash1
 - avtrs
 - Chauzu_VGC
-- DANIMG12_
+- Domdude64
 - Egobuff
 - ferraro
 - Juicytoaster
@@ -165,7 +163,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Commentary
 - MathyFurret
-- Monstarules
 - GeForceFly
 *****
 ## Description Updaters
