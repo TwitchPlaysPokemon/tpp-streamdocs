@@ -6,10 +6,12 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Chat Moderators
 - BoombaFunk
+- Evolem
 - MathyFurret
 - Moonbyes
 - Phaydra_
 - Rjri
+- Shuffles2000
 - SolarisSect
 - xxmoonlotusxx
 *****
