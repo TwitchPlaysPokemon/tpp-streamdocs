@@ -87,6 +87,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - tppTeiHard
 - Tustin2121
 - Xeogran
+- TheShmish
 *****
 ## ROM Developers
 - 1hlixed
@@ -140,7 +141,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Addarash1
 - avtrs
 - Chauzu_VGC
-- Domdude64
+- DomDude64
 - Egobuff
 - ferraro
 - Juicytoaster
@@ -171,11 +172,11 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - LightningXCE
 - WhatAboutGamingLive
 *****
-## Twitter Managers
+## Twitter Team
 - BEXXXXXXX
-- mrdrsirman37
-- Sandoz1
 - xxmoonlotusxx
+- evolem
+- Phaydra_
 *****
 ## Sprites
 - Generation I - IV Pokémon GIFs obtained from TilableToast \([Twitch Link](https://www.twitch.tv/tilabletoast)\)
