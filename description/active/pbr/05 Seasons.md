@@ -12,8 +12,8 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **60th** season.
-* This is a normal season, featuring many of the new modes added in previous seasons.
+* The current PBR season is the **61st** season.
+* This is a Halloween-themed season, and all Pokémon that appear are dressed for the occasion!
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
 * [Spadeworld Gold Reforged starts on October 9th at 9pm UTC](https://www.timeanddate.com/countdown/generic?iso=20211009T2100&p0=1440&msg=Spaceworld%20Gold%20Reforged&font=cursive&csz=1).
