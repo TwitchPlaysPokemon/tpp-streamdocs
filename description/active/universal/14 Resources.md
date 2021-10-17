@@ -12,9 +12,10 @@
 * [tppsimulator's Twitter](https://twitter.com/tppsimulator)
 * [Bit Badges available on stream](https://cdn.discordapp.com/attachments/150179304896987136/739481414809944074/unknown.png)
 * [Emblems available on stream](https://cdn.discordapp.com/attachments/333366468794122240/716436046719615129/unknown.png)
-* [Discord](https://discord.gg/twitchplayspokemon)
+
 #### Community-run
 
+* [Discord](https://discord.gg/twitchplayspokemon)
 * [Run Status](http://thatswhatyouget.github.io/tpp-progress/run-status.html)
 * [TPP Subreddit](https://reddit.com/r/twitchplayspokemon)
 * [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp) \(credit to chfoo\)
