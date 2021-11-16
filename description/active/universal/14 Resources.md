@@ -1,5 +1,6 @@
 #### Official
 
+* [TPP Discord Server](https://discord.gg/twitchplayspokemon)
 * [Twitch Plays Pokémon Website](https://twitchplayspokemon.tv)
 * [TPP Twitter](https://twitter.com/TwitchPokemon)
 * [PBR Info Guide](https://github.com/TwitchPlaysPokemon/pbr-movesets)
@@ -15,7 +16,6 @@
 
 #### Community-run
 
-* [Discord](https://discord.gg/twitchplayspokemon)
 * [Run Status](http://thatswhatyouget.github.io/tpp-progress/run-status.html)
 * [TPP Subreddit](https://reddit.com/r/twitchplayspokemon)
 * [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp) \(credit to chfoo\)

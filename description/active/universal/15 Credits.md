@@ -10,10 +10,13 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MathyFurret
 - Moonbyes
 - Phaydra_
-- Rjri
 - Shuffles2000
 - SolarisSect
 - xxmoonlotusxx
+- BEXXXXXXX
+- DarkmanAlt
+- TheShmish
+- redsveil_
 *****
 ## Stream Operators
 - Aissurtievos
@@ -75,7 +78,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Pigu
 - Pioxys
 - Pum
-- redsveil
+- redsveil_
 - Rangi
 - royalfrogz
 - scarlax17
