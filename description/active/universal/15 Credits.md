@@ -6,17 +6,16 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Chat Moderators
 - BoombaFunk
-- Evolem
-- MathyFurret
-- Moonbyes
+- Brespawn3
+- Elsoreth
 - Phaydra_
+- Pokesonic6
+- Ravendwyr
+- Rjri
 - Shuffles2000
-- SolarisSect
+- Superdanimon
 - xxmoonlotusxx
-- BEXXXXXXX
-- DarkmanAlt
-- TheShmish
-- redsveil_
+
 *****
 ## Stream Operators
 - Aissurtievos
