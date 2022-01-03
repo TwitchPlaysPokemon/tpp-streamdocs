@@ -12,11 +12,11 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **61st** season.
-* This is a Halloween-themed season, and all Pokémon that appear are dressed for the occasion!
+* The current PBR season is the **65th** season.
+* It's a special Christmas season, and all Pokémon that appear are dressed for the occasion!
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
-* [This season ends on 31 October at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20211031T21&p0=1440&msg=Season%2061%20End&font=cursive&csz=1).
+* [This season ends on 7 January at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220107T21&p0=1440&msg=Season%2065%20End&font=cursive&csz=1).
 * There is a bet bonus for betting early before a match starts.
 * No betbots, but TPPSimulator will occasionally place bets.
 * There's a 20k Pokéyen bonus cap.
