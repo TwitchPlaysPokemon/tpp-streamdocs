@@ -13,9 +13,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Ravendwyr
 - Rjri
 - Shuffles2000
-- Superdanimon
 - xxmoonlotusxx
-
 *****
 ## Stream Operators
 - Aissurtievos
@@ -27,7 +25,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - 1hlixed
 - Abyll
 - Aissurtievos
-- BEXXXXXXX
 - chfoo
 - Cosmog
 - dekuNukem/Twitch_Plays_3DS
@@ -55,7 +52,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Art/Artists
 - AngelofSloths
-- BEXXXXXXX
 - BloodlessNS
 - CatOnStilts
 - Cosmog
@@ -143,7 +139,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Addarash1
 - avtrs
 - Chauzu_VGC
-- DomDude64
 - Egobuff
 - ferraro
 - Juicytoaster
@@ -175,7 +170,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - WhatAboutGamingLive
 *****
 ## Twitter Team
-- BEXXXXXXX
 - xxmoonlotusxx
 - evolem
 - Phaydra_
