@@ -12,7 +12,7 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **65th** season.
+* The current PBR season is the **64th** season.
 * It's a special Christmas season, and all Pokémon that appear are dressed for the occasion!
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
