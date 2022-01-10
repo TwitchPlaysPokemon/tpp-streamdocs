@@ -13,9 +13,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Ravendwyr
 - Rjri
 - Shuffles2000
-- Superdanimon
 - xxmoonlotusxx
-
 *****
 ## Stream Operators
 - Aissurtievos
