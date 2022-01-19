@@ -12,11 +12,11 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **65th** season.
-* Test Your Luck! This is a short Metronome season and every Pokémon will only know Metronome.
+* The current PBR season is the **66th** season.
+* This is a normal season, featuring many of the new modes added in previous seasons.
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
-* [This season ends on 14 January at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220114T21&p0=1440&msg=Season%2065%20End&font=cursive&csz=1).
+* [Pokémon Legends: Arceus begins on 29 January at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220129T21&p0=1440&msg=Pokémon%20Legends:%20Arceus&font=cursive&csz=1).
 * There is a bet bonus for betting early before a match starts.
 * No betbots, but TPPSimulator will occasionally place bets.
 * There's a 20k Pokéyen bonus cap.
