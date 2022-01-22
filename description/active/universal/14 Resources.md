@@ -16,6 +16,7 @@
 #### Community-run
 
 * [Run Status](http://thatswhatyouget.github.io/tpp-progress/run-status.html)
+* [TPP Discord Server](https://discord.gg/Mh8V6BhQD9)
 * [TPP Subreddit](https://reddit.com/r/twitchplayspokemon)
 * [FogChamp PBR Visualizer](http://chfoo.github.io/fogchamp) \(credit to chfoo\)
 * [TPPInputAssist Touchscreen Extension](https://github.com/chfoo/tppinputassist) \(credit to chfoo\)
