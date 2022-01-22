@@ -1,6 +1,5 @@
 #### Official
 
-* [TPP Discord Server](https://discord.gg/twitchplayspokemon)
 * [Twitch Plays Pokémon Website](https://twitchplayspokemon.tv)
 * [TPP Twitter](https://twitter.com/TwitchPokemon)
 * [PBR Info Guide](https://github.com/TwitchPlaysPokemon/pbr-movesets)
