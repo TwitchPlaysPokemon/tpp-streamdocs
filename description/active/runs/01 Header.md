@@ -2,14 +2,26 @@ For questions about any **!** command, use **!help \[command name\]** to be whis
 
 The stream clock is in the UTC timezone, you can use [this](https://time.is/UTC) to calculate your delay.
 
-In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box and control the current game of **Pokémon Randomized Black**.
+In Twitch Plays Pokémon \(TPP\), you can submit commands through the chat box and control the current game of **[Pokémon Chatty Crystal](https://github.com/TwitchPlaysPokemon/chattycrystal/releases)**, a romhack custom made for TPP, but this time it's randomized!
 
 **Credits for this run go to:**
 
-- M4_used_rollout - Overlay maker
-- Legtendga - Emblems
-- SolarisSect - Run Testing
-- FrostedGeullesia - Run Testing
-- Ravendwyr - Run Testing
+- Aissurtievos - Integration programming
+- Mmmmmmmmmmmmmmmmm - Music (Demakes)
+- Pigu - Music (Demakes)
+- Pum - Music (Demakes)
+- FroggiestSpirit - Music (Demakes)
+- Gronnoct - Music (Demakes)
+- GACT - Music (Demakes)
+- BloodlessNS - Sprite Art
+- scarlax17 - Sprite Art
+- Pia Carrot - Sprite Art
+- TooManyLuigis - Animation Art
+- RainbowDevs - Gen 3+ Sprites
+- asdf14396 - Game programming
+- M4_used_rollout - Run manager, overlay maker, game programming, game testing
+- Ravendwyr - Data collection and data parsing
+- Phaydra_ - Run Emblem creator
+- WhatAboutGamingLive - Description
 
 ***Note:*** *TPP collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
