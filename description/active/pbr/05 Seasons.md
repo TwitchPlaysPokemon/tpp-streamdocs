@@ -12,11 +12,14 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **67th** season.
-* This is a normal season, featuring many of the new modes added in previous seasons.
+* The current PBR season is the **68th** season. It's an April Fools season!
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
-* [This season ends on 18 March at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220318T21&p0=1440&msg=Season%2067%20End&font=cursive&csz=1).
+* Be quick; betting, results, and break phase durations are greatly reduced!
+* There are multiple announcers at the same time!
+* Also featuring many holiday-themed metagames!
+* You can read more about this season [here](https://www.reddit.com/r/twitchplayspokemon/comments/mix1v6/april_fools_pbr_season/).
+* [This season ends on 1 April at 00:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220401&p0=1440&msg=Season%2068%20End&font=cursive&csz=1).
 * There is a bet bonus for betting early before a match starts.
 * No betbots, but TPPSimulator will occasionally place bets.
 * There's a 20k Pokéyen bonus cap.
