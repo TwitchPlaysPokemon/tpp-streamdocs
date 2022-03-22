@@ -8,7 +8,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - BoombaFunk
 - Brespawn3
 - Elsoreth
-- Phaydra_
 - Pokesonic6
 - Ravendwyr
 - Rjri
