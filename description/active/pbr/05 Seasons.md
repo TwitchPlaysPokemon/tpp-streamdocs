@@ -12,14 +12,13 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **68th** season. It's an April Fools season!
+* The current PBR season is the **69th** season.
+* This is an RNGod season, where everything in a match is completely randomised! Even the announcers!
+* It's an all-in season, meaning the minimum bet allowed is 100% of your balance.
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
-* Be quick; betting, results, and break phase durations are greatly reduced!
-* There are multiple announcers at the same time!
-* Also featuring many holiday-themed metagames!
-* You can read more about this season [here](https://www.reddit.com/r/twitchplayspokemon/comments/mix1v6/april_fools_pbr_season/).
-* [This season ends on 1 April at 00:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220401&p0=1440&msg=Season%2068%20End&font=cursive&csz=1).
+* [This season ends on April 9th at 20:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220409T2000&p0=1440&msg=Season%2069%20End&font=cursive&csz=1).
+* [Charity Dual Run starts on April 24th at 00:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220424&p0=1440&msg=Charity%20Dual%20Run&font=cursive&csz=1).
 * There is a bet bonus for betting early before a match starts.
 * No betbots, but TPPSimulator will occasionally place bets.
 * There's a 20k Pokéyen bonus cap.
