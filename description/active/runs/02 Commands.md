@@ -6,4 +6,8 @@ You can press up to 3 buttons at the same time by using **+**. Typing **a+b+righ
 
 You can switch teams whenever you want.
 
-***DISCLAIMER:*** *TwitchPlaysPokemon (TPP) collects and uses some data about your Twitch account so you can play. Find out what data we collect, how we collect it, and what we use it for by reading our privacy statement [here](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/blob/master/privacy/privacy-statement.md).*
+## Tips
+- Commands are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
+- You can also use cardinal directions in replacement of regular directions: **n**, **e**, **s**, **w**.
+- Up to 3 buttons can be pressed simultaneously: **b+up+l**
+- Commands ending in **-** are held longer.
