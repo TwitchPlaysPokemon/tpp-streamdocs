@@ -12,12 +12,11 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **69th** season.
-* This is an RNGod season, where everything in a match is completely randomised! Even the announcers!
-* It's an all-in season, meaning the minimum bet allowed is 100% of your balance.
+* The current PBR season is the **70th** season.
+* This is a normal season, featuring many of the new modes added in previous seasons.
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
-* [This season ends on April 9th at 20:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220409T2000&p0=1440&msg=Season%2069%20End&font=cursive&csz=1).
+* [This season ends on April 20th at 23:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220420T2300&p0=1440&msg=Season%2070%20End&font=cursive&csz=1).
 * [Charity Dual Run starts on April 24th at 00:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220424&p0=1440&msg=Charity%20Dual%20Run&font=cursive&csz=1).
 * There is a bet bonus for betting early before a match starts.
 * No betbots, but TPPSimulator will occasionally place bets.
