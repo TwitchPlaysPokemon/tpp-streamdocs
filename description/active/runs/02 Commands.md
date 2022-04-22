@@ -1,6 +1,6 @@
 ## How To Play
 
-You can pick a team by typing **team !left** or **team !right**, then you can type **up**, **down**, **left**, **right**, **a**, **b**, **start** or **select** to play the game.
+You can pick a team by typing **!left** or **!right**, then you can type **up**, **down**, **left**, **right**, **a**, **b**, **start** or **select** to play the game.
 
 You can switch teams whenever you want.
 
