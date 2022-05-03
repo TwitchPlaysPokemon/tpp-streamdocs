@@ -24,7 +24,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - 1hlixed
 - Abyll
 - Aissurtievos
-- BEXXXXXXX
 - chfoo
 - Cosmog
 - dekuNukem/Twitch_Plays_3DS
@@ -52,7 +51,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Art/Artists
 - AngelofSloths
-- BEXXXXXXX
 - BloodlessNS
 - CatOnStilts
 - Cosmog
@@ -86,7 +84,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - tppTeiHard
 - Tustin2121
 - Xeogran
-- TheShmish
 *****
 ## ROM Developers
 - 1hlixed
@@ -94,7 +91,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Beesafree
 - BloodlessNS
 - ChauzuVGC
-- FrostedGeulleisia
 - ScruffyKip
 - KoolboymanAdam
 - LightningXCE
@@ -114,7 +110,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Cosmog
 - Deadinsky
 - Faithfulforce
-- FrostedGeulleisia
 - ScruffyKip
 - LightningXCE
 - m4_used_rollout
@@ -123,7 +118,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MegaZard
 - StarsMmd
 - Tustin2121
-- WhatAboutGamingLive
 *****
 ## PBR Developers
 - Beesafree
@@ -137,10 +131,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## PBR Movesets
 - 1in256miss
-- Addarash1
 - avtrs
 - Chauzu_VGC
-- DomDude64
 - Egobuff
 - ferraro
 - Juicytoaster
@@ -169,12 +161,9 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 ## Description Updaters
 - ScruffyKip
 - LightningXCE
-- WhatAboutGamingLive
 *****
 ## Twitter Team
-- BEXXXXXXX
 - xxmoonlotusxx
-- evolem
 - Phaydra_
 *****
 ## Sprites
