@@ -143,8 +143,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MegaZard
 - Renlev
 - Sandoz1
-- SolarisSect
 - Shadowpuppet97
+- SolarisSect
 *****
 ## Music
 - 1hlixed
@@ -154,6 +154,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Legtendga
 - Ninjanitor
 - Monstarules
+- Torquey1994
 - [Winamp **\(v5.666\)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
 *****
 ## Commentary
