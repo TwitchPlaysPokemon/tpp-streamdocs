@@ -39,6 +39,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - nintendorpgamer
 - ProjectRevoTPP
 - Ravendwyr
+- ScruffyKip
 - so_ez4ence
 - Validusername16
 - Yosofunny
@@ -93,6 +94,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - ChauzuVGC
 - KoolboymanAdam
 - luckytyphlosion
+- LightningCXE
 - Luna
 - m4_used_rollout
 - Made_s
@@ -112,6 +114,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Deadinsky
 - Faithfulforce
 - m4_used_rollout
+- LightningCXE
 - Made_s
 - MathyFurret
 - MegaZard
@@ -162,6 +165,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Bryandagamer
 - GeForceFly - **Commentary Admin**
 - SeriouslyIntense
+- shuffles2000
 - StarSketch
 - TheChef_1337
 *****
