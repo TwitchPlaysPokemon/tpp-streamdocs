@@ -165,7 +165,7 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Bryandagamer
 - GeForceFly - **Commentary Admin**
 - SeriouslyIntense
-- shuffles2000
+- Shuffles2000
 - StarSketch
 - TheChef_1337
 *****
