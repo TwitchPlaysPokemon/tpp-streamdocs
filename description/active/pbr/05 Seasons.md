@@ -16,7 +16,7 @@ See who's the very best! Do well in a season to be rewarded!
 * This is a normal season, featuring many of the new modes added in previous seasons.
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
-* [This season ends on June 5th at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220605T2100&p0=1440&msg=Season%2072%20End&font=cursive&csz=1).
+* [This season ends on June 5th at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220605T21&p0=1440&msg=PBR+Season+72+Ends&ud=1&font=cursive&csz=1).
 * [Grand Colosseum starts on June 11th at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220611T2100&p0=1440&msg=Grand%20Colosseum&font=cursive&csz=1).
 * There is a bet bonus for betting early before a match starts.
 * No betbots, but TPPSimulator will occasionally place bets.
