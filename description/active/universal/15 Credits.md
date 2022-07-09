@@ -1,15 +1,14 @@
 Firstly, a huge thanks to our former staff, developers, and anyone else who has contributed to the stream either directly, or indirectly. Thank you for all you've done with your help to maintain and keep the stream running!
 
 ## Stream Owners
-- TwitchPlaysPokemon - **Original Streamer, Creator, and Owner**
 - m4_used_rollout - **Current Streamer and Stream Host**
+- TwitchPlaysPokemon - **Original Streamer, Creator, and Owner**
 *****
 ## Chat Moderators
 - BoombaFunk
 - Brespawn3
 - Elsoreth
-- Phaydra_
-- Pokesonic6
+- pokesonic6
 - Ravendwyr
 - Rjri
 - Shuffles2000
@@ -25,7 +24,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - 1hlixed
 - Abyll
 - Aissurtievos
-- BEXXXXXXX
 - chfoo
 - Cosmog
 - dekuNukem/Twitch_Plays_3DS
@@ -33,8 +31,6 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Fenris2142
 - ferraro
 - Kazowar
-- Ravendwyr
-- ScruffyKip
 - Kisox
 - LittleToonCat
 - m4_used_rollout
@@ -42,6 +38,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Mogi
 - nintendorpgamer
 - ProjectRevoTPP
+- Ravendwyr
+- ScruffyKip
 - so_ez4ence
 - Validusername16
 - Yosofunny
@@ -53,12 +51,11 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## Art/Artists
 - AngelofSloths
-- BEXXXXXXX
 - BloodlessNS
 - CatOnStilts
 - Cosmog
 - Deadinsky
-- FroggiestSpirit
+- FroggestSpirit
 - GACT
 - GlaceonMyst
 - Gronnoct
@@ -66,28 +63,28 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Legtendga
 - Mapper
 - MegamanOmega
-- Moonbyes
-- MyRattata
 - Mmmmmmmmmmmmmmmmm
+- Moonbyes
+- Monstarules
+- MyRattata
 - NonsensicalDreamer
 - Phaydra_
-- Pia Carrot
+- PIACarrot
 - Pigu
 - Pioxys
 - Pum
-- redsveil_
 - Rangi
+- redsveil_
 - royalfrogz
 - scarlax17
-- TooManyLuigis
 - Sev
 - Soma_ghost
 - Terderrer
 - [tppRoyal](https://static-cdn.jtvnw.net/emoticons/v1/300400564/4.0) emote, made by Pioxys, inspired by [botjira's art](https://bot.tumblr.com/post/72243579292)
+- TooManyLuigis
 - tppTeiHard
 - Tustin2121
 - Xeogran
-- TheShmish
 *****
 ## ROM Developers
 - 1hlixed
@@ -95,36 +92,36 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - Beesafree
 - BloodlessNS
 - ChauzuVGC
-- FrostedGeulleisia
-- ScruffyKip
 - KoolboymanAdam
-- LightningXCE
 - luckytyphlosion
+- LightningCXE
+- Luna
 - m4_used_rollout
 - Made_s
+- Monstarules
 - NieDzejkob
 - PikalaxALT
 - PokemonGod777
 - raining_blood
 - Rangi
+- ScruffyKip
 - StarsMmd
 - Tustin2121
 - Umericchi
 *****
-## Rom Testers
+## ROM Testers
 - Cosmog
 - Deadinsky
 - Faithfulforce
-- FrostedGeulleisia
-- ScruffyKip
-- LightningXCE
 - m4_used_rollout
+- LightningCXE
 - Made_s
 - MathyFurret
 - MegaZard
+- Monstarules
+- ScruffyKip
 - StarsMmd
 - Tustin2121
-- WhatAboutGamingLive
 *****
 ## PBR Developers
 - Beesafree
@@ -138,10 +135,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 *****
 ## PBR Movesets
 - 1in256miss
-- Addarash1
 - avtrs
 - Chauzu_VGC
-- DomDude64
 - Egobuff
 - ferraro
 - Juicytoaster
@@ -151,8 +146,8 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - MegaZard
 - Renlev
 - Sandoz1
-- SolarisSect
 - Shadowpuppet97
+- SolarisSect
 *****
 ## Music
 - 1hlixed
@@ -161,21 +156,24 @@ Firstly, a huge thanks to our former staff, developers, and anyone else who has 
 - FelkCraft
 - Legtendga
 - Ninjanitor
+- Monstarules
+- Torquey1994
 - [Winamp **\(v5.666\)**](http://forums.winamp.com/showthread.php?t=373755) + [vgmstream plugin](https://github.com/losnoco/vgmstream)
 *****
 ## Commentary
-- MathyFurret
-- GeForceFly
+- AlanaHawke
+- Bryandagamer
+- GeForceFly - **Commentary Admin**
+- SeriouslyIntense
+- Shuffles2000
+- StarSketch
+- TheChef_1337
 *****
-## Description Updaters
-- ScruffyKip
-- LightningXCE
-- WhatAboutGamingLive
+## Description Updater
+- Monstarules
 *****
 ## Twitter Team
-- BEXXXXXXX
 - xxmoonlotusxx
-- evolem
 - Phaydra_
 *****
 ## Sprites
