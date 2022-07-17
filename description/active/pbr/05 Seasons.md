@@ -12,12 +12,13 @@ See who's the very best! Do well in a season to be rewarded!
 *****
 ## Current Season
 
-* The current PBR season is the **72nd** season.
-* This is a normal season, featuring many of the new modes added in previous seasons.
+* The current PBR season is the **74th** season.
+* This is a Communism season, meaning all bettors have equal influence on their team if they meet the minimum bet amount.
+* There is a minimum bet amount of P200 (or P1000 depending on the median amount of Pokéyen bid in the previous match).
 * Your place on the leaderboard is determined by your current Pokéyen balance.
 * Matches can range from 1v1 to 6v6!
-* [This season ends on June 5th at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220605T21&p0=1440&msg=PBR+Season+72+Ends&ud=1&font=cursive&csz=1).
-* [Grand Colosseum starts on June 11th at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220611T2100&p0=1440&msg=Grand%20Colosseum&font=cursive&csz=1).
+* [This season ends on July 30th at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220730T21&p0=1440&msg=PBR+Season+74+Ends&font=cursive&csz=1).
+* [Randomized TriHard Emerald starts on August 20th at 21:00 UTC](https://www.timeanddate.com/countdown/generic?iso=20220820T2100&p0=1440&msg=Randomized%20TriHard%20Emerald&font=cursive&csz=1).
 * There is a bet bonus for betting early before a match starts.
 * No betbots, but TPPSimulator will occasionally place bets.
 * There's a 20k Pokéyen bonus cap.
