@@ -4,6 +4,10 @@ Chat the name of the button you want to see pressed in-game!
 
 For GameBoy, the available buttons are **up**, **down**, **left**, **right**, **a**, **b**, **start** and **select**.
 
+You can pick a side by typing **!left** for Gold or **!right** for Silver. If you don't want to pick, you'll be randomly assigned on your first input.
+
+You can switch sides whenever you want.
+
 ## Tips
 - Buttons are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
 - Only the first word of your chat message gets counted as a button. This means you can add a space and a message or emote after your button and the game will still see it.
