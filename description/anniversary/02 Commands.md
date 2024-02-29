@@ -2,9 +2,9 @@
 
 Chat the name of the button you want to see pressed in-game!
 
-For GameBoy, the available buttons are **up**, **down**, **left**, **right**, **a**, **b**, **start** and **select**.
+For GameBoy Advance, the available buttons are **up**, **down**, **left**, **right**, **a**, **b**, **l**, **r**, **start** and **select**.
 
-You can pick a side by typing **!left** for Gold or **!right** for Silver. If you don't want to pick, you'll be randomly assigned on your first input.
+You can pick a side by typing **!left** for Ruby or **!right** for Sapphire. If you don't want to pick, you'll be randomly assigned on your first input.
 
 You can switch sides whenever you want.
 

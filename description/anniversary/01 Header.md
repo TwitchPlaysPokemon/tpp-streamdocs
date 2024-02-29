@@ -2,7 +2,7 @@
 
 To celebrate 10 years of Twitch Playing Pokémon, we've donned our classic look and are playing a "Super Gauntlet" of games in which we intend to visit every mainline Pokémon region. After 10 years, we know these regions by heart. This time, we're playing without emulators. Each run will be played on official Nintendo hardware and displayed on a real CRT TV! Join us as we take a nostalgic look at the Pokémon series throughout the years, as well as experiment with hardware peripherals that some Pokémon games can use.
 
-We continue Season 11 of TPP with our 81st run: Super Gauntlet Dual Gold Silver.
+We continue Season 11 of TPP with our 82nd run: Super Gauntlet Dual Ruby Sapphire.
 
 The stream clock time zone is set to UTC. You can use [this](https://time.is/UTC) to calculate your delay.
 
