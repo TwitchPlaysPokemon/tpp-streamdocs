@@ -2,11 +2,7 @@
 
 Chat the name of the button you want to see pressed in-game!
 
-For Nintendo 3DS, the available buttons are **up**, **down**, **left**, **right**, **a**, **b**, **x**, **y**, **l**, **r**, **start** and **select**.
-
-You can pick a side by typing **!left** for Sun or **!right** for Ultra Moon. If you don't want to pick, you'll be randomly assigned on your first input.
-
-You can switch sides whenever you want.
+For Nintendo GameCube, the available buttons are **up**, **down**, **left**, **right**, **a**, **b**, **x**, **y**, **z**, **l**, **r** and **start**.
 
 ## Tips
 - Buttons are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
