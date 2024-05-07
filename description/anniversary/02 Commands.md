@@ -2,7 +2,11 @@
 
 Chat the name of the button you want to see pressed in-game!
 
-For Nintendo GameCube, the available buttons are **up**, **down**, **left**, **right**, **a**, **b**, **x**, **y**, **z**, **l**, **r** and **start**.
+For Nintendo DS, the available buttons are **up**, **down**, **left**, **right**, **a**, **b**, **x**, **y**, **l**, **r**, **start** and **select**.
+
+You can pick a side by typing **!left** for Black 2 or **!right** for White 2. If you don't want to pick, you'll be randomly assigned on your first input.
+
+You can switch sides whenever you want.
 
 ## Tips
 - Buttons are not case sensitive - you can mix it up! For example, **StArT** will have the same effect as **start**.
