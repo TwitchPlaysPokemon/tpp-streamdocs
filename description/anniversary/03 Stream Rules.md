@@ -1,4 +1,4 @@
-[See our complete rules and guidelines here.](https://docs.google.com/document/d/1qKUs1m_YTXPdARMkWg3E4eM6igNNzXBRhR0ctaW7veI/edit?usp=sharing)
+[See our complete rules and guidelines here.](https://docs.google.com/document/d/1532S2uUHCBcQGGIxwSIr5M2aFuHpNX1qNvltAZ3nmTg/edit?usp=sharing)
 
 - Don't spam or flood chat
 - Don't bypass modbot
