@@ -1,5 +1,11 @@
 name: render teletext
-on: [push, pull_request]
+on: 
+    push:
+        paths:
+            - description/teletext/pages
+    pull_request:
+        paths:
+            - description/teletext/pages
 jobs:
   render_teletext:
     runs-on: ubuntu-latest
