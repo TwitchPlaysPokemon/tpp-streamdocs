@@ -11,7 +11,7 @@
  and keep the stream running!           
                                         
 
-Stream owners:(1/1)                   
+Stream administrators:(1/1)           
                                         
                                         
   * m4`used`rollout - Current Streamer  
