@@ -1,0 +1,25 @@
+                                        
+6#4      `       "5   (2/2)           
+5  6#4=#4k#j&)h#i 5fs![P130           
+ep%ep%5 5*pj  *p: 5dp%                 
+                                        
+Only thefirst wordof your chat message
+is checked to see if it's a button, you 
+can add extra words to the end of your  
+message and it will still be accepted.  
+                                        
+Two buttons can be pressed at the same  
+time by using+in-between.B+RIGHTwill
+pressBandRIGHTat the same time.     
+                                        
+The button can be held for longer by    
+using-at the end. For example:UP-   
+will holdUPfor longer than usual.     
+Sequential held buttons will merge into 
+a single long press if the rate is high.
+                                        
+Heavy inputters should be aware that    
+Twitch will chat-ban you site-wide for  
+up to an hour if you send more than 20  
+messages in 30 seconds (non-subs only). 
+                                        

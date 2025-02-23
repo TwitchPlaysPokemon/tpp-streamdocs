@@ -1,0 +1,24 @@
+name: render teletext
+on: [push, pull_request]
+jobs:
+  render_teletext:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.11.2'
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install git+https://github.com/TwitchPlaysPokemon/ttxrenderer.git#egg=ttxrenderer
+      - name: Render teletext
+        run: python -m ttxrenderer description/teletext/pages description/teletext/images
+      - name: Commit rendered images
+        run: |
+          git config --global user.name 'TTXRenderer'
+          git config --global user.email 'no-name@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git checkout "${GITHUB_REF:11}"
+          git commit -am "Updated generated teletext images"
+          git push

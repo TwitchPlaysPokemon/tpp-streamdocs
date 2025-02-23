@@ -1,0 +1,25 @@
+                                        
+7#4   $            (1/3)              
+=,!=#$5e`%bs46#$5 5                   
+5  5  5"6 ep5ep$),5]P198              
+                (,!                    
+ Version 1.2 - 22 September 2019        
+                                        
+ Twitch Plays Pokemon collects your     
+ public user ID when you watch or play. 
+ This is your unique identifier on      
+ Twitch, made available via Twitch API, 
+ which is publicly available. This data 
+ is neccessary in order for you to      
+ interact with any aspect of our stream.
+ It enables you to input commands, keep 
+ track of your PokeYen (virtual currency
+ used to bet on Poemon matches), recieve
+ Tokens (virtual currency, based on     
+ stream donations, subscriptions,       
+ give-aways, and PBR avatar creation)   
+ and gain rewards like Badges (Icons    
+ next to your username that are visible 
+ on the stream). You will not be able to
+ take part in TPP without it.           
+                                        

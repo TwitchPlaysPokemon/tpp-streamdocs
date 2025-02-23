@@ -1,0 +1,25 @@
+                                        
+7#4   k      (19/37)                  
+=l!5 5jh#i(s3                          
+5 5ep5j*ss(p:                          
+                                        
+Inputting rules(7/7)                  
+                                        
+                                        
+ * PBR                                  
+                                        
+ * * * Since we know each match is a    
+   match and they don't exist in a void,
+   a mod will generally give a warning  
+   before any timeout is issued and will
+   generally wait at least 1 match after
+   the warning before giving a timeout. 
+   Exceptions may be made when deemed   
+   necessary by mod discretion due to   
+   severity or repetition.              
+                                        
+]P819                                  
+                                        
+                                        
+                                        
+                                        
