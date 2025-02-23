@@ -24,7 +24,7 @@ jobs:
           git commit -am "Updated generated teletext images"
           git push
       - name: Upload rendered images
-        run: zip ttxrender.zip description/teletext/images
+        run: zip -rvj ttxrender.zip description/teletext/images
       - uses: actions/upload-artifact@v4
         with:
           name: ttxrender.zip
