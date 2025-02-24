@@ -10,14 +10,14 @@
  This is your unique identifier on      
  Twitch, made available via Twitch API, 
  which is publicly available. This data 
- is neccessary in order for you to      
+ is necessary in order for you to       
  interact with any aspect of our stream.
  It enables you to input commands, keep 
  track of your PokeYen (virtual currency
- used to bet on Poemon matches), recieve
+ used to bet on Pokemon matches), earn  
  Tokens (virtual currency, based on     
  stream donations, subscriptions,       
- give-aways, and PBR avatar creation)   
+ giveaways, and PBR avatar creation)    
  and gain rewards like Badges (Icons    
  next to your username that are visible 
  on the stream). You will not be able to

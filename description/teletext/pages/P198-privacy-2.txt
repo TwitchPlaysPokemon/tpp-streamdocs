@@ -4,7 +4,7 @@
 5  5  5"6 ep5ep$),5]P199              
                 (,!                    
  If you visit our companion website,    
- https://twitchplayspokemon.tv, we will 
+https://twitchplayspokemon.tv,we will 
  also log your IP address in our traffic
  logs, along with the page that was     
  visited and the timestamp of the visit,
@@ -16,7 +16,7 @@
                                         
  We collect this data to:               
                                         
-  1. Identify malicious traffic         
+  1. Identify any malicious traffic     
   2. Diagnose website and stream issues 
   3. Enforce stream rules over alternate
      account abuse.                     
