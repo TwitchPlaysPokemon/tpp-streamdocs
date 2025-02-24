@@ -1,16 +1,11 @@
 name: render teletext
 on: 
-    workflow_dispatch:
     push:
         paths:
-            - 'description/teletext'
-            - '!description/teletext/images'
-            - '!description/teletext/html'
+          - 'description/teletext/**'
     pull_request:
         paths:
-          - 'description/teletext'
-          - '!description/teletext/images'
-          - '!description/teletext/html'
+          - 'description/teletext/**'
 jobs:
   render_teletext:
     runs-on: ubuntu-latest
