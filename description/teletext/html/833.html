@@ -24,10 +24,32 @@
                 margin: 0;
                 display: flex;
                 flex-flow: column nowrap;
-                align-items: stretch;
+                align-items: center;
                 justify-content: center;
                 min-height: 100dvh;
                 min-width: 100dvw;
+            }
+            pre {
+                margin: 0;
+                font-family: "Bedstead", monospace;
+                --rows: 25;
+                --cols: 40;
+                --max-height: calc(100dvh - 1rem);
+                --max-width: calc(100dvw - 1rem);
+                --functional-cols: calc(var(--cols) / 1.65);
+                background-color: #000;
+                color: #FFF;
+                font-size: min(calc(var(--max-height)/var(--rows)), calc(var(--max-width)/var(--functional-cols)));
+                line-height: 1;
+            }
+            pre span.tall {
+                font-family: "Bedstead-UltraCondensed";
+                vertical-align: top;
+                display: inline-block;
+                font-size: 2em;
+                margin-bottom: -0.5em;
+                position: relative;
+                z-index: 1;
             }
             img {
                 margin: 0.5rem;
@@ -36,6 +58,13 @@
                 object-fit: contain;
             }
             a, a:link, a:active, a:hover, a:visited {
+                text-decoration: none;
+                color: inherit;
+            }
+            a:not(.nav):hover {
+                text-decoration: underline;
+            }
+            a.nav, a.nav:link, a.nav:active, a.nav:hover, a.nav:visited {
                 --padding: 0.1em;
                 font-family: "Bedstead-Ultracondensed", monospace;
                 color: white;
@@ -44,37 +73,61 @@
                 padding: var(--padding);
                 position: fixed;
                 top: calc(50% - 0.5em + var(--padding));
-                text-decoration: none;
             }
-            a#last {
+            a.nav#last {
                 left: 0;
             }
-            a#last::before {
+            a.nav#last::before {
                 content:'<'
             }
-            a#next {
+            a.nav#next {
                 right: 0;
             }
-            a#next::after {
+            a.nav#next::after {
                 content:'>'
             }
-            body:hover a {
+            body:hover a.nav {
                 opacity: 0.4;
             }
-            a:hover {
+            a.nav:hover {
                 opacity: 1;
             }
             @media screen and (orientation: portrait) {
-                a, a:link, a:active, a:hover, a:visited {
-                    top: calc(100% - 1em - var(--padding));
+                a.nav {
+                    top: calc(100% - 1em - var(--padding)) !important;
                 }
             }
         </style>
     </head>
     <body>
-        <img id="P833" src="../images/833.png" alt="P833: rules"/>
-<a href="832.html" title="P832: rules" id="last"></a>
-<a href="834.html" title="P834: rules" id="next"></a>
+        <pre id="P833" >  P833  TELETEXT 833 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(34/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Cancellation and refunds</span> (6/7)         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Tokens will be refunded in the         </span>
+<span style="color: #FFF; background-color: #000;"> following cases: (2/2)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * If any song is bid and fails to play </span>
+<span style="color: #FFF; background-color: #000;">   at all, tokens will be refunded for  </span>
+<span style="color: #FFF; background-color: #000;">   the bid. * If Pinball chooses the    </span>
+<span style="color: #FFF; background-color: #000;">   wrong table and gives a x0 payout,   </span>
+<span style="color: #FFF; background-color: #000;">   any bets on that table will be       </span>
+<span style="color: #FFF; background-color: #000;">   refunded. * If Pinball has achieved a</span>
+<span style="color: #FFF; background-color: #000;">   score high enough to receive a       </span>
+<span style="color: #FFF; background-color: #000;">   payout, but crashes or achieves a    </span>
+<span style="color: #FFF; background-color: #000;">   lower score due to a glitch, tokens  </span>
+<span style="color: #FFF; background-color: #000;">   will be issued for the higher score. </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="834.html">→P834</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<a href="832.html" class="nav" title="P832: rules" id="last"></a>
+<a href="834.html" class="nav" title="P834: rules" id="next"></a>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha512-UXumZrZNiOwnTcZSHLOfcTs0aos2MzBWHXOHOuB0J/R44QB0dwY5JgfbvljXcklVf65Gc4El6RjZ+lnwd2az2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>
             const last = document.getElementById("last");

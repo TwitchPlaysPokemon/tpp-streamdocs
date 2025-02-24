@@ -24,10 +24,32 @@
                 margin: 0;
                 display: flex;
                 flex-flow: column nowrap;
-                align-items: stretch;
+                align-items: center;
                 justify-content: center;
                 min-height: 100dvh;
                 min-width: 100dvw;
+            }
+            pre {
+                margin: 0;
+                font-family: "Bedstead", monospace;
+                --rows: 25;
+                --cols: 40;
+                --max-height: calc(100dvh - 1rem);
+                --max-width: calc(100dvw - 1rem);
+                --functional-cols: calc(var(--cols) / 1.65);
+                background-color: #000;
+                color: #FFF;
+                font-size: min(calc(var(--max-height)/var(--rows)), calc(var(--max-width)/var(--functional-cols)));
+                line-height: 1;
+            }
+            pre span.tall {
+                font-family: "Bedstead-UltraCondensed";
+                vertical-align: top;
+                display: inline-block;
+                font-size: 2em;
+                margin-bottom: -0.5em;
+                position: relative;
+                z-index: 1;
             }
             img {
                 margin: 0.5rem;
@@ -36,6 +58,13 @@
                 object-fit: contain;
             }
             a, a:link, a:active, a:hover, a:visited {
+                text-decoration: none;
+                color: inherit;
+            }
+            a:not(.nav):hover {
+                text-decoration: underline;
+            }
+            a.nav, a.nav:link, a.nav:active, a.nav:hover, a.nav:visited {
                 --padding: 0.1em;
                 font-family: "Bedstead-Ultracondensed", monospace;
                 color: white;
@@ -44,71 +73,995 @@
                 padding: var(--padding);
                 position: fixed;
                 top: calc(50% - 0.5em + var(--padding));
-                text-decoration: none;
             }
-            a#last {
+            a.nav#last {
                 left: 0;
             }
-            a#last::before {
+            a.nav#last::before {
                 content:'<'
             }
-            a#next {
+            a.nav#next {
                 right: 0;
             }
-            a#next::after {
+            a.nav#next::after {
                 content:'>'
             }
-            body:hover a {
+            body:hover a.nav {
                 opacity: 0.4;
             }
-            a:hover {
+            a.nav:hover {
                 opacity: 1;
             }
             @media screen and (orientation: portrait) {
-                a, a:link, a:active, a:hover, a:visited {
-                    top: calc(100% - 1em - var(--padding));
+                a.nav {
+                    top: calc(100% - 1em - var(--padding)) !important;
                 }
             }
         </style>
     </head>
     <body>
-        <img id="P800" src="../images/800.png" alt="P800: rules contents"/>
-<img id="P801" src="../images/801.png" alt="P801: rules"/>
-<img id="P802" src="../images/802.png" alt="P802: rules"/>
-<img id="P803" src="../images/803.png" alt="P803: rules"/>
-<img id="P804" src="../images/804.png" alt="P804: rules"/>
-<img id="P805" src="../images/805.png" alt="P805: rules"/>
-<img id="P806" src="../images/806.png" alt="P806: rules"/>
-<img id="P807" src="../images/807.png" alt="P807: rules"/>
-<img id="P808" src="../images/808.png" alt="P808: rules"/>
-<img id="P809" src="../images/809.png" alt="P809: rules"/>
-<img id="P810" src="../images/810.png" alt="P810: rules"/>
-<img id="P811" src="../images/811.png" alt="P811: rules"/>
-<img id="P812" src="../images/812.png" alt="P812: rules"/>
-<img id="P813" src="../images/813.png" alt="P813: rules"/>
-<img id="P814" src="../images/814.png" alt="P814: rules"/>
-<img id="P815" src="../images/815.png" alt="P815: rules"/>
-<img id="P816" src="../images/816.png" alt="P816: rules"/>
-<img id="P817" src="../images/817.png" alt="P817: rules"/>
-<img id="P818" src="../images/818.png" alt="P818: rules"/>
-<img id="P819" src="../images/819.png" alt="P819: rules"/>
-<img id="P820" src="../images/820.png" alt="P820: rules"/>
-<img id="P821" src="../images/821.png" alt="P821: rules"/>
-<img id="P822" src="../images/822.png" alt="P822: rules"/>
-<img id="P823" src="../images/823.png" alt="P823: rules"/>
-<img id="P824" src="../images/824.png" alt="P824: rules"/>
-<img id="P825" src="../images/825.png" alt="P825: rules"/>
-<img id="P826" src="../images/826.png" alt="P826: rules"/>
-<img id="P827" src="../images/827.png" alt="P827: rules"/>
-<img id="P828" src="../images/828.png" alt="P828: rules"/>
-<img id="P829" src="../images/829.png" alt="P829: rules"/>
-<img id="P830" src="../images/830.png" alt="P830: rules"/>
-<img id="P831" src="../images/831.png" alt="P831: rules"/>
-<img id="P832" src="../images/832.png" alt="P832: rules"/>
-<img id="P833" src="../images/833.png" alt="P833: rules"/>
-<img id="P834" src="../images/834.png" alt="P834: rules"/>
-<img id="P835" src="../images/835.png" alt="P835: rules"/>
-<img id="P836" src="../images/836.png" alt="P836: rules"/>
+        <pre id="P800" >  P800  TELETEXT 800 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(1/38)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Contents (1/1)                         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">1. </span><span style="color: #FFF; background-color: #000;">Preamble </span><span style="color: #FF0; background-color: #000;"><a href="801.html">→P801</a>                      </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">2. </span><span style="color: #FFF; background-color: #000;">Scope </span><span style="color: #FF0; background-color: #000;"><a href="802.html">→P802</a>                         </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">3. </span><span style="color: #FFF; background-color: #000;">Basic guidelines </span><span style="color: #FF0; background-color: #000;"><a href="805.html">→P805</a>              </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">4. </span><span style="color: #FFF; background-color: #000;">Inputting rules </span><span style="color: #FF0; background-color: #000;"><a href="812.html">→P812</a>               </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">5. </span><span style="color: #FFF; background-color: #000;">Alternate accounts </span><span style="color: #FF0; background-color: #000;"><a href="819.html">→P819</a>            </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">6. </span><span style="color: #FFF; background-color: #000;">Botting </span><span style="color: #FF0; background-color: #000;"><a href="823.html">→P823</a>                       </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">7. </span><span style="color: #FFF; background-color: #000;">Punishments </span><span style="color: #FF0; background-color: #000;"><a href="825.html">→P825</a>                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">8. </span><span style="color: #FFF; background-color: #000;">Cancellation and refunds </span><span style="color: #FF0; background-color: #000;"><a href="828.html">→P828</a>      </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">9. </span><span style="color: #FFF; background-color: #000;">Liquidations </span><span style="color: #FF0; background-color: #000;"><a href="835.html">→P835</a>                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P801" >  P801  TELETEXT 801 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(2/37)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Preamble</span> (1/1)                         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> The aim of these rules is to keep      </span>
+<span style="color: #FFF; background-color: #000;"> Twitch Plays Pokemon an enjoyable place</span>
+<span style="color: #FFF; background-color: #000;"> for everyone. We rewrote them from the </span>
+<span style="color: #FFF; background-color: #000;"> previous rules to make them more like  </span>
+<span style="color: #FFF; background-color: #000;"> guidelines than laws, and to make the  </span>
+<span style="color: #FFF; background-color: #000;"> more technical parts easier to enforce.</span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> It should be assumed that moderators   </span>
+<span style="color: #FFF; background-color: #000;"> will use their own discretion towards  </span>
+<span style="color: #FFF; background-color: #000;"> the more subjective guidelines, but    </span>
+<span style="color: #FFF; background-color: #000;"> (respectfully) user feedback is always </span>
+<span style="color: #FFF; background-color: #000;"> welcome.                               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="802.html">→P802</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P802" >  P802  TELETEXT 802 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(3/37)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Scope</span> (1/3)                            </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> The rules apply to the Twitch Plays    </span>
+<span style="color: #FFF; background-color: #000;"> Pokemon stream chat and any content    </span>
+<span style="color: #FFF; background-color: #000;"> displayed on stream, such as items,    </span>
+<span style="color: #FFF; background-color: #000;"> profile pictures and any in-game       </span>
+<span style="color: #FFF; background-color: #000;"> content (e.g. Pokemon nicknames).      </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> We have no jurisdiction over whispers, </span>
+<span style="color: #FFF; background-color: #000;"> or peripherals such as Discord DMs, but</span>
+<span style="color: #FFF; background-color: #000;"> in extreme cases we may issue bans over</span>
+<span style="color: #FFF; background-color: #000;"> these things if we believe the person  </span>
+<span style="color: #FFF; background-color: #000;"> does not belong in our community.      </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="803.html">→P803</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P803" >  P803  TELETEXT 803 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(4/37)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Scope</span> (2/3)                            </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Be aware that these rules are in force </span>
+<span style="color: #FFF; background-color: #000;"> community-wide, not just in stream. If </span>
+<span style="color: #FFF; background-color: #000;"> you receive a timeout or ban from a    </span>
+<span style="color: #FFF; background-color: #000;"> community site, such as the community  </span>
+<span style="color: #FFF; background-color: #000;"> Discord or Subreddit, it may also      </span>
+<span style="color: #FFF; background-color: #000;"> result in a timeout or ban from the    </span>
+<span style="color: #FFF; background-color: #000;"> stream if the stream moderators        </span>
+<span style="color: #FFF; background-color: #000;"> determine your conduct also violates   </span>
+<span style="color: #FFF; background-color: #000;"> stream rules.                          </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="804.html">→P804</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P804" >  P804  TELETEXT 804 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(5/37)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Scope</span> (3/3)                            </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> These rules do not override the Twitch </span>
+<span style="color: #FFF; background-color: #000;"> Community Guidelines, or any other     </span>
+<span style="color: #FFF; background-color: #000;"> official Twitch terms and guidelines,  </span>
+<span style="color: #FFF; background-color: #000;"> and we may issue punishments to enforce</span>
+<span style="color: #FFF; background-color: #000;"> said guidelines.                       </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="805.html">→P805</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P805" >  P805  TELETEXT 805 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(6/37)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Basic guidelines</span> (1/7)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Don't spam. Avoid flooding chat with </span>
+<span style="color: #FFF; background-color: #000;">   long, repetitive, or nonsensical     </span>
+<span style="color: #FFF; background-color: #000;">   messages, as well as excessive use of</span>
+<span style="color: #FFF; background-color: #000;">   emotes, caps lock, and special       </span>
+<span style="color: #FFF; background-color: #000;">   Unicode characters. The bot will     </span>
+<span style="color: #FFF; background-color: #000;">   automatically enforce this for the   </span>
+<span style="color: #FFF; background-color: #000;">   most part, but manual timeouts can be</span>
+<span style="color: #FFF; background-color: #000;">   issued as well.                      </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Don't advertise things without mod </span>
+<span style="color: #FFF; background-color: #000;">   permission.                          </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="806.html">→P806</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P806" >  P806  TELETEXT 806 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(7/37)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Basic guidelines</span> (2/7)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Respect other users, and the chat as </span>
+<span style="color: #FFF; background-color: #000;">   a whole.                             </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Don't bully, harass, gaslight or   </span>
+<span style="color: #FFF; background-color: #000;">   slander users.                       </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Don't start fights or provoke      </span>
+<span style="color: #FFF; background-color: #000;">   people. Even in situations where     </span>
+<span style="color: #FFF; background-color: #000;">   there are arguments over different   </span>
+<span style="color: #FFF; background-color: #000;">   objectives, or in cases where some   </span>
+<span style="color: #FFF; background-color: #000;">   players are just inputting           </span>
+<span style="color: #FFF; background-color: #000;">   suboptimally, all sides must remain  </span>
+<span style="color: #FFF; background-color: #000;">   nice and respectful towards each     </span>
+<span style="color: #FFF; background-color: #000;">   other.                               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="807.html">→P807</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P807" >  P807  TELETEXT 807 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(8/37)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Basic guidelines</span> (3/7)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Don't be a bigot. This covers all  </span>
+<span style="color: #FFF; background-color: #000;">   discrimination, identity hate and    </span>
+<span style="color: #FFF; background-color: #000;">   bigoted slurs.                       </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Don't get us wrong, a bit of       </span>
+<span style="color: #FFF; background-color: #000;">   trash-talking is still OK on TPP. But</span>
+<span style="color: #FFF; background-color: #000;">   we don't take kindly to unnecessary  </span>
+<span style="color: #FFF; background-color: #000;">   and excessive, or derogatory insults </span>
+<span style="color: #FFF; background-color: #000;">   or taunting.                         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="808.html">→P808</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P808" >  P808  TELETEXT 808 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(9/37)                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Basic guidelines</span> (4/7)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * No NSFW content. This includes nudity</span>
+<span style="color: #FFF; background-color: #000;">   and other inappropriate and graphic  </span>
+<span style="color: #FFF; background-color: #000;">   content. Don't link to it, don't set </span>
+<span style="color: #FFF; background-color: #000;">   it as your profile picture, don't    </span>
+<span style="color: #FFF; background-color: #000;">   make Unicode art of it.              </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * No fake NSFW links; URLs that look </span>
+<span style="color: #FFF; background-color: #000;">   inappropriate but are really harmless</span>
+<span style="color: #FFF; background-color: #000;">   will still be deleted.               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Discussing adult topics is OK, but </span>
+<span style="color: #FFF; background-color: #000;">   don't write anything graphic or      </span>
+<span style="color: #FFF; background-color: #000;">   exceedingly shocking.                </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="809.html">→P809</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P809" >  P809  TELETEXT 809 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(10/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Basic guidelines</span> (5/7)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * This is an English chat. Keep        </span>
+<span style="color: #FFF; background-color: #000;">   discussions in other languages to a  </span>
+<span style="color: #FFF; background-color: #000;">   minimum, because we can't reliably   </span>
+<span style="color: #FFF; background-color: #000;">   moderate them.                       </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="810.html">→P810</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P810" >  P810  TELETEXT 810 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(11/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Basic guidelines</span> (6/7)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Don't be a minimod. This includes    </span>
+<span style="color: #FFF; background-color: #000;">   threatening users with               </span>
+<span style="color: #FFF; background-color: #000;">   reports/timeouts, calling people alts</span>
+<span style="color: #FFF; background-color: #000;">   because they're new, and sending     </span>
+<span style="color: #FFF; background-color: #000;">   excessive and frivolous reports to   </span>
+<span style="color: #FFF; background-color: #000;">   moderators. Please tell us in Twitch </span>
+<span style="color: #FFF; background-color: #000;">   whispers or Discord DMs about people </span>
+<span style="color: #FFF; background-color: #000;">   breaking the rules. If possible,     </span>
+<span style="color: #FFF; background-color: #000;">   avoid sending reports via public     </span>
+<span style="color: #FFF; background-color: #000;">   channels. There's no need to incite  </span>
+<span style="color: #FFF; background-color: #000;">   public drama by doing so.            </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="811.html">→P811</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P811" >  P811  TELETEXT 811 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(12/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Basic guidelines</span> (7/7)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Mods have the final say on what      </span>
+<span style="color: #FFF; background-color: #000;">   breaks the rules. Don't ignore a mod </span>
+<span style="color: #FFF; background-color: #000;">   when they tell you to stop something.</span>
+<span style="color: #FFF; background-color: #000;">   Our intention is for TPP to remain a </span>
+<span style="color: #FFF; background-color: #000;">   fun and safe environment for everyone</span>
+<span style="color: #FFF; background-color: #000;">   and so we reserve the right to act in</span>
+<span style="color: #FFF; background-color: #000;">   any situation even if it's not       </span>
+<span style="color: #FFF; background-color: #000;">   covered by these rules if the need   </span>
+<span style="color: #FFF; background-color: #000;">   arises.                              </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="812.html">→P812</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P812" >  P812  TELETEXT 812 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(13/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Inputting rules</span> (1/7)                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> We want TPP to be a place where        </span>
+<span style="color: #FFF; background-color: #000;"> everyone can experiment and play their </span>
+<span style="color: #FFF; background-color: #000;"> way. So for the most part, you can     </span>
+<span style="color: #FFF; background-color: #000;"> input however you'd like. If you want  </span>
+<span style="color: #FFF; background-color: #000;"> to PC, learn a move, jump the ledge    </span>
+<span style="color: #FFF; background-color: #000;"> once or twice, throw a PBR match, go   </span>
+<span style="color: #FFF; background-color: #000;"> ahead!                                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Of course, there are some exceptions:  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="813.html">→P813</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P813" >  P813  TELETEXT 813 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(14/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Inputting rules</span> (2/7)                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Don't knowingly try to break, crash, </span>
+<span style="color: #FFF; background-color: #000;">   or softlock the stream unless an     </span>
+<span style="color: #FFF; background-color: #000;">   admin or operator gives explicit     </span>
+<span style="color: #FFF; background-color: #000;">   permission. And don't encourage      </span>
+<span style="color: #FFF; background-color: #000;">   others to do it, either.             </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Don't erase game progress unless an  </span>
+<span style="color: #FFF; background-color: #000;">   admin or operator gives explicit     </span>
+<span style="color: #FFF; background-color: #000;">   permission.                          </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="814.html">→P814</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P814" >  P814  TELETEXT 814 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(15/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Inputting rules</span> (3/7)                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Runs: (1/2)                          </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Don't stop new gameplay for an     </span>
+<span style="color: #FFF; background-color: #000;">   unreasonable amount of time.         </span>
+<span style="color: #FFF; background-color: #000;">   Intentionally stopping us from       </span>
+<span style="color: #FFF; background-color: #000;">   progressing, or at least doing       </span>
+<span style="color: #FFF; background-color: #000;">   something new, for a long amount of  </span>
+<span style="color: #FFF; background-color: #000;">   time will be punished if it's only   </span>
+<span style="color: #FFF; background-color: #000;">   one person or a small number of      </span>
+<span style="color: #FFF; background-color: #000;">   people doing it. Since every         </span>
+<span style="color: #FFF; background-color: #000;">   situation is unique, mods will use   </span>
+<span style="color: #FFF; background-color: #000;">   their discretion to determine        </span>
+<span style="color: #FFF; background-color: #000;">   appropriate timings and punishments  </span>
+<span style="color: #FFF; background-color: #000;">   for each case.                       </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="815.html">→P815</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P815" >  P815  TELETEXT 815 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(16/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Inputting rules</span> (4/7)                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Runs: (2/2)                          </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Don't intentionally use slurs or   </span>
+<span style="color: #FFF; background-color: #000;">   other derogatory names in any text   </span>
+<span style="color: #FFF; background-color: #000;">   prompt such as Pokemon nicknames.    </span>
+<span style="color: #FFF; background-color: #000;">   These will be treated as if you said </span>
+<span style="color: #FFF; background-color: #000;">   them in chat and the offending text  </span>
+<span style="color: #FFF; background-color: #000;">   will be deleted.                     </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="816.html">→P816</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P816" >  P816  TELETEXT 816 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(17/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Inputting rules</span> (5/7)                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * PBR                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Don't intentionally try to lose    </span>
+<span style="color: #FFF; background-color: #000;">   money ("throw") so often that the    </span>
+<span style="color: #FFF; background-color: #000;">   game is unfun and predictable. * *   </span>
+<span style="color: #FFF; background-color: #000;">   Don't throw a specific person in     </span>
+<span style="color: #FFF; background-color: #000;">   order to harass them. * * Don't throw</span>
+<span style="color: #FFF; background-color: #000;">   in collusion with another player(s)  </span>
+<span style="color: #FFF; background-color: #000;">   to get them higher on the            </span>
+<span style="color: #FFF; background-color: #000;">   leaderboard. This is match fixing. * </span>
+<span style="color: #FFF; background-color: #000;">   * Don't draw out the length of a     </span>
+<span style="color: #FFF; background-color: #000;">   match for no good reason.            </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="817.html">→P817</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P817" >  P817  TELETEXT 817 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(18/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Inputting rules</span> (6/7)                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * PBR                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * Our goal with PBR moderation is to </span>
+<span style="color: #FFF; background-color: #000;">   prevent malicious inputs from making </span>
+<span style="color: #FFF; background-color: #000;">   the game less enjoyable for other    </span>
+<span style="color: #FFF; background-color: #000;">   bettors, not to prevent people from  </span>
+<span style="color: #FFF; background-color: #000;">   learning and making mistakes. The    </span>
+<span style="color: #FFF; background-color: #000;">   perceived intent of the inputs is    </span>
+<span style="color: #FFF; background-color: #000;">   what will determine the punishments. </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="818.html">→P818</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P818" >  P818  TELETEXT 818 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(19/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Inputting rules</span> (7/7)                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * PBR                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * * * Since we know each match is a    </span>
+<span style="color: #FFF; background-color: #000;">   match and they don't exist in a void,</span>
+<span style="color: #FFF; background-color: #000;">   a mod will generally give a warning  </span>
+<span style="color: #FFF; background-color: #000;">   before any timeout is issued and will</span>
+<span style="color: #FFF; background-color: #000;">   generally wait at least 1 match after</span>
+<span style="color: #FFF; background-color: #000;">   the warning before giving a timeout. </span>
+<span style="color: #FFF; background-color: #000;">   Exceptions may be made when deemed   </span>
+<span style="color: #FFF; background-color: #000;">   necessary by mod discretion due to   </span>
+<span style="color: #FFF; background-color: #000;">   severity or repetition.              </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="819.html">→P819</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P819" >  P819  TELETEXT 819 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(20/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Alternate accounts</span> (1/4)               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> TPP has a complicated past with how we </span>
+<span style="color: #FFF; background-color: #000;"> treat one person using multiple        </span>
+<span style="color: #FFF; background-color: #000;"> accounts. It is difficult to           </span>
+<span style="color: #FFF; background-color: #000;"> effectively enforce this, though. So   </span>
+<span style="color: #FFF; background-color: #000;"> our current policy is we don't really  </span>
+<span style="color: #FFF; background-color: #000;"> mind if you use a 2nd account ("alt"), </span>
+<span style="color: #FFF; background-color: #000;"> as long as it's in good faith. But we'd</span>
+<span style="color: #FFF; background-color: #000;"> strongly prefer it if you told us      </span>
+<span style="color: #FFF; background-color: #000;"> first.                                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * First and foremost, we reserve the   </span>
+<span style="color: #FFF; background-color: #000;">   right to ban any obvious,            </span>
+<span style="color: #FFF; background-color: #000;">   unregistered alt on sight, even if   </span>
+<span style="color: #FFF; background-color: #000;">   it's not doing anything wrong.       </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="820.html">→P820</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P820" >  P820  TELETEXT 820 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(21/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Alternate accounts</span> (2/4)               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * To prevent this from happening,      </span>
+<span style="color: #FFF; background-color: #000;">   please message a moderator with the  </span>
+<span style="color: #FFF; background-color: #000;">   username of your desired alt. Note   </span>
+<span style="color: #FFF; background-color: #000;">   that the alt will still be considered</span>
+<span style="color: #FFF; background-color: #000;">   unregistered until we tell you that  </span>
+<span style="color: #FFF; background-color: #000;">   it has been registered (it will be   </span>
+<span style="color: #FFF; background-color: #000;">   entered into a database so the bot   </span>
+<span style="color: #FFF; background-color: #000;">   can recognize it). We may deny your  </span>
+<span style="color: #FFF; background-color: #000;">   request if we believe it to be in bad</span>
+<span style="color: #FFF; background-color: #000;">   faith or you're requesting an        </span>
+<span style="color: #FFF; background-color: #000;">   unreasonable number of alts just for </span>
+<span style="color: #FFF; background-color: #000;">   the sake of it.                      </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="821.html">→P821</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P821" >  P821  TELETEXT 821 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(22/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Alternate accounts</span> (3/4)               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Use only one account at a time. If   </span>
+<span style="color: #FFF; background-color: #000;">   you wish to switch accounts, you must</span>
+<span style="color: #FFF; background-color: #000;">   wait one hour after sending a message</span>
+<span style="color: #FFF; background-color: #000;">   on one account before you will be    </span>
+<span style="color: #FFF; background-color: #000;">   allowed to use the other. (The bot   </span>
+<span style="color: #FFF; background-color: #000;">   automatically enforces this for      </span>
+<span style="color: #FFF; background-color: #000;">   registered alts.)                    </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Only one account can receive rewards </span>
+<span style="color: #FFF; background-color: #000;">   (random pinball drops and PBR        </span>
+<span style="color: #FFF; background-color: #000;">   leaderboard rewards) at a time. The  </span>
+<span style="color: #FFF; background-color: #000;">   bot automatically handles this rule  </span>
+<span style="color: #FFF; background-color: #000;">   for registered alts.                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="822.html">→P822</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P822" >  P822  TELETEXT 822 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(23/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Alternate accounts</span> (4/4)               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Do not use an alt maliciously. This  </span>
+<span style="color: #FFF; background-color: #000;">   includes impersonating other users,  </span>
+<span style="color: #FFF; background-color: #000;">   evading punishments, or inputting    </span>
+<span style="color: #FFF; background-color: #000;">   maliciously in PBR or runs. Doing so </span>
+<span style="color: #FFF; background-color: #000;">   may induce heavier punishments for   </span>
+<span style="color: #FFF; background-color: #000;">   your main account.                   </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="823.html">→P823</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P823" >  P823  TELETEXT 823 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(24/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Botting</span> (1/2)                          </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Any automatic sending of bets, inputs, </span>
+<span style="color: #FFF; background-color: #000;"> and chat messages is not allowed. That </span>
+<span style="color: #FFF; background-color: #000;"> is to say, every message you send must </span>
+<span style="color: #FFF; background-color: #000;"> have a manual trigger. If we discover  </span>
+<span style="color: #FFF; background-color: #000;"> you are running a bot, you will be     </span>
+<span style="color: #FFF; background-color: #000;"> banned.                                </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> All bots (other than tppsimulator) are </span>
+<span style="color: #FFF; background-color: #000;"> ineligible for badge drops and other   </span>
+<span style="color: #FFF; background-color: #000;"> rewards. If a bot has obtained such    </span>
+<span style="color: #FFF; background-color: #000;"> rewards before it was discovered, it   </span>
+<span style="color: #FFF; background-color: #000;"> will be liquidated.                    </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="824.html">→P824</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P824" >  P824  TELETEXT 824 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(25/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Botting</span> (2/2)                          </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Bots that simply read chat without     </span>
+<span style="color: #FFF; background-color: #000;"> sending messages, as well as bots that </span>
+<span style="color: #FFF; background-color: #000;"> only whisper commands which don't      </span>
+<span style="color: #FFF; background-color: #000;"> affect runs or PBR (badge trading,     </span>
+<span style="color: #FFF; background-color: #000;"> token storms, etc.) are allowed. Bots  </span>
+<span style="color: #FFF; background-color: #000;"> that do send messages require approval </span>
+<span style="color: #FFF; background-color: #000;"> from mods/admins. Note that any bot    </span>
+<span style="color: #FFF; background-color: #000;"> that sends inputs will not be approved.</span>
+<span style="color: #FFF; background-color: #000;"> The only exception to this is          </span>
+<span style="color: #FFF; background-color: #000;"> tppsimulator.                          </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="825.html">→P825</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P825" >  P825  TELETEXT 825 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(26/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Punishments</span> (1/3)                      </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Moderators will give timeouts as needed</span>
+<span style="color: #FFF; background-color: #000;"> to enforce these guidelines and keep   </span>
+<span style="color: #FFF; background-color: #000;"> TPP enjoyable. Timeout lengths are     </span>
+<span style="color: #FFF; background-color: #000;"> generally scaled to severity and       </span>
+<span style="color: #FFF; background-color: #000;"> persistence, but are completely        </span>
+<span style="color: #FFF; background-color: #000;"> case-by-case; we make no guarantee of  </span>
+<span style="color: #FFF; background-color: #000;"> consistency.                           </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> While you are timed out you should not </span>
+<span style="color: #FFF; background-color: #000;"> have access to the bot via whispers,   </span>
+<span style="color: #FFF; background-color: #000;"> but in case you do, don't abuse Mail or</span>
+<span style="color: #FFF; background-color: #000;"> other items or we may extend your      </span>
+<span style="color: #FFF; background-color: #000;"> timeout.                               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="826.html">→P826</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P826" >  P826  TELETEXT 826 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(27/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Punishments</span> (2/3)                      </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Bans are given in exceptional cases.   </span>
+<span style="color: #FFF; background-color: #000;"> They are indefinite in length and must </span>
+<span style="color: #FFF; background-color: #000;"> be manually appealed. Typical cases for</span>
+<span style="color: #FFF; background-color: #000;"> a ban include: * Racism, NSFW content, </span>
+<span style="color: #FFF; background-color: #000;"> death threats, doxxing, etc.           </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Advertising or excessive spam within </span>
+<span style="color: #FFF; background-color: #000;">   the first few messages.              </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="827.html">→P827</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P827" >  P827  TELETEXT 827 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(28/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Punishments</span> (3/3)                      </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Poor behavior that persists even     </span>
+<span style="color: #FFF; background-color: #000;">   after very long timeouts.            </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Unregistered alts, especially when   </span>
+<span style="color: #FFF; background-color: #000;">   they are abused.                     </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * Botting.                             </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> To appeal your ban, use Twitch's       </span>
+<span style="color: #FFF; background-color: #000;"> built-in Unban Request which will be   </span>
+<span style="color: #FFF; background-color: #000;"> available after a cooldown period after</span>
+<span style="color: #FFF; background-color: #000;"> your ban.                              </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="828.html">→P828</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P828" >  P828  TELETEXT 828 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(29/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Cancellation and refunds</span> (1/7)         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> A PBR match will be manually canceled  </span>
+<span style="color: #FFF; background-color: #000;"> and recorded as a draw if: (1/2) * The </span>
+<span style="color: #FFF; background-color: #000;"> game freezes or softlocks and is       </span>
+<span style="color: #FFF; background-color: #000;"> unrecoverable * If a softlock occurs   </span>
+<span style="color: #FFF; background-color: #000;"> and the match does not automatically   </span>
+<span style="color: #FFF; background-color: #000;"> cancel, but the match is not one where </span>
+<span style="color: #FFF; background-color: #000;"> inputs affect the match (such as       </span>
+<span style="color: #FFF; background-color: #000;"> Defiance or Metronome), then it will be</span>
+<span style="color: #FFF; background-color: #000;"> replayed from the start instead.       </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="829.html">→P829</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P829" >  P829  TELETEXT 829 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(30/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Cancellation and refunds</span> (2/7)         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> A PBR match will be manually canceled  </span>
+<span style="color: #FFF; background-color: #000;"> and recorded as a draw if: (2/2) * A   </span>
+<span style="color: #FFF; background-color: #000;"> glitch caused by TPP (and not one      </span>
+<span style="color: #FFF; background-color: #000;"> solely within the game itself) alters  </span>
+<span style="color: #FFF; background-color: #000;"> or had a significant chance to alter   </span>
+<span style="color: #FFF; background-color: #000;"> the outcome of the match * If throwing </span>
+<span style="color: #FFF; background-color: #000;"> done by alts, or throwing done in      </span>
+<span style="color: #FFF; background-color: #000;"> violation of the "Inputting Rules"     </span>
+<span style="color: #FFF; background-color: #000;"> section, altered the outcome of the    </span>
+<span style="color: #FFF; background-color: #000;"> match                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="830.html">→P830</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P830" >  P830  TELETEXT 830 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(31/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Cancellation and refunds</span> (3/7)         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> If the match was not canceled before it</span>
+<span style="color: #FFF; background-color: #000;"> ended, but falls into the cases above, </span>
+<span style="color: #FFF; background-color: #000;"> it will be retroactively reverted to a </span>
+<span style="color: #FFF; background-color: #000;"> draw (and balances will be adjusted    </span>
+<span style="color: #FFF; background-color: #000;"> accordingly). If a match was canceled  </span>
+<span style="color: #FFF; background-color: #000;"> and recorded as a draw, but it is clear</span>
+<span style="color: #FFF; background-color: #000;"> that one side was going to win, and it </span>
+<span style="color: #FFF; background-color: #000;"> was impossible for them to lose with   </span>
+<span style="color: #FFF; background-color: #000;"> any inputs if the match had played out,</span>
+<span style="color: #FFF; background-color: #000;"> then the match will be retroactively   </span>
+<span style="color: #FFF; background-color: #000;"> recorded as a win for that side (and   </span>
+<span style="color: #FFF; background-color: #000;"> balances will be adjusted accordingly).</span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="831.html">→P831</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P831" >  P831  TELETEXT 831 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(32/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Cancellation and refunds</span> (4/7)         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> If a match that should have been       </span>
+<span style="color: #FFF; background-color: #000;"> canceled was not canceled, and its     </span>
+<span style="color: #FFF; background-color: #000;"> result radically altered balances, and </span>
+<span style="color: #FFF; background-color: #000;"> this unfairly obtained money is        </span>
+<span style="color: #FFF; background-color: #000;"> multiplied in the following matches to </span>
+<span style="color: #FFF; background-color: #000;"> radically alter the leaderboard, then  </span>
+<span style="color: #FFF; background-color: #000;"> further balance adjustments may be     </span>
+<span style="color: #FFF; background-color: #000;"> made.                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="832.html">→P832</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P832" >  P832  TELETEXT 832 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(33/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Cancellation and refunds</span> (5/7)         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Tokens will be refunded in the         </span>
+<span style="color: #FFF; background-color: #000;"> following cases: (1/2)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * If the hourly token match was        </span>
+<span style="color: #FFF; background-color: #000;">   canceled less than 2 minutes after it</span>
+<span style="color: #FFF; background-color: #000;">   started, then tokens will be refunded</span>
+<span style="color: #FFF; background-color: #000;">   for its bid. * If a battle song was  </span>
+<span style="color: #FFF; background-color: #000;">   bid for a match and it was canceled  </span>
+<span style="color: #FFF; background-color: #000;">   less than 2 minutes after it started,</span>
+<span style="color: #FFF; background-color: #000;">   then tokens will be refunded for the </span>
+<span style="color: #FFF; background-color: #000;">   bid.                                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="833.html">→P833</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P833" >  P833  TELETEXT 833 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(34/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Cancellation and refunds</span> (6/7)         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Tokens will be refunded in the         </span>
+<span style="color: #FFF; background-color: #000;"> following cases: (2/2)                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> * If any song is bid and fails to play </span>
+<span style="color: #FFF; background-color: #000;">   at all, tokens will be refunded for  </span>
+<span style="color: #FFF; background-color: #000;">   the bid. * If Pinball chooses the    </span>
+<span style="color: #FFF; background-color: #000;">   wrong table and gives a x0 payout,   </span>
+<span style="color: #FFF; background-color: #000;">   any bets on that table will be       </span>
+<span style="color: #FFF; background-color: #000;">   refunded. * If Pinball has achieved a</span>
+<span style="color: #FFF; background-color: #000;">   score high enough to receive a       </span>
+<span style="color: #FFF; background-color: #000;">   payout, but crashes or achieves a    </span>
+<span style="color: #FFF; background-color: #000;">   lower score due to a glitch, tokens  </span>
+<span style="color: #FFF; background-color: #000;">   will be issued for the higher score. </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="834.html">→P834</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P834" >  P834  TELETEXT 834 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(35/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Cancellation and refunds</span> (7/7)         </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> No items will be refunded for          </span>
+<span style="color: #FFF; background-color: #000;"> accidental consumption. Channel points </span>
+<span style="color: #FFF; background-color: #000;"> will be refunded if their reward fails </span>
+<span style="color: #FFF; background-color: #000;"> to work. Please contact a mod or admin </span>
+<span style="color: #FFF; background-color: #000;"> if you think you are entitled to a     </span>
+<span style="color: #FFF; background-color: #000;"> refund.                                </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="835.html">→P835</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P835" >  P835  TELETEXT 835 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(36/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Liquidations</span> (1/2)                     </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Alts before registration and bots will </span>
+<span style="color: #FFF; background-color: #000;"> have their tokens, badges and items    </span>
+<span style="color: #FFF; background-color: #000;"> redistributed to random chat members   </span>
+<span style="color: #FFF; background-color: #000;"> ("liquidated") after they are          </span>
+<span style="color: #FFF; background-color: #000;"> discovered. Users can also request to  </span>
+<span style="color: #FFF; background-color: #000;"> have their accounts liquidated for any </span>
+<span style="color: #FFF; background-color: #000;"> reason. Note that user-requested       </span>
+<span style="color: #FFF; background-color: #000;"> liquidations will not be performed on  </span>
+<span style="color: #FFF; background-color: #000;"> demand and will in most cases be       </span>
+<span style="color: #FFF; background-color: #000;"> deferred for a month or more to give   </span>
+<span style="color: #FFF; background-color: #000;"> the user an opportunity to change their</span>
+<span style="color: #FFF; background-color: #000;"> minds.                                 </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="836.html">→P836</a>                                  </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<pre id="P836" >  P836  TELETEXT 836 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(37/37)                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> <span class="tall">Liquidations</span> (2/2)                     </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Except as stated above we do not       </span>
+<span style="color: #FFF; background-color: #000;"> liquidate real users, even if they are </span>
+<span style="color: #FFF; background-color: #000;"> inactive or banned.                    </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> END                                    </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha512-UXumZrZNiOwnTcZSHLOfcTs0aos2MzBWHXOHOuB0J/R44QB0dwY5JgfbvljXcklVf65Gc4El6RjZ+lnwd2az2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>

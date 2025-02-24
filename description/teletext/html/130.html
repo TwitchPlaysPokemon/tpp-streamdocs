@@ -24,10 +24,32 @@
                 margin: 0;
                 display: flex;
                 flex-flow: column nowrap;
-                align-items: stretch;
+                align-items: center;
                 justify-content: center;
                 min-height: 100dvh;
                 min-width: 100dvw;
+            }
+            pre {
+                margin: 0;
+                font-family: "Bedstead", monospace;
+                --rows: 25;
+                --cols: 40;
+                --max-height: calc(100dvh - 1rem);
+                --max-width: calc(100dvw - 1rem);
+                --functional-cols: calc(var(--cols) / 1.65);
+                background-color: #000;
+                color: #FFF;
+                font-size: min(calc(var(--max-height)/var(--rows)), calc(var(--max-width)/var(--functional-cols)));
+                line-height: 1;
+            }
+            pre span.tall {
+                font-family: "Bedstead-UltraCondensed";
+                vertical-align: top;
+                display: inline-block;
+                font-size: 2em;
+                margin-bottom: -0.5em;
+                position: relative;
+                z-index: 1;
             }
             img {
                 margin: 0.5rem;
@@ -36,6 +58,13 @@
                 object-fit: contain;
             }
             a, a:link, a:active, a:hover, a:visited {
+                text-decoration: none;
+                color: inherit;
+            }
+            a:not(.nav):hover {
+                text-decoration: underline;
+            }
+            a.nav, a.nav:link, a.nav:active, a.nav:hover, a.nav:visited {
                 --padding: 0.1em;
                 font-family: "Bedstead-Ultracondensed", monospace;
                 color: white;
@@ -44,37 +73,61 @@
                 padding: var(--padding);
                 position: fixed;
                 top: calc(50% - 0.5em + var(--padding));
-                text-decoration: none;
             }
-            a#last {
+            a.nav#last {
                 left: 0;
             }
-            a#last::before {
+            a.nav#last::before {
                 content:'<'
             }
-            a#next {
+            a.nav#next {
                 right: 0;
             }
-            a#next::after {
+            a.nav#next::after {
                 content:'>'
             }
-            body:hover a {
+            body:hover a.nav {
                 opacity: 0.4;
             }
-            a:hover {
+            a.nav:hover {
                 opacity: 1;
             }
             @media screen and (orientation: portrait) {
-                a, a:link, a:active, a:hover, a:visited {
-                    top: calc(100% - 1em - var(--padding));
+                a.nav {
+                    top: calc(100% - 1em - var(--padding)) !important;
                 }
             }
         </style>
     </head>
     <body>
-        <img id="P130" src="../images/130.png" alt="P130: controls 1"/>
-<a href="120.html" title="P120: tppsimulator" id="last"></a>
-<a href="131.html" title="P131: controls 2" id="next"></a>
+        <pre id="P130" >  P130  TELETEXT 130 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(1/2)           </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="131.html">→P131</a>           </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">Say the </span><span style="color: #0F0; background-color: #000;">green text </span><span style="color: #FFF; background-color: #000;">in chat to press the </span>
+<span style="color: #FFF; background-color: #000;">button, use MiXeD-CaSE to bypass filter.</span>
+<span style="color: #FFF; background-color: #000;">Not every button is used by every game. </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">L </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">R </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">UP   </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">X </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">or </span><span style="color: #0F0; background-color: #000;">N </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">LEFT      </span><span style="color: #0F0; background-color: #000;">RIGHT </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">Y </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">A </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">or </span><span style="color: #0F0; background-color: #000;">W      </span><span style="color: #FFF; background-color: #000;">or </span><span style="color: #0F0; background-color: #000;">E  </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">DOWN </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">B </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">or </span><span style="color: #0F0; background-color: #000;">S </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">SELECT </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #0F0; background-color: #000;">START </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;">                                       </span>
+</pre>
+<a href="120.html" class="nav" title="P120: tppsimulator" id="last"></a>
+<a href="131.html" class="nav" title="P131: controls 2" id="next"></a>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha512-UXumZrZNiOwnTcZSHLOfcTs0aos2MzBWHXOHOuB0J/R44QB0dwY5JgfbvljXcklVf65Gc4El6RjZ+lnwd2az2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>
             const last = document.getElementById("last");

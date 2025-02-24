@@ -24,10 +24,32 @@
                 margin: 0;
                 display: flex;
                 flex-flow: column nowrap;
-                align-items: stretch;
+                align-items: center;
                 justify-content: center;
                 min-height: 100dvh;
                 min-width: 100dvw;
+            }
+            pre {
+                margin: 0;
+                font-family: "Bedstead", monospace;
+                --rows: 25;
+                --cols: 40;
+                --max-height: calc(100dvh - 1rem);
+                --max-width: calc(100dvw - 1rem);
+                --functional-cols: calc(var(--cols) / 1.65);
+                background-color: #000;
+                color: #FFF;
+                font-size: min(calc(var(--max-height)/var(--rows)), calc(var(--max-width)/var(--functional-cols)));
+                line-height: 1;
+            }
+            pre span.tall {
+                font-family: "Bedstead-UltraCondensed";
+                vertical-align: top;
+                display: inline-block;
+                font-size: 2em;
+                margin-bottom: -0.5em;
+                position: relative;
+                z-index: 1;
             }
             img {
                 margin: 0.5rem;
@@ -36,6 +58,13 @@
                 object-fit: contain;
             }
             a, a:link, a:active, a:hover, a:visited {
+                text-decoration: none;
+                color: inherit;
+            }
+            a:not(.nav):hover {
+                text-decoration: underline;
+            }
+            a.nav, a.nav:link, a.nav:active, a.nav:hover, a.nav:visited {
                 --padding: 0.1em;
                 font-family: "Bedstead-Ultracondensed", monospace;
                 color: white;
@@ -44,36 +73,60 @@
                 padding: var(--padding);
                 position: fixed;
                 top: calc(50% - 0.5em + var(--padding));
-                text-decoration: none;
             }
-            a#last {
+            a.nav#last {
                 left: 0;
             }
-            a#last::before {
+            a.nav#last::before {
                 content:'<'
             }
-            a#next {
+            a.nav#next {
                 right: 0;
             }
-            a#next::after {
+            a.nav#next::after {
                 content:'>'
             }
-            body:hover a {
+            body:hover a.nav {
                 opacity: 0.4;
             }
-            a:hover {
+            a.nav:hover {
                 opacity: 1;
             }
             @media screen and (orientation: portrait) {
-                a, a:link, a:active, a:hover, a:visited {
-                    top: calc(100% - 1em - var(--padding));
+                a.nav {
+                    top: calc(100% - 1em - var(--padding)) !important;
                 }
             }
         </style>
     </head>
     <body>
-        <img id="P100" src="../images/100.png" alt="P100: home"/>
-<a href="101.html" title="P101: about" id="next"></a>
+        <pre id="P100" >  P100  TELETEXT 100 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">    Gaming collaboratively since 2014   </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> Use Twitch chat or the VRChat world's  </span>
+<span style="color: #FFF; background-color: #000;"> controller to play the game. </span><span style="color: #FF0; background-color: #000;"><a href="101.html">P101</a>      </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> The stream's timezone is set to UTC.   </span>
+<span style="color: #FFF; background-color: #000;"> Use </span><span style="color: #0FF; background-color: #000;"><a href="https://time.is/UTC" target="_blank">https://time.is/UTC</a> </span><span style="color: #FFF; background-color: #000;">to check delay.</span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> RULES: Speak English and be respectful,</span>
+<span style="color: #FFF; background-color: #000;"> don't advertise, spam, minimod, delete </span>
+<span style="color: #FFF; background-color: #000;"> saves or be too disruptive. </span><span style="color: #FF0; background-color: #000;"><a href="800.html">P800</a>       </span>
+<span style="color: #FFF; background-color: #000;"> DISCLAIMER: Data may be gathered. </span><span style="color: #FF0; background-color: #000;"><a href="197.html">P197</a> </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<a href="101.html" class="nav" title="P101: about" id="next"></a>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha512-UXumZrZNiOwnTcZSHLOfcTs0aos2MzBWHXOHOuB0J/R44QB0dwY5JgfbvljXcklVf65Gc4El6RjZ+lnwd2az2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>
             const last = document.getElementById("last");

@@ -24,10 +24,32 @@
                 margin: 0;
                 display: flex;
                 flex-flow: column nowrap;
-                align-items: stretch;
+                align-items: center;
                 justify-content: center;
                 min-height: 100dvh;
                 min-width: 100dvw;
+            }
+            pre {
+                margin: 0;
+                font-family: "Bedstead", monospace;
+                --rows: 25;
+                --cols: 40;
+                --max-height: calc(100dvh - 1rem);
+                --max-width: calc(100dvw - 1rem);
+                --functional-cols: calc(var(--cols) / 1.65);
+                background-color: #000;
+                color: #FFF;
+                font-size: min(calc(var(--max-height)/var(--rows)), calc(var(--max-width)/var(--functional-cols)));
+                line-height: 1;
+            }
+            pre span.tall {
+                font-family: "Bedstead-UltraCondensed";
+                vertical-align: top;
+                display: inline-block;
+                font-size: 2em;
+                margin-bottom: -0.5em;
+                position: relative;
+                z-index: 1;
             }
             img {
                 margin: 0.5rem;
@@ -36,6 +58,13 @@
                 object-fit: contain;
             }
             a, a:link, a:active, a:hover, a:visited {
+                text-decoration: none;
+                color: inherit;
+            }
+            a:not(.nav):hover {
+                text-decoration: underline;
+            }
+            a.nav, a.nav:link, a.nav:active, a.nav:hover, a.nav:visited {
                 --padding: 0.1em;
                 font-family: "Bedstead-Ultracondensed", monospace;
                 color: white;
@@ -44,37 +73,61 @@
                 padding: var(--padding);
                 position: fixed;
                 top: calc(50% - 0.5em + var(--padding));
-                text-decoration: none;
             }
-            a#last {
+            a.nav#last {
                 left: 0;
             }
-            a#last::before {
+            a.nav#last::before {
                 content:'<'
             }
-            a#next {
+            a.nav#next {
                 right: 0;
             }
-            a#next::after {
+            a.nav#next::after {
                 content:'>'
             }
-            body:hover a {
+            body:hover a.nav {
                 opacity: 0.4;
             }
-            a:hover {
+            a.nav:hover {
                 opacity: 1;
             }
             @media screen and (orientation: portrait) {
-                a, a:link, a:active, a:hover, a:visited {
-                    top: calc(100% - 1em - var(--padding));
+                a.nav {
+                    top: calc(100% - 1em - var(--padding)) !important;
                 }
             }
         </style>
     </head>
     <body>
-        <img id="P111" src="../images/111.png" alt="P111: website"/>
-<a href="106.html" title="P106: commentary" id="last"></a>
-<a href="120.html" title="P120: tppsimulator" id="next"></a>
+        <pre id="P111" >  P111  TELETEXT 111 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(1/1)               </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> The Twitch Plays Pokemon </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> website is located at:   </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #0FF; background-color: #000;"><a href="https://twitchplayspokemon.tv" target="_blank">https://twitchplayspokemon.tv</a> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                  </span><span style="color: #00F; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> The website has: </span><span style="color: #00F; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">                  </span><span style="color: #00F; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">Leaderboard   </span><span style="color: #00F; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">Rules list    </span><span style="color: #00F; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">Avatars       </span><span style="color: #00F; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">Technical transmutation information </span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">Music submission form               </span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">Season rewards                      </span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">Chat commands                       </span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">PBR doubles input system            </span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">API documentation                   </span>
+<span style="color: #FFF; background-color: #000;">  </span><span style="color: #F00; background-color: #000;">* </span><span style="color: #FFF; background-color: #000;">Privacy statement                   </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<a href="106.html" class="nav" title="P106: commentary" id="last"></a>
+<a href="120.html" class="nav" title="P120: tppsimulator" id="next"></a>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha512-UXumZrZNiOwnTcZSHLOfcTs0aos2MzBWHXOHOuB0J/R44QB0dwY5JgfbvljXcklVf65Gc4El6RjZ+lnwd2az2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>
             const last = document.getElementById("last");

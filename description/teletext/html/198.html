@@ -24,10 +24,32 @@
                 margin: 0;
                 display: flex;
                 flex-flow: column nowrap;
-                align-items: stretch;
+                align-items: center;
                 justify-content: center;
                 min-height: 100dvh;
                 min-width: 100dvw;
+            }
+            pre {
+                margin: 0;
+                font-family: "Bedstead", monospace;
+                --rows: 25;
+                --cols: 40;
+                --max-height: calc(100dvh - 1rem);
+                --max-width: calc(100dvw - 1rem);
+                --functional-cols: calc(var(--cols) / 1.65);
+                background-color: #000;
+                color: #FFF;
+                font-size: min(calc(var(--max-height)/var(--rows)), calc(var(--max-width)/var(--functional-cols)));
+                line-height: 1;
+            }
+            pre span.tall {
+                font-family: "Bedstead-UltraCondensed";
+                vertical-align: top;
+                display: inline-block;
+                font-size: 2em;
+                margin-bottom: -0.5em;
+                position: relative;
+                z-index: 1;
             }
             img {
                 margin: 0.5rem;
@@ -36,6 +58,13 @@
                 object-fit: contain;
             }
             a, a:link, a:active, a:hover, a:visited {
+                text-decoration: none;
+                color: inherit;
+            }
+            a:not(.nav):hover {
+                text-decoration: underline;
+            }
+            a.nav, a.nav:link, a.nav:active, a.nav:hover, a.nav:visited {
                 --padding: 0.1em;
                 font-family: "Bedstead-Ultracondensed", monospace;
                 color: white;
@@ -44,37 +73,61 @@
                 padding: var(--padding);
                 position: fixed;
                 top: calc(50% - 0.5em + var(--padding));
-                text-decoration: none;
             }
-            a#last {
+            a.nav#last {
                 left: 0;
             }
-            a#last::before {
+            a.nav#last::before {
                 content:'<'
             }
-            a#next {
+            a.nav#next {
                 right: 0;
             }
-            a#next::after {
+            a.nav#next::after {
                 content:'>'
             }
-            body:hover a {
+            body:hover a.nav {
                 opacity: 0.4;
             }
-            a:hover {
+            a.nav:hover {
                 opacity: 1;
             }
             @media screen and (orientation: portrait) {
-                a, a:link, a:active, a:hover, a:visited {
-                    top: calc(100% - 1em - var(--padding));
+                a.nav {
+                    top: calc(100% - 1em - var(--padding)) !important;
                 }
             }
         </style>
     </head>
     <body>
-        <img id="P198" src="../images/198.png" alt="P198: privacy 2"/>
-<a href="197.html" title="P197: privacy 1" id="last"></a>
-<a href="199.html" title="P199: privacy 3" id="next"></a>
+        <pre id="P198" >  P198  TELETEXT 198 2025-02-24 21:22:33
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(2/3)              </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="197.html">←P197</a>              </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="199.html">→P199</a>              </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
+<span style="color: #FFF; background-color: #000;"> If you visit our companion website,    </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #0FF; background-color: #000;"><a href="https://twitchplayspokemon.tv" target="_blank">https://twitchplayspokemon.tv</a>, </span><span style="color: #FFF; background-color: #000;">we will </span>
+<span style="color: #FFF; background-color: #000;"> also log your IP address in our traffic</span>
+<span style="color: #FFF; background-color: #000;"> logs, along with the page that was     </span>
+<span style="color: #FFF; background-color: #000;"> visited and the timestamp of the visit,</span>
+<span style="color: #FFF; background-color: #000;"> as is common on the web. If you choose </span>
+<span style="color: #FFF; background-color: #000;"> to log in to our website with your     </span>
+<span style="color: #FFF; background-color: #000;"> Twitch account, we will also log the   </span>
+<span style="color: #FFF; background-color: #000;"> Twitch public user ID associated with  </span>
+<span style="color: #FFF; background-color: #000;"> the visit.                             </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;"> We collect this data to:               </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+<span style="color: #FFF; background-color: #000;">  1. Identify any malicious traffic     </span>
+<span style="color: #FFF; background-color: #000;">  2. Diagnose website and stream issues </span>
+<span style="color: #FFF; background-color: #000;">  3. Enforce stream rules over alternate</span>
+<span style="color: #FFF; background-color: #000;">     account abuse.                     </span>
+<span style="color: #FFF; background-color: #000;">  4. Verify an account holder during    </span>
+<span style="color: #FFF; background-color: #000;">     suspension appeals.                </span>
+<span style="color: #FFF; background-color: #000;">                                        </span>
+</pre>
+<a href="197.html" class="nav" title="P197: privacy 1" id="last"></a>
+<a href="199.html" class="nav" title="P199: privacy 3" id="next"></a>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha512-UXumZrZNiOwnTcZSHLOfcTs0aos2MzBWHXOHOuB0J/R44QB0dwY5JgfbvljXcklVf65Gc4El6RjZ+lnwd2az2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>
             const last = document.getElementById("last");
