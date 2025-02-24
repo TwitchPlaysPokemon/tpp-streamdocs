@@ -3,10 +3,14 @@ on:
     workflow_dispatch:
     push:
         paths:
-            - 'description/teletext/pages'
+            - 'description/teletext'
+            - '!description/teletext/images'
+            - '!description/teletext/html'
     pull_request:
         paths:
-            - 'description/teletext/pages'
+          - 'description/teletext'
+          - '!description/teletext/images'
+          - '!description/teletext/html'
 jobs:
   render_teletext:
     runs-on: ubuntu-latest
@@ -19,14 +23,18 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install git+https://github.com/TwitchPlaysPokemon/ttxrenderer.git#egg=ttxrenderer
+      - name: Make pages listing
+        run: python description/teletext/make_listing.py
       - name: Render teletext
         run: python -m ttxrenderer description/teletext/pages description/teletext/images
-      - name: Commit rendered images
+      - name: Commit rendered images/listing
         run: |
           git config --global user.name 'TTXRenderer'
           git config --global user.email 'no-name@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
           git checkout "${GITHUB_REF:11}"
+          git add description/teletext/*
+          git add description/teletext/html/*
           git add description/teletext/images/*
           git commit -am "Updated generated teletext images"
           git push
