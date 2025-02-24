@@ -3,18 +3,19 @@
 =l!5 5jh#i(s3                          
 5 5ep5j*ss(p:                          
                                         
-Contents(1/1)                         
+
+Contents(1/1)                         
                                         
                                         
-1.Preamble]P201                      
-2.Scope]P202                         
-3.Basic guidelines]P205              
-4.Inputting rules]P212               
-5.Alternate accounts]P219            
-6.Botting]P223                       
-7.Punishments]P225                   
-8.Cancellation and refunds]P228      
-9.Liquidations]P235                  
+1.Preamble]P801                      
+2.Scope]P802                         
+3.Basic guidelines]P805              
+4.Inputting rules]P812               
+5.Alternate accounts]P819            
+6.Botting]P823                       
+7.Punishments]P825                   
+8.Cancellation and refunds]P828      
+9.Liquidations]P835                  
                                         
                                         
                                         
