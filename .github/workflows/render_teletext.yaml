@@ -31,7 +31,7 @@ jobs:
           git add description/teletext/*
           git add description/teletext/html/*
           git add description/teletext/images/*
-          git commit -am "Updated generated teletext images"
+          git commit -am "Updated generated teletext assets"
           git push
       - name: Upload rendered images
         run: zip -rvj ttxrender.zip description/teletext/images

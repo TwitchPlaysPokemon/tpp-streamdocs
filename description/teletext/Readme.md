@@ -10,7 +10,7 @@ To update the teletext pages, use the included [editor](https://twitchplayspokem
 
 Remember when building a page that the top line will be replaced with the page number and date, so do not use the top line.
 
-To save a page, update the text file in the /description/teletext/pages folder. The naming scheme is important: `P###-title.txt`. The editor can export the page in many formats, but for our purposes, choose Clipboard from the export list. You can paste the contents of your clipboard into the corresponding text file, replacing what was there.
+To save a page, update the text file in the /description/teletext/pages folder. The naming scheme is important: `P###-title.txt`. The editor can export the page in many formats, but for our purposes, click on `raw (0x00-0x7f)` in the export list. This will copy the page in that format into your Clipboard. You can paste the contents of your Clipboard into the corresponding text file, replacing what was there.
 
 After you have made all the relevant updates, commit the txt files to GitHub and send it as a pull request to this repository.
 

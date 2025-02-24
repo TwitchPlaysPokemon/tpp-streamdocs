@@ -61,6 +61,22 @@ async function init_loader(editor) {
         else
             fakepress('Z'); // wipe with confirmation
     });
+
+    document.getElementById("export").addEventListener('click', e=> {
+        if (e.target.href && e.target.href.startsWith("data:text/plain;base64,")) {
+            e.preventDefault();
+            const writeClipboard = () => navigator.clipboard.writeText(text).then(() => alert("Contents copied to clipboard."));
+            const text = atob(e.target.href.replace("data:text/plain;base64,",""));
+            navigator.permissions.query({ name: "clipboard-write" }).then(result => {
+                if (result.state === "granted" || result.state === "prompt")
+                    return writeClipboard();
+                throw "Permission Error";
+            }, writeClipboard).catch(err=>{
+                console.log(text);
+                alert("Do not have permission to write to Clipboard");
+            });
+        }
+    });
 }
 setTimeout(() => init_loader(), 1);
 </script>
