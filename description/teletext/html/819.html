@@ -26,6 +26,8 @@
                 flex-flow: column nowrap;
                 align-items: stretch;
                 justify-content: center;
+                min-height: 100dvh;
+                min-width: 100dvw;
             }
             img {
                 margin: 0.5rem;
@@ -62,11 +64,30 @@
             a:hover {
                 opacity: 1;
             }
+            @media screen and (orientation: portrait) {
+                a, a:link, a:active, a:hover, a:visited {
+                    top: calc(100% - 1em - var(--padding));
+                }
+            }
         </style>
     </head>
     <body>
         <img id="P819" src="../images/819.png" alt="P819: rules"/>
 <a href="818.html" title="P818: rules" id="last"></a>
 <a href="820.html" title="P820: rules" id="next"></a>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha512-UXumZrZNiOwnTcZSHLOfcTs0aos2MzBWHXOHOuB0J/R44QB0dwY5JgfbvljXcklVf65Gc4El6RjZ+lnwd2az2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script>
+            const last = document.getElementById("last");
+            const next = document.getElementById("next");
+            var touchEvents = new Hammer.Manager(document.body, {recognizers: [[Hammer.Swipe, { direction: Hammer.DIRECTION_HORIZONTAL }],]});
+            touchEvents.on("swipe", e=>{
+                switch(e.direction) {
+                    case Hammer.DIRECTION_RIGHT:
+                        return last && last.click();
+                    case Hammer.DIRECTION_LEFT:
+                        return next && next.click();
+                }
+            });
+        </script>
     </body>
 </html>
