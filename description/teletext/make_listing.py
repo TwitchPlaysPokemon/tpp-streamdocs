@@ -70,6 +70,7 @@ for page_filename in page_filenames:
         "image": "images/" + str(page_number) + ".png",
         "data": LoadRaw(path)
     })
+pages.sort(key=lambda p: p["number"])
 
 print("Writing page listing to {}...".format(filepath))
 f = open(filepath, "w")
