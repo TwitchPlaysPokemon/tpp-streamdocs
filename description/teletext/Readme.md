@@ -14,4 +14,6 @@ To save a page, update the text file in the /description/teletext/pages folder. 
 
 After you have made all the relevant updates, commit the txt files to GitHub and send it as a pull request to this repository.
 
-If your local fork has GitHub Actions enabled, the rendered teletext image files and html pages will be updated automatically. There is no need to modify these files. They will be generated anew when the pull request is accepted. 
+If your local fork has GitHub Actions enabled, the rendered teletext image files and html pages will be updated automatically. There is no need to modify these files. They will be generated anew when the pull request is accepted.
+
+Modified pages will not automatically be reflected in the editor until make_listing.py is run. The editor is not loading the txt files directly.
