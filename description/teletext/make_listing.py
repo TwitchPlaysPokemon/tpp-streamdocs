@@ -333,7 +333,7 @@ def make_img(page):
 def make_text(page, local_links = False):
     body = text_convert(bytearray(page["text"][40:].encode('ascii')))
     text = f'  P{page["number"]}  TELETEXT {page["number"]} {datetime.now().isoformat().replace("T"," ").split(".")[0]}\n'
-    text += re.sub(r"([^\s\>])?P(\d\d\d)", rf'<a href="{local_links and "#" or ""}\2{local_links and "" or ".html"}">\1P\2</a>', body)
+    text += re.sub(r"([^\s\>])?P(\d\d\d)", rf'<a href="{local_links and "#P" or ""}\2{not local_links and ".html" or ""}">\1P\2</a>', body)
     text = re.sub(r"(http(s)?://[^\s,\<]*)", r'<a href="\1" target="_blank">\1</a>', text)
     return f'<pre id="P{page["number"]}" >{text}</pre>'
 
@@ -364,7 +364,7 @@ for p in range(len(pages)):
 print("Rules page")
 rules = ""
 for page in [page for page in pages if page["number"] >= 800]:
-    rules += make_text(page) + '\n'
+    rules += make_text(page, local_links=True) + '\n'
 html = disclaimer + template.replace("--PAGE--", rules).replace("--TITLE--", "TPP Rules")
 f = open(os.path.join(html_dir, "rules.html"), "w")
 f.write(html)
