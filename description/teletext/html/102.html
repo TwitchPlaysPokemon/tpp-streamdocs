@@ -28,9 +28,10 @@
                 justify-content: center;
                 min-height: 100dvh;
                 min-width: 100dvw;
+                overflow-x: hidden;
             }
             pre {
-                margin: 0;
+                margin: 0.5rem 0;
                 font-family: "Bedstead", monospace;
                 --rows: 25;
                 --cols: 40;
@@ -41,6 +42,7 @@
                 color: #FFF;
                 font-size: min(calc(var(--max-height)/var(--rows)), calc(var(--max-width)/var(--functional-cols)));
                 line-height: 1;
+                scroll-margin: 0.5rem 0;
             }
             pre span.tall {
                 font-family: "Bedstead-UltraCondensed";
@@ -52,10 +54,11 @@
                 z-index: 1;
             }
             img {
-                margin: 0.5rem;
+                margin: 0.5rem 0;
                 max-height: calc(100dvh - 1rem);
                 max-width: calc(100dvw - 1rem);
                 object-fit: contain;
+                scroll-margin: 0.5rem 0;
             }
             a, a:link, a:active, a:hover, a:visited {
                 text-decoration: none;
@@ -100,7 +103,7 @@
         </style>
     </head>
     <body>
-        <pre id="P102" >  P102  TELETEXT 102 2025-02-25 19:52:08
+        <pre id="P102" >  P102  TELETEXT 102 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(1/1)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>

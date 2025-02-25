@@ -28,9 +28,10 @@
                 justify-content: center;
                 min-height: 100dvh;
                 min-width: 100dvw;
+                overflow-x: hidden;
             }
             pre {
-                margin: 0;
+                margin: 0.5rem 0;
                 font-family: "Bedstead", monospace;
                 --rows: 25;
                 --cols: 40;
@@ -41,6 +42,7 @@
                 color: #FFF;
                 font-size: min(calc(var(--max-height)/var(--rows)), calc(var(--max-width)/var(--functional-cols)));
                 line-height: 1;
+                scroll-margin: 0.5rem 0;
             }
             pre span.tall {
                 font-family: "Bedstead-UltraCondensed";
@@ -52,10 +54,11 @@
                 z-index: 1;
             }
             img {
-                margin: 0.5rem;
+                margin: 0.5rem 0;
                 max-height: calc(100dvh - 1rem);
                 max-width: calc(100dvw - 1rem);
                 object-fit: contain;
+                scroll-margin: 0.5rem 0;
             }
             a, a:link, a:active, a:hover, a:visited {
                 text-decoration: none;
@@ -100,7 +103,7 @@
         </style>
     </head>
     <body>
-        <pre id="P800" >  P800  TELETEXT 800 2025-02-25 19:52:08
+        <pre id="P800" >  P800  TELETEXT 800 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(1/38)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -108,15 +111,15 @@
 <span style="color: #FFF; background-color: #000;"> <span class="tall">Contents</span> (1/1)                         </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">1. </span><span style="color: #FFF; background-color: #000;">Preamble </span><span style="color: #FF0; background-color: #000;"><a href="801.html">→P801</a>                      </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">2. </span><span style="color: #FFF; background-color: #000;">Scope </span><span style="color: #FF0; background-color: #000;"><a href="802.html">→P802</a>                         </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">3. </span><span style="color: #FFF; background-color: #000;">Basic guidelines </span><span style="color: #FF0; background-color: #000;"><a href="805.html">→P805</a>              </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">4. </span><span style="color: #FFF; background-color: #000;">Inputting rules </span><span style="color: #FF0; background-color: #000;"><a href="812.html">→P812</a>               </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">5. </span><span style="color: #FFF; background-color: #000;">Alternate accounts </span><span style="color: #FF0; background-color: #000;"><a href="819.html">→P819</a>            </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">6. </span><span style="color: #FFF; background-color: #000;">Botting </span><span style="color: #FF0; background-color: #000;"><a href="823.html">→P823</a>                       </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">7. </span><span style="color: #FFF; background-color: #000;">Punishments </span><span style="color: #FF0; background-color: #000;"><a href="825.html">→P825</a>                   </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">8. </span><span style="color: #FFF; background-color: #000;">Cancellation and refunds </span><span style="color: #FF0; background-color: #000;"><a href="828.html">→P828</a>      </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">9. </span><span style="color: #FFF; background-color: #000;">Liquidations </span><span style="color: #FF0; background-color: #000;"><a href="835.html">→P835</a>                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">1. </span><span style="color: #FFF; background-color: #000;">Preamble </span><span style="color: #FF0; background-color: #000;"><a href="#P801">→P801</a>                      </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">2. </span><span style="color: #FFF; background-color: #000;">Scope </span><span style="color: #FF0; background-color: #000;"><a href="#P802">→P802</a>                         </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">3. </span><span style="color: #FFF; background-color: #000;">Basic guidelines </span><span style="color: #FF0; background-color: #000;"><a href="#P805">→P805</a>              </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">4. </span><span style="color: #FFF; background-color: #000;">Inputting rules </span><span style="color: #FF0; background-color: #000;"><a href="#P812">→P812</a>               </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">5. </span><span style="color: #FFF; background-color: #000;">Alternate accounts </span><span style="color: #FF0; background-color: #000;"><a href="#P819">→P819</a>            </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">6. </span><span style="color: #FFF; background-color: #000;">Botting </span><span style="color: #FF0; background-color: #000;"><a href="#P823">→P823</a>                       </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">7. </span><span style="color: #FFF; background-color: #000;">Punishments </span><span style="color: #FF0; background-color: #000;"><a href="#P825">→P825</a>                   </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">8. </span><span style="color: #FFF; background-color: #000;">Cancellation and refunds </span><span style="color: #FF0; background-color: #000;"><a href="#P828">→P828</a>      </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #F00; background-color: #000;">9. </span><span style="color: #FFF; background-color: #000;">Liquidations </span><span style="color: #FF0; background-color: #000;"><a href="#P835">→P835</a>                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -126,7 +129,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P801" >  P801  TELETEXT 801 2025-02-25 19:52:08
+<pre id="P801" >  P801  TELETEXT 801 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(2/37)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -147,12 +150,12 @@
 <span style="color: #FFF; background-color: #000;"> (respectfully) user feedback is always </span>
 <span style="color: #FFF; background-color: #000;"> welcome.                               </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="802.html">→P802</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P802">→P802</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P802" >  P802  TELETEXT 802 2025-02-25 19:52:08
+<pre id="P802" >  P802  TELETEXT 802 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(3/37)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -172,13 +175,13 @@
 <span style="color: #FFF; background-color: #000;"> these things if we believe the person  </span>
 <span style="color: #FFF; background-color: #000;"> does not belong in our community.      </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="803.html">→P803</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P803">→P803</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P803" >  P803  TELETEXT 803 2025-02-25 19:52:08
+<pre id="P803" >  P803  TELETEXT 803 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(4/37)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -196,7 +199,7 @@
 <span style="color: #FFF; background-color: #000;"> determine your conduct also violates   </span>
 <span style="color: #FFF; background-color: #000;"> stream rules.                          </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="804.html">→P804</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P804">→P804</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -204,7 +207,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P804" >  P804  TELETEXT 804 2025-02-25 19:52:08
+<pre id="P804" >  P804  TELETEXT 804 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(5/37)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -218,7 +221,7 @@
 <span style="color: #FFF; background-color: #000;"> and we may issue punishments to enforce</span>
 <span style="color: #FFF; background-color: #000;"> said guidelines.                       </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="805.html">→P805</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P805">→P805</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -230,7 +233,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P805" >  P805  TELETEXT 805 2025-02-25 19:52:08
+<pre id="P805" >  P805  TELETEXT 805 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(6/37)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -250,13 +253,13 @@
 <span style="color: #FFF; background-color: #000;"> * * Don't advertise things without mod </span>
 <span style="color: #FFF; background-color: #000;">   permission.                          </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="806.html">→P806</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P806">→P806</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P806" >  P806  TELETEXT 806 2025-02-25 19:52:08
+<pre id="P806" >  P806  TELETEXT 806 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(7/37)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -279,10 +282,10 @@
 <span style="color: #FFF; background-color: #000;">   nice and respectful towards each     </span>
 <span style="color: #FFF; background-color: #000;">   other.                               </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="807.html">→P807</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P807">→P807</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P807" >  P807  TELETEXT 807 2025-02-25 19:52:08
+<pre id="P807" >  P807  TELETEXT 807 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(8/37)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -300,7 +303,7 @@
 <span style="color: #FFF; background-color: #000;">   and excessive, or derogatory insults </span>
 <span style="color: #FFF; background-color: #000;">   or taunting.                         </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="808.html">→P808</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P808">→P808</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -308,7 +311,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P808" >  P808  TELETEXT 808 2025-02-25 19:52:08
+<pre id="P808" >  P808  TELETEXT 808 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(9/37)                   </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -330,11 +333,11 @@
 <span style="color: #FFF; background-color: #000;">   don't write anything graphic or      </span>
 <span style="color: #FFF; background-color: #000;">   exceedingly shocking.                </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="809.html">→P809</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P809">→P809</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P809" >  P809  TELETEXT 809 2025-02-25 19:52:08
+<pre id="P809" >  P809  TELETEXT 809 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(10/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -347,7 +350,7 @@
 <span style="color: #FFF; background-color: #000;">   minimum, because we can't reliably   </span>
 <span style="color: #FFF; background-color: #000;">   moderate them.                       </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="810.html">→P810</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P810">→P810</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -360,7 +363,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P810" >  P810  TELETEXT 810 2025-02-25 19:52:08
+<pre id="P810" >  P810  TELETEXT 810 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(11/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -380,13 +383,13 @@
 <span style="color: #FFF; background-color: #000;">   channels. There's no need to incite  </span>
 <span style="color: #FFF; background-color: #000;">   public drama by doing so.            </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="811.html">→P811</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P811">→P811</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P811" >  P811  TELETEXT 811 2025-02-25 19:52:08
+<pre id="P811" >  P811  TELETEXT 811 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(12/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -404,7 +407,7 @@
 <span style="color: #FFF; background-color: #000;">   covered by these rules if the need   </span>
 <span style="color: #FFF; background-color: #000;">   arises.                              </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="812.html">→P812</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P812">→P812</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -412,7 +415,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P812" >  P812  TELETEXT 812 2025-02-25 19:52:08
+<pre id="P812" >  P812  TELETEXT 812 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(13/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -430,7 +433,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;"> Of course, there are some exceptions:  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="813.html">→P813</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P813">→P813</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -438,7 +441,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P813" >  P813  TELETEXT 813 2025-02-25 19:52:08
+<pre id="P813" >  P813  TELETEXT 813 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(14/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -456,7 +459,7 @@
 <span style="color: #FFF; background-color: #000;">   admin or operator gives explicit     </span>
 <span style="color: #FFF; background-color: #000;">   permission.                          </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="814.html">→P814</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P814">→P814</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -464,7 +467,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P814" >  P814  TELETEXT 814 2025-02-25 19:52:08
+<pre id="P814" >  P814  TELETEXT 814 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(15/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -487,10 +490,10 @@
 <span style="color: #FFF; background-color: #000;">   appropriate timings and punishments  </span>
 <span style="color: #FFF; background-color: #000;">   for each case.                       </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="815.html">→P815</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P815">→P815</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P815" >  P815  TELETEXT 815 2025-02-25 19:52:08
+<pre id="P815" >  P815  TELETEXT 815 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(16/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -507,7 +510,7 @@
 <span style="color: #FFF; background-color: #000;">   them in chat and the offending text  </span>
 <span style="color: #FFF; background-color: #000;">   will be deleted.                     </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="816.html">→P816</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P816">→P816</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -516,7 +519,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P816" >  P816  TELETEXT 816 2025-02-25 19:52:08
+<pre id="P816" >  P816  TELETEXT 816 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(17/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -537,12 +540,12 @@
 <span style="color: #FFF; background-color: #000;">   * Don't draw out the length of a     </span>
 <span style="color: #FFF; background-color: #000;">   match for no good reason.            </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="817.html">→P817</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P817">→P817</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P817" >  P817  TELETEXT 817 2025-02-25 19:52:08
+<pre id="P817" >  P817  TELETEXT 817 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(18/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -560,7 +563,7 @@
 <span style="color: #FFF; background-color: #000;">   perceived intent of the inputs is    </span>
 <span style="color: #FFF; background-color: #000;">   what will determine the punishments. </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="818.html">→P818</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P818">→P818</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -568,7 +571,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P818" >  P818  TELETEXT 818 2025-02-25 19:52:08
+<pre id="P818" >  P818  TELETEXT 818 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(19/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -588,13 +591,13 @@
 <span style="color: #FFF; background-color: #000;">   necessary by mod discretion due to   </span>
 <span style="color: #FFF; background-color: #000;">   severity or repetition.              </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="819.html">→P819</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P819">→P819</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P819" >  P819  TELETEXT 819 2025-02-25 19:52:08
+<pre id="P819" >  P819  TELETEXT 819 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(20/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -617,10 +620,10 @@
 <span style="color: #FFF; background-color: #000;">   unregistered alt on sight, even if   </span>
 <span style="color: #FFF; background-color: #000;">   it's not doing anything wrong.       </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="820.html">→P820</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P820">→P820</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P820" >  P820  TELETEXT 820 2025-02-25 19:52:08
+<pre id="P820" >  P820  TELETEXT 820 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(21/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -641,12 +644,12 @@
 <span style="color: #FFF; background-color: #000;">   unreasonable number of alts just for </span>
 <span style="color: #FFF; background-color: #000;">   the sake of it.                      </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="821.html">→P821</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P821">→P821</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P821" >  P821  TELETEXT 821 2025-02-25 19:52:08
+<pre id="P821" >  P821  TELETEXT 821 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(22/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -668,11 +671,11 @@
 <span style="color: #FFF; background-color: #000;">   bot automatically handles this rule  </span>
 <span style="color: #FFF; background-color: #000;">   for registered alts.                 </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="822.html">→P822</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P822">→P822</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P822" >  P822  TELETEXT 822 2025-02-25 19:52:08
+<pre id="P822" >  P822  TELETEXT 822 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(23/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -687,7 +690,7 @@
 <span style="color: #FFF; background-color: #000;">   may induce heavier punishments for   </span>
 <span style="color: #FFF; background-color: #000;">   your main account.                   </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="823.html">→P823</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P823">→P823</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -698,7 +701,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P823" >  P823  TELETEXT 823 2025-02-25 19:52:08
+<pre id="P823" >  P823  TELETEXT 823 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(24/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -719,12 +722,12 @@
 <span style="color: #FFF; background-color: #000;"> rewards before it was discovered, it   </span>
 <span style="color: #FFF; background-color: #000;"> will be liquidated.                    </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="824.html">→P824</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P824">→P824</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P824" >  P824  TELETEXT 824 2025-02-25 19:52:08
+<pre id="P824" >  P824  TELETEXT 824 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(25/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -743,14 +746,14 @@
 <span style="color: #FFF; background-color: #000;"> The only exception to this is          </span>
 <span style="color: #FFF; background-color: #000;"> tppsimulator.                          </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="825.html">→P825</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P825">→P825</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P825" >  P825  TELETEXT 825 2025-02-25 19:52:08
+<pre id="P825" >  P825  TELETEXT 825 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(26/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -772,11 +775,11 @@
 <span style="color: #FFF; background-color: #000;"> other items or we may extend your      </span>
 <span style="color: #FFF; background-color: #000;"> timeout.                               </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="826.html">→P826</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P826">→P826</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P826" >  P826  TELETEXT 826 2025-02-25 19:52:08
+<pre id="P826" >  P826  TELETEXT 826 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(27/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -793,7 +796,7 @@
 <span style="color: #FFF; background-color: #000;"> * Advertising or excessive spam within </span>
 <span style="color: #FFF; background-color: #000;">   the first few messages.              </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="827.html">→P827</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P827">→P827</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -802,7 +805,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P827" >  P827  TELETEXT 827 2025-02-25 19:52:08
+<pre id="P827" >  P827  TELETEXT 827 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(28/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -823,12 +826,12 @@
 <span style="color: #FFF; background-color: #000;"> available after a cooldown period after</span>
 <span style="color: #FFF; background-color: #000;"> your ban.                              </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="828.html">→P828</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P828">→P828</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P828" >  P828  TELETEXT 828 2025-02-25 19:52:08
+<pre id="P828" >  P828  TELETEXT 828 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(29/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -846,7 +849,7 @@
 <span style="color: #FFF; background-color: #000;"> Defiance or Metronome), then it will be</span>
 <span style="color: #FFF; background-color: #000;"> replayed from the start instead.       </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="829.html">→P829</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P829">→P829</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -854,7 +857,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P829" >  P829  TELETEXT 829 2025-02-25 19:52:08
+<pre id="P829" >  P829  TELETEXT 829 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(30/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -873,14 +876,14 @@
 <span style="color: #FFF; background-color: #000;"> section, altered the outcome of the    </span>
 <span style="color: #FFF; background-color: #000;"> match                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="830.html">→P830</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P830">→P830</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P830" >  P830  TELETEXT 830 2025-02-25 19:52:08
+<pre id="P830" >  P830  TELETEXT 830 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(31/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -901,12 +904,12 @@
 <span style="color: #FFF; background-color: #000;"> recorded as a win for that side (and   </span>
 <span style="color: #FFF; background-color: #000;"> balances will be adjusted accordingly).</span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="831.html">→P831</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P831">→P831</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P831" >  P831  TELETEXT 831 2025-02-25 19:52:08
+<pre id="P831" >  P831  TELETEXT 831 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(32/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -923,7 +926,7 @@
 <span style="color: #FFF; background-color: #000;"> further balance adjustments may be     </span>
 <span style="color: #FFF; background-color: #000;"> made.                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="832.html">→P832</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P832">→P832</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -932,7 +935,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P832" >  P832  TELETEXT 832 2025-02-25 19:52:08
+<pre id="P832" >  P832  TELETEXT 832 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(33/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -952,13 +955,13 @@
 <span style="color: #FFF; background-color: #000;">   then tokens will be refunded for the </span>
 <span style="color: #FFF; background-color: #000;">   bid.                                 </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="833.html">→P833</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P833">→P833</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P833" >  P833  TELETEXT 833 2025-02-25 19:52:08
+<pre id="P833" >  P833  TELETEXT 833 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(34/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -980,11 +983,11 @@
 <span style="color: #FFF; background-color: #000;">   lower score due to a glitch, tokens  </span>
 <span style="color: #FFF; background-color: #000;">   will be issued for the higher score. </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="834.html">→P834</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P834">→P834</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P834" >  P834  TELETEXT 834 2025-02-25 19:52:08
+<pre id="P834" >  P834  TELETEXT 834 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(35/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -999,7 +1002,7 @@
 <span style="color: #FFF; background-color: #000;"> if you think you are entitled to a     </span>
 <span style="color: #FFF; background-color: #000;"> refund.                                </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="835.html">→P835</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P835">→P835</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
@@ -1010,7 +1013,7 @@
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P835" >  P835  TELETEXT 835 2025-02-25 19:52:08
+<pre id="P835" >  P835  TELETEXT 835 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(36/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
@@ -1031,12 +1034,12 @@
 <span style="color: #FFF; background-color: #000;"> the user an opportunity to change their</span>
 <span style="color: #FFF; background-color: #000;"> minds.                                 </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
-<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="836.html">→P836</a>                                  </span>
+<span style="color: #FFF; background-color: #000;"> </span><span style="color: #FF0; background-color: #000;"><a href="#P836">→P836</a>                                  </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 <span style="color: #FFF; background-color: #000;">                                        </span>
 </pre>
-<pre id="P836" >  P836  TELETEXT 836 2025-02-25 19:52:08
+<pre id="P836" >  P836  TELETEXT 836 2025-02-25 20:07:30
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;">(37/37)                  </span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
