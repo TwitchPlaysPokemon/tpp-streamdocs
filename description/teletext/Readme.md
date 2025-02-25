@@ -10,10 +10,12 @@ To update the teletext pages, use the included [editor](https://twitchplayspokem
 
 Remember when building a page that the top line will be replaced with the page number and date, so do not use the top line.
 
-To save a page, update the text file in the /description/teletext/pages folder. The naming scheme is important: `P###-title.txt`. The editor can export the page in many formats, but for our purposes, click on `raw (0x00-0x7f)` in the export list. This will copy the page in that format into your Clipboard. You can paste the contents of your Clipboard into the corresponding text file, replacing what was there.
+To save a page, update the text file in the /description/teletext/pages folder. The naming scheme is important: `P###-title.x7f`. The editor can export the page in many formats. For our purposes, click on `raw (0x00-0x7f)` in the export list. This will let you download a `.x7f` file. Overwrite the original file with the new file.
+
+**NOTE:** Editing the file with a text editor can break double-height text. Always use the edit.tf editor, and always overwrite the files with the new versions.
 
 After you have made all the relevant updates, commit the txt files to GitHub and send it as a pull request to this repository.
 
 If your local fork has GitHub Actions enabled, the rendered teletext image files and html pages will be updated automatically. There is no need to modify these files. They will be generated anew when the pull request is accepted.
 
-Modified pages will not automatically be reflected in the editor until make_listing.py is run. The editor is not loading the txt files directly.
+Modified pages will not automatically be reflected in the editor until make_listing.py is run. The editor is not loading the x7f files directly.

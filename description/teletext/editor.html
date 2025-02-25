@@ -49,13 +49,16 @@ async function init_loader(editor) {
     const selector = document.getElementById("page-selector");
     pages.forEach(p=>{
         const option = document.createElement("option");
-        option.value = p.data;
+        option.value = p.number + "?" + p.name + "?" + p.data;
         option.innerText = `P${p.number}: ${p.name}`;
         selector.appendChild(option);
     });
     selector.addEventListener('change', ()=>{
         if (selector.value) {
-            active_editor.load(selector.value);
+            const values = selector.value.split('?');
+            document.getElementById("page-number").value = values.shift();
+            document.getElementById("page-name").value = values.shift().replace(/-/g,' ');
+            active_editor.load(values.pop());
             fakepress('z'); // redraws the screen
         }
         else
@@ -63,19 +66,13 @@ async function init_loader(editor) {
     });
 
     document.getElementById("export").addEventListener('click', e=> {
-        if (e.target.href && e.target.href.startsWith("data:text/plain;base64,")) {
-            e.preventDefault();
-            const writeClipboard = () => navigator.clipboard.writeText(text).then(() => alert("Contents copied to clipboard."));
-            const text = atob(e.target.href.replace("data:text/plain;base64,",""));
-            navigator.permissions.query({ name: "clipboard-write" }).then(result => {
-                if (result.state === "granted" || result.state === "prompt")
-                    return writeClipboard();
-                throw "Permission Error";
-            }, writeClipboard).catch(err=>{
-                console.log(text);
-                alert("Do not have permission to write to Clipboard");
-            });
-        }
+        if (e.target.href && e.target.href.startsWith("data:text/plain;base64,")) 
+            e.target.setAttribute(
+                "download",
+                "P" + document.getElementById('page-number').value + 
+                "-" + document.getElementById('page-name').value.replace(/[^A-Z0-9]/ig,'-') +
+                "." + e.target.innerText.replace(/[^A-Z0-9]/ig,'').slice(-3)
+            );
     });
 }
 setTimeout(() => init_loader(), 1);
@@ -114,6 +111,9 @@ div.b {
 	position: relative;
 }
 
+#page-number {
+    width: 4em;
+}
 
 /* hints toolbar ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~  */
 
@@ -501,11 +501,18 @@ div.exportbox {
 
 <tr><th colspan="2" class="note">The teletext data (your work) is all in the web browser's<br>address bar. To save or share: bookmark, email, etc.</th></tr>
 <tr><td colspan="2" class="note">
-<div id="load-pages">
+    <div id="load-pages">
         <label>Load page:</label>
         <select id="page-selector">
             <option value="">Clear Screen</option>
         </select>
+    </div>
+    <div id="page-meta">
+        <label>Page Number:</label>
+        <input id="page-number" maxlength="3" min="100" type="number"/>
+        &nbsp;
+        <label>Name:</label>
+        <input id="page-name" type="text"/>
     </div>
 </td></tr>
 </table>
