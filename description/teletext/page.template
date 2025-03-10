@@ -70,9 +70,6 @@
                 text-decoration: none;
                 color: inherit;
             }
-            a:not(.nav):hover {
-                text-decoration: underline;
-            }
             a.nav, a.nav:link, a.nav:active, a.nav:hover, a.nav:visited {
                 --padding: 0.1em;
                 font-family: "Bedstead-Ultracondensed", monospace;
@@ -95,11 +92,16 @@
             a.nav#next::after {
                 content:'>'
             }
-            body:hover a.nav {
-                opacity: 0.4;
-            }
-            a.nav:hover {
-                opacity: 1;
+            @media screen and (any-hover: hover) {
+                a:not(.nav):hover {
+                    text-decoration: underline;
+                }
+                body:hover a.nav {
+                    opacity: 0.4;
+                }
+                a.nav:hover {
+                    opacity: 1;
+                }
             }
             @media screen and (orientation: portrait) {
                 a.nav {
