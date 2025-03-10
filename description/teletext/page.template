@@ -2,6 +2,12 @@
 <html>
     <head>
         <title>--TITLE--</title>
+        <meta property="og:title" content="--TITLE--" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url"   content="https://twitchplayspokemon.github.io/tpp-streamdocs/description/teletext/html/--NUMBER--.html" />
+        <meta property="og:image" content="https://twitchplayspokemon.github.io/tpp-streamdocs/description/teletext/images/--NUMBER--.png" />
+        <meta property="og:description" content="--TITLE--" />
+        <meta name="twitter:card" content="summary_large_image">
         <style>
             @font-face {
                 font-family: "Bedstead";
@@ -56,6 +62,9 @@
                 max-width: calc(100dvw - 1rem);
                 object-fit: contain;
                 scroll-margin: 0.5rem 0;
+            }
+            pre + img {
+                display: none;
             }
             a, a:link, a:active, a:hover, a:visited {
                 text-decoration: none;

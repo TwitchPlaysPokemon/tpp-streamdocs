@@ -349,15 +349,15 @@ for p in range(len(pages)):
     page = pages[p]
     title = make_title(page)
     print(title)
-    # img = make_img(page)
     img = make_text(page)
+    img += make_img(page)
     if p > 0:
         lastpage = pages[p - 1]
         img += f'\n<a href="{lastpage["number"]}.html" class="nav" title="{make_title(lastpage)}" id="last"></a>'
     if p + 1 < len(pages):
         nextpage = pages[p + 1]
         img += f'\n<a href="{nextpage["number"]}.html" class="nav" title="{make_title(nextpage)}" id="next"></a>'
-    html = disclaimer + template.replace("--PAGE--", img).replace("--TITLE--", title)
+    html = disclaimer + template.replace("--PAGE--", img).replace("--TITLE--", title).replace("--NUMBER--", str(page["number"]))
     f = open(os.path.join(html_dir, str(page["number"]) + ".html"), "w")
     f.write(html)
     f.close()    
@@ -365,7 +365,7 @@ print("Rules page")
 rules = ""
 for page in [page for page in pages if page["number"] >= 800]:
     rules += make_text(page, local_links=True) + '\n'
-html = disclaimer + template.replace("--PAGE--", rules).replace("--TITLE--", "TPP Rules")
+html = disclaimer + template.replace("--PAGE--", rules).replace("--TITLE--", "TPP Rules").replace("--NUMBER--", "rules").replace("rules.png", "combined_image.png")
 f = open(os.path.join(html_dir, "rules.html"), "w")
 f.write(html)
 f.close()
