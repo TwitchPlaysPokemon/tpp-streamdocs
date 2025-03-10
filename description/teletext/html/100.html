@@ -73,9 +73,6 @@
                 text-decoration: none;
                 color: inherit;
             }
-            a:not(.nav):hover {
-                text-decoration: underline;
-            }
             a.nav, a.nav:link, a.nav:active, a.nav:hover, a.nav:visited {
                 --padding: 0.1em;
                 font-family: "Bedstead-Ultracondensed", monospace;
@@ -98,11 +95,16 @@
             a.nav#next::after {
                 content:'>'
             }
-            body:hover a.nav {
-                opacity: 0.4;
-            }
-            a.nav:hover {
-                opacity: 1;
+            @media screen and (any-hover: hover) {
+                a:not(.nav):hover {
+                    text-decoration: underline;
+                }
+                body:hover a.nav {
+                    opacity: 0.4;
+                }
+                a.nav:hover {
+                    opacity: 1;
+                }
             }
             @media screen and (orientation: portrait) {
                 a.nav {
@@ -112,7 +114,7 @@
         </style>
     </head>
     <body>
-        <pre id="P100" >  P100  TELETEXT 100 2025-03-10 19:01:26
+        <pre id="P100" >  P100  TELETEXT 100 2025-03-10 19:16:18
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
 <span style="color: #FFF; background-color: #000;"> </span><span style="color: #FFF; background-color: #000;"></span>
