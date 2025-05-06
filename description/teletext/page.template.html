@@ -114,6 +114,7 @@
         --PAGE--
         <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha512-UXumZrZNiOwnTcZSHLOfcTs0aos2MzBWHXOHOuB0J/R44QB0dwY5JgfbvljXcklVf65Gc4El6RjZ+lnwd2az2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>
+            const validPages = "--VALIDPAGES--".split(',');
             const last = document.getElementById("last");
             const next = document.getElementById("next");
             var touchEvents = new Hammer.Manager(document.body, {recognizers: [[Hammer.Swipe, { direction: Hammer.DIRECTION_HORIZONTAL }],]});
@@ -123,6 +124,39 @@
                         return last && last.click();
                     case Hammer.DIRECTION_LEFT:
                         return next && next.click();
+                }
+            });
+            let pageNumberBuffer = "";
+            window.addEventListener("keydown", e=> {
+                switch(e.key) {
+                    case "ArrowLeft":
+                        return last && last.click();
+                    case "ArrowRight":
+                        return next && next.click();
+                }
+            });
+            window.addEventListener("keypress", e=>{
+                switch(e.key) {
+                    case "0":
+                    case "1":
+                    case "2":
+                    case "3":
+                    case "4":
+                    case "5":
+                    case "6":
+                    case "7":
+                    case "8":
+                    case "9":
+                        pageNumberBuffer += e.key;
+                        while (pageNumberBuffer.length > 3)
+                            pageNumberBuffer = pageNumberBuffer.slice(1);
+                        if (validPages.includes(pageNumberBuffer))
+                            location.href = location.href.replace(/[^\/]+\.html/,`${pageNumberBuffer}.html`);
+                        return;
+                    case "P":
+                    case "p":
+                        // Start new code entry
+                        return pageNumberBuffer = "";
                 }
             });
         </script>
